@@ -1,0 +1,4102 @@
+
+-------------Starting epoch 0------------- : 
+
+-------------Starting epoch 0------------- : 
+
+-------------Starting epoch 0------------- : 
+
+-------------Starting epoch 0------------- : 
+
+-------------Starting epoch 0------------- : 
+
+-------------Starting epoch 0------------- : 
+
+-------------Starting epoch 0------------- : 
+
+-------------Starting epoch 0------------- : 
+
+-------------Starting epoch 0------------- : 
+
+-------------Starting epoch 0------------- : 
+
+-------------Starting epoch 0------------- : 
+
+-------------Starting epoch 0------------- : 
+
+-------------Starting epoch 0------------- : 
+
+-------------Starting epoch 0------------- : 
+
+-------------Starting epoch 0------------- : 
+
+-------------Starting epoch 0------------- : 
+
+-------------Starting epoch 0------------- : 
+
+-------------Starting epoch 0------------- : 
+
+-------------Starting epoch 0------------- : 
+
+-------------Starting epoch 0------------- : 
+Epoch 99 Batch 19 Loss 0.63 error 18.00% 
+
+-------------Starting epoch 1------------- : 
+
+-------------Starting epoch 1------------- : 
+
+-------------Starting epoch 1------------- : 
+
+-------------Starting epoch 1------------- : 
+
+-------------Starting epoch 1------------- : 
+
+-------------Starting epoch 1------------- : 
+
+-------------Starting epoch 1------------- : 
+
+-------------Starting epoch 1------------- : 
+
+-------------Starting epoch 1------------- : 
+
+-------------Starting epoch 1------------- : 
+
+-------------Starting epoch 1------------- : 
+
+-------------Starting epoch 1------------- : 
+
+-------------Starting epoch 1------------- : 
+
+-------------Starting epoch 1------------- : 
+
+-------------Starting epoch 1------------- : 
+
+-------------Starting epoch 1------------- : 
+
+-------------Starting epoch 1------------- : 
+
+-------------Starting epoch 1------------- : 
+
+-------------Starting epoch 1------------- : 
+
+-------------Starting epoch 1------------- : 
+Epoch 99 Batch 19 Loss 0.49 error 18.00% 
+
+-------------Starting epoch 2------------- : 
+
+-------------Starting epoch 2------------- : 
+
+-------------Starting epoch 2------------- : 
+
+-------------Starting epoch 2------------- : 
+
+-------------Starting epoch 2------------- : 
+
+-------------Starting epoch 2------------- : 
+
+-------------Starting epoch 2------------- : 
+
+-------------Starting epoch 2------------- : 
+
+-------------Starting epoch 2------------- : 
+
+-------------Starting epoch 2------------- : 
+
+-------------Starting epoch 2------------- : 
+
+-------------Starting epoch 2------------- : 
+
+-------------Starting epoch 2------------- : 
+
+-------------Starting epoch 2------------- : 
+
+-------------Starting epoch 2------------- : 
+
+-------------Starting epoch 2------------- : 
+
+-------------Starting epoch 2------------- : 
+
+-------------Starting epoch 2------------- : 
+
+-------------Starting epoch 2------------- : 
+
+-------------Starting epoch 2------------- : 
+Epoch 99 Batch 19 Loss 0.25 error 4.00% 
+
+-------------Starting epoch 3------------- : 
+
+-------------Starting epoch 3------------- : 
+
+-------------Starting epoch 3------------- : 
+
+-------------Starting epoch 3------------- : 
+
+-------------Starting epoch 3------------- : 
+
+-------------Starting epoch 3------------- : 
+
+-------------Starting epoch 3------------- : 
+
+-------------Starting epoch 3------------- : 
+
+-------------Starting epoch 3------------- : 
+
+-------------Starting epoch 3------------- : 
+
+-------------Starting epoch 3------------- : 
+
+-------------Starting epoch 3------------- : 
+
+-------------Starting epoch 3------------- : 
+
+-------------Starting epoch 3------------- : 
+
+-------------Starting epoch 3------------- : 
+
+-------------Starting epoch 3------------- : 
+
+-------------Starting epoch 3------------- : 
+
+-------------Starting epoch 3------------- : 
+
+-------------Starting epoch 3------------- : 
+
+-------------Starting epoch 3------------- : 
+Epoch 99 Batch 19 Loss 0.30 error 12.00% 
+
+-------------Starting epoch 4------------- : 
+
+-------------Starting epoch 4------------- : 
+
+-------------Starting epoch 4------------- : 
+
+-------------Starting epoch 4------------- : 
+
+-------------Starting epoch 4------------- : 
+
+-------------Starting epoch 4------------- : 
+
+-------------Starting epoch 4------------- : 
+
+-------------Starting epoch 4------------- : 
+
+-------------Starting epoch 4------------- : 
+
+-------------Starting epoch 4------------- : 
+
+-------------Starting epoch 4------------- : 
+
+-------------Starting epoch 4------------- : 
+
+-------------Starting epoch 4------------- : 
+
+-------------Starting epoch 4------------- : 
+
+-------------Starting epoch 4------------- : 
+
+-------------Starting epoch 4------------- : 
+
+-------------Starting epoch 4------------- : 
+
+-------------Starting epoch 4------------- : 
+
+-------------Starting epoch 4------------- : 
+
+-------------Starting epoch 4------------- : 
+Epoch 99 Batch 19 Loss 0.14 error 2.00% 
+
+-------------Starting epoch 5------------- : 
+
+-------------Starting epoch 5------------- : 
+
+-------------Starting epoch 5------------- : 
+
+-------------Starting epoch 5------------- : 
+
+-------------Starting epoch 5------------- : 
+
+-------------Starting epoch 5------------- : 
+
+-------------Starting epoch 5------------- : 
+
+-------------Starting epoch 5------------- : 
+
+-------------Starting epoch 5------------- : 
+
+-------------Starting epoch 5------------- : 
+
+-------------Starting epoch 5------------- : 
+
+-------------Starting epoch 5------------- : 
+
+-------------Starting epoch 5------------- : 
+
+-------------Starting epoch 5------------- : 
+
+-------------Starting epoch 5------------- : 
+
+-------------Starting epoch 5------------- : 
+
+-------------Starting epoch 5------------- : 
+
+-------------Starting epoch 5------------- : 
+
+-------------Starting epoch 5------------- : 
+
+-------------Starting epoch 5------------- : 
+Epoch 99 Batch 19 Loss 0.15 error 6.00% 
+
+-------------Starting epoch 6------------- : 
+
+-------------Starting epoch 6------------- : 
+
+-------------Starting epoch 6------------- : 
+
+-------------Starting epoch 6------------- : 
+
+-------------Starting epoch 6------------- : 
+
+-------------Starting epoch 6------------- : 
+
+-------------Starting epoch 6------------- : 
+
+-------------Starting epoch 6------------- : 
+
+-------------Starting epoch 6------------- : 
+
+-------------Starting epoch 6------------- : 
+
+-------------Starting epoch 6------------- : 
+
+-------------Starting epoch 6------------- : 
+
+-------------Starting epoch 6------------- : 
+
+-------------Starting epoch 6------------- : 
+
+-------------Starting epoch 6------------- : 
+
+-------------Starting epoch 6------------- : 
+
+-------------Starting epoch 6------------- : 
+
+-------------Starting epoch 6------------- : 
+
+-------------Starting epoch 6------------- : 
+
+-------------Starting epoch 6------------- : 
+Epoch 99 Batch 19 Loss 0.12 error 4.00% 
+
+-------------Starting epoch 7------------- : 
+
+-------------Starting epoch 7------------- : 
+
+-------------Starting epoch 7------------- : 
+
+-------------Starting epoch 7------------- : 
+
+-------------Starting epoch 7------------- : 
+
+-------------Starting epoch 7------------- : 
+
+-------------Starting epoch 7------------- : 
+
+-------------Starting epoch 7------------- : 
+
+-------------Starting epoch 7------------- : 
+
+-------------Starting epoch 7------------- : 
+
+-------------Starting epoch 7------------- : 
+
+-------------Starting epoch 7------------- : 
+
+-------------Starting epoch 7------------- : 
+
+-------------Starting epoch 7------------- : 
+
+-------------Starting epoch 7------------- : 
+
+-------------Starting epoch 7------------- : 
+
+-------------Starting epoch 7------------- : 
+
+-------------Starting epoch 7------------- : 
+
+-------------Starting epoch 7------------- : 
+
+-------------Starting epoch 7------------- : 
+Epoch 99 Batch 19 Loss 0.14 error 8.00% 
+
+-------------Starting epoch 8------------- : 
+
+-------------Starting epoch 8------------- : 
+
+-------------Starting epoch 8------------- : 
+
+-------------Starting epoch 8------------- : 
+
+-------------Starting epoch 8------------- : 
+
+-------------Starting epoch 8------------- : 
+
+-------------Starting epoch 8------------- : 
+
+-------------Starting epoch 8------------- : 
+
+-------------Starting epoch 8------------- : 
+
+-------------Starting epoch 8------------- : 
+
+-------------Starting epoch 8------------- : 
+
+-------------Starting epoch 8------------- : 
+
+-------------Starting epoch 8------------- : 
+
+-------------Starting epoch 8------------- : 
+
+-------------Starting epoch 8------------- : 
+
+-------------Starting epoch 8------------- : 
+
+-------------Starting epoch 8------------- : 
+
+-------------Starting epoch 8------------- : 
+
+-------------Starting epoch 8------------- : 
+
+-------------Starting epoch 8------------- : 
+Epoch 99 Batch 19 Loss 0.13 error 6.00% 
+
+-------------Starting epoch 9------------- : 
+
+-------------Starting epoch 9------------- : 
+
+-------------Starting epoch 9------------- : 
+
+-------------Starting epoch 9------------- : 
+
+-------------Starting epoch 9------------- : 
+
+-------------Starting epoch 9------------- : 
+
+-------------Starting epoch 9------------- : 
+
+-------------Starting epoch 9------------- : 
+
+-------------Starting epoch 9------------- : 
+
+-------------Starting epoch 9------------- : 
+
+-------------Starting epoch 9------------- : 
+
+-------------Starting epoch 9------------- : 
+
+-------------Starting epoch 9------------- : 
+
+-------------Starting epoch 9------------- : 
+
+-------------Starting epoch 9------------- : 
+
+-------------Starting epoch 9------------- : 
+
+-------------Starting epoch 9------------- : 
+
+-------------Starting epoch 9------------- : 
+
+-------------Starting epoch 9------------- : 
+
+-------------Starting epoch 9------------- : 
+Epoch 99 Batch 19 Loss 0.07 error 0.00% 
+
+-------------Starting epoch 10------------- : 
+
+-------------Starting epoch 10------------- : 
+
+-------------Starting epoch 10------------- : 
+
+-------------Starting epoch 10------------- : 
+
+-------------Starting epoch 10------------- : 
+
+-------------Starting epoch 10------------- : 
+
+-------------Starting epoch 10------------- : 
+
+-------------Starting epoch 10------------- : 
+
+-------------Starting epoch 10------------- : 
+
+-------------Starting epoch 10------------- : 
+
+-------------Starting epoch 10------------- : 
+
+-------------Starting epoch 10------------- : 
+
+-------------Starting epoch 10------------- : 
+
+-------------Starting epoch 10------------- : 
+
+-------------Starting epoch 10------------- : 
+
+-------------Starting epoch 10------------- : 
+
+-------------Starting epoch 10------------- : 
+
+-------------Starting epoch 10------------- : 
+
+-------------Starting epoch 10------------- : 
+
+-------------Starting epoch 10------------- : 
+Epoch 99 Batch 19 Loss 0.14 error 6.00% 
+
+-------------Starting epoch 11------------- : 
+
+-------------Starting epoch 11------------- : 
+
+-------------Starting epoch 11------------- : 
+
+-------------Starting epoch 11------------- : 
+
+-------------Starting epoch 11------------- : 
+
+-------------Starting epoch 11------------- : 
+
+-------------Starting epoch 11------------- : 
+
+-------------Starting epoch 11------------- : 
+
+-------------Starting epoch 11------------- : 
+
+-------------Starting epoch 11------------- : 
+
+-------------Starting epoch 11------------- : 
+
+-------------Starting epoch 11------------- : 
+
+-------------Starting epoch 11------------- : 
+
+-------------Starting epoch 11------------- : 
+
+-------------Starting epoch 11------------- : 
+
+-------------Starting epoch 11------------- : 
+
+-------------Starting epoch 11------------- : 
+
+-------------Starting epoch 11------------- : 
+
+-------------Starting epoch 11------------- : 
+
+-------------Starting epoch 11------------- : 
+Epoch 99 Batch 19 Loss 0.14 error 6.00% 
+
+-------------Starting epoch 12------------- : 
+
+-------------Starting epoch 12------------- : 
+
+-------------Starting epoch 12------------- : 
+
+-------------Starting epoch 12------------- : 
+
+-------------Starting epoch 12------------- : 
+
+-------------Starting epoch 12------------- : 
+
+-------------Starting epoch 12------------- : 
+
+-------------Starting epoch 12------------- : 
+
+-------------Starting epoch 12------------- : 
+
+-------------Starting epoch 12------------- : 
+
+-------------Starting epoch 12------------- : 
+
+-------------Starting epoch 12------------- : 
+
+-------------Starting epoch 12------------- : 
+
+-------------Starting epoch 12------------- : 
+
+-------------Starting epoch 12------------- : 
+
+-------------Starting epoch 12------------- : 
+
+-------------Starting epoch 12------------- : 
+
+-------------Starting epoch 12------------- : 
+
+-------------Starting epoch 12------------- : 
+
+-------------Starting epoch 12------------- : 
+Epoch 99 Batch 19 Loss 0.07 error 2.00% 
+
+-------------Starting epoch 13------------- : 
+
+-------------Starting epoch 13------------- : 
+
+-------------Starting epoch 13------------- : 
+
+-------------Starting epoch 13------------- : 
+
+-------------Starting epoch 13------------- : 
+
+-------------Starting epoch 13------------- : 
+
+-------------Starting epoch 13------------- : 
+
+-------------Starting epoch 13------------- : 
+
+-------------Starting epoch 13------------- : 
+
+-------------Starting epoch 13------------- : 
+
+-------------Starting epoch 13------------- : 
+
+-------------Starting epoch 13------------- : 
+
+-------------Starting epoch 13------------- : 
+
+-------------Starting epoch 13------------- : 
+
+-------------Starting epoch 13------------- : 
+
+-------------Starting epoch 13------------- : 
+
+-------------Starting epoch 13------------- : 
+
+-------------Starting epoch 13------------- : 
+
+-------------Starting epoch 13------------- : 
+
+-------------Starting epoch 13------------- : 
+Epoch 99 Batch 19 Loss 0.29 error 10.00% 
+
+-------------Starting epoch 14------------- : 
+
+-------------Starting epoch 14------------- : 
+
+-------------Starting epoch 14------------- : 
+
+-------------Starting epoch 14------------- : 
+
+-------------Starting epoch 14------------- : 
+
+-------------Starting epoch 14------------- : 
+
+-------------Starting epoch 14------------- : 
+
+-------------Starting epoch 14------------- : 
+
+-------------Starting epoch 14------------- : 
+
+-------------Starting epoch 14------------- : 
+
+-------------Starting epoch 14------------- : 
+
+-------------Starting epoch 14------------- : 
+
+-------------Starting epoch 14------------- : 
+
+-------------Starting epoch 14------------- : 
+
+-------------Starting epoch 14------------- : 
+
+-------------Starting epoch 14------------- : 
+
+-------------Starting epoch 14------------- : 
+
+-------------Starting epoch 14------------- : 
+
+-------------Starting epoch 14------------- : 
+
+-------------Starting epoch 14------------- : 
+Epoch 99 Batch 19 Loss 0.15 error 6.00% 
+
+-------------Starting epoch 15------------- : 
+
+-------------Starting epoch 15------------- : 
+
+-------------Starting epoch 15------------- : 
+
+-------------Starting epoch 15------------- : 
+
+-------------Starting epoch 15------------- : 
+
+-------------Starting epoch 15------------- : 
+
+-------------Starting epoch 15------------- : 
+
+-------------Starting epoch 15------------- : 
+
+-------------Starting epoch 15------------- : 
+
+-------------Starting epoch 15------------- : 
+
+-------------Starting epoch 15------------- : 
+
+-------------Starting epoch 15------------- : 
+
+-------------Starting epoch 15------------- : 
+
+-------------Starting epoch 15------------- : 
+
+-------------Starting epoch 15------------- : 
+
+-------------Starting epoch 15------------- : 
+
+-------------Starting epoch 15------------- : 
+
+-------------Starting epoch 15------------- : 
+
+-------------Starting epoch 15------------- : 
+
+-------------Starting epoch 15------------- : 
+Epoch 99 Batch 19 Loss 0.05 error 0.00% 
+
+-------------Starting epoch 16------------- : 
+
+-------------Starting epoch 16------------- : 
+
+-------------Starting epoch 16------------- : 
+
+-------------Starting epoch 16------------- : 
+
+-------------Starting epoch 16------------- : 
+
+-------------Starting epoch 16------------- : 
+
+-------------Starting epoch 16------------- : 
+
+-------------Starting epoch 16------------- : 
+
+-------------Starting epoch 16------------- : 
+
+-------------Starting epoch 16------------- : 
+
+-------------Starting epoch 16------------- : 
+
+-------------Starting epoch 16------------- : 
+
+-------------Starting epoch 16------------- : 
+
+-------------Starting epoch 16------------- : 
+
+-------------Starting epoch 16------------- : 
+
+-------------Starting epoch 16------------- : 
+
+-------------Starting epoch 16------------- : 
+
+-------------Starting epoch 16------------- : 
+
+-------------Starting epoch 16------------- : 
+
+-------------Starting epoch 16------------- : 
+Epoch 99 Batch 19 Loss 0.19 error 6.00% 
+
+-------------Starting epoch 17------------- : 
+
+-------------Starting epoch 17------------- : 
+
+-------------Starting epoch 17------------- : 
+
+-------------Starting epoch 17------------- : 
+
+-------------Starting epoch 17------------- : 
+
+-------------Starting epoch 17------------- : 
+
+-------------Starting epoch 17------------- : 
+
+-------------Starting epoch 17------------- : 
+
+-------------Starting epoch 17------------- : 
+
+-------------Starting epoch 17------------- : 
+
+-------------Starting epoch 17------------- : 
+
+-------------Starting epoch 17------------- : 
+
+-------------Starting epoch 17------------- : 
+
+-------------Starting epoch 17------------- : 
+
+-------------Starting epoch 17------------- : 
+
+-------------Starting epoch 17------------- : 
+
+-------------Starting epoch 17------------- : 
+
+-------------Starting epoch 17------------- : 
+
+-------------Starting epoch 17------------- : 
+
+-------------Starting epoch 17------------- : 
+Epoch 99 Batch 19 Loss 0.06 error 0.00% 
+
+-------------Starting epoch 18------------- : 
+
+-------------Starting epoch 18------------- : 
+
+-------------Starting epoch 18------------- : 
+
+-------------Starting epoch 18------------- : 
+
+-------------Starting epoch 18------------- : 
+
+-------------Starting epoch 18------------- : 
+
+-------------Starting epoch 18------------- : 
+
+-------------Starting epoch 18------------- : 
+
+-------------Starting epoch 18------------- : 
+
+-------------Starting epoch 18------------- : 
+
+-------------Starting epoch 18------------- : 
+
+-------------Starting epoch 18------------- : 
+
+-------------Starting epoch 18------------- : 
+
+-------------Starting epoch 18------------- : 
+
+-------------Starting epoch 18------------- : 
+
+-------------Starting epoch 18------------- : 
+
+-------------Starting epoch 18------------- : 
+
+-------------Starting epoch 18------------- : 
+
+-------------Starting epoch 18------------- : 
+
+-------------Starting epoch 18------------- : 
+Epoch 99 Batch 19 Loss 0.15 error 6.00% 
+
+-------------Starting epoch 19------------- : 
+
+-------------Starting epoch 19------------- : 
+
+-------------Starting epoch 19------------- : 
+
+-------------Starting epoch 19------------- : 
+
+-------------Starting epoch 19------------- : 
+
+-------------Starting epoch 19------------- : 
+
+-------------Starting epoch 19------------- : 
+
+-------------Starting epoch 19------------- : 
+
+-------------Starting epoch 19------------- : 
+
+-------------Starting epoch 19------------- : 
+
+-------------Starting epoch 19------------- : 
+
+-------------Starting epoch 19------------- : 
+
+-------------Starting epoch 19------------- : 
+
+-------------Starting epoch 19------------- : 
+
+-------------Starting epoch 19------------- : 
+
+-------------Starting epoch 19------------- : 
+
+-------------Starting epoch 19------------- : 
+
+-------------Starting epoch 19------------- : 
+
+-------------Starting epoch 19------------- : 
+
+-------------Starting epoch 19------------- : 
+Epoch 99 Batch 19 Loss 0.11 error 4.00% 
+
+-------------Starting epoch 20------------- : 
+
+-------------Starting epoch 20------------- : 
+
+-------------Starting epoch 20------------- : 
+
+-------------Starting epoch 20------------- : 
+
+-------------Starting epoch 20------------- : 
+
+-------------Starting epoch 20------------- : 
+
+-------------Starting epoch 20------------- : 
+
+-------------Starting epoch 20------------- : 
+
+-------------Starting epoch 20------------- : 
+
+-------------Starting epoch 20------------- : 
+
+-------------Starting epoch 20------------- : 
+
+-------------Starting epoch 20------------- : 
+
+-------------Starting epoch 20------------- : 
+
+-------------Starting epoch 20------------- : 
+
+-------------Starting epoch 20------------- : 
+
+-------------Starting epoch 20------------- : 
+
+-------------Starting epoch 20------------- : 
+
+-------------Starting epoch 20------------- : 
+
+-------------Starting epoch 20------------- : 
+
+-------------Starting epoch 20------------- : 
+Epoch 99 Batch 19 Loss 0.08 error 4.00% 
+
+-------------Starting epoch 21------------- : 
+
+-------------Starting epoch 21------------- : 
+
+-------------Starting epoch 21------------- : 
+
+-------------Starting epoch 21------------- : 
+
+-------------Starting epoch 21------------- : 
+
+-------------Starting epoch 21------------- : 
+
+-------------Starting epoch 21------------- : 
+
+-------------Starting epoch 21------------- : 
+
+-------------Starting epoch 21------------- : 
+
+-------------Starting epoch 21------------- : 
+
+-------------Starting epoch 21------------- : 
+
+-------------Starting epoch 21------------- : 
+
+-------------Starting epoch 21------------- : 
+
+-------------Starting epoch 21------------- : 
+
+-------------Starting epoch 21------------- : 
+
+-------------Starting epoch 21------------- : 
+
+-------------Starting epoch 21------------- : 
+
+-------------Starting epoch 21------------- : 
+
+-------------Starting epoch 21------------- : 
+
+-------------Starting epoch 21------------- : 
+Epoch 99 Batch 19 Loss 0.07 error 2.00% 
+
+-------------Starting epoch 22------------- : 
+
+-------------Starting epoch 22------------- : 
+
+-------------Starting epoch 22------------- : 
+
+-------------Starting epoch 22------------- : 
+
+-------------Starting epoch 22------------- : 
+
+-------------Starting epoch 22------------- : 
+
+-------------Starting epoch 22------------- : 
+
+-------------Starting epoch 22------------- : 
+
+-------------Starting epoch 22------------- : 
+
+-------------Starting epoch 22------------- : 
+
+-------------Starting epoch 22------------- : 
+
+-------------Starting epoch 22------------- : 
+
+-------------Starting epoch 22------------- : 
+
+-------------Starting epoch 22------------- : 
+
+-------------Starting epoch 22------------- : 
+
+-------------Starting epoch 22------------- : 
+
+-------------Starting epoch 22------------- : 
+
+-------------Starting epoch 22------------- : 
+
+-------------Starting epoch 22------------- : 
+
+-------------Starting epoch 22------------- : 
+Epoch 99 Batch 19 Loss 0.07 error 2.00% 
+
+-------------Starting epoch 23------------- : 
+
+-------------Starting epoch 23------------- : 
+
+-------------Starting epoch 23------------- : 
+
+-------------Starting epoch 23------------- : 
+
+-------------Starting epoch 23------------- : 
+
+-------------Starting epoch 23------------- : 
+
+-------------Starting epoch 23------------- : 
+
+-------------Starting epoch 23------------- : 
+
+-------------Starting epoch 23------------- : 
+
+-------------Starting epoch 23------------- : 
+
+-------------Starting epoch 23------------- : 
+
+-------------Starting epoch 23------------- : 
+
+-------------Starting epoch 23------------- : 
+
+-------------Starting epoch 23------------- : 
+
+-------------Starting epoch 23------------- : 
+
+-------------Starting epoch 23------------- : 
+
+-------------Starting epoch 23------------- : 
+
+-------------Starting epoch 23------------- : 
+
+-------------Starting epoch 23------------- : 
+
+-------------Starting epoch 23------------- : 
+Epoch 99 Batch 19 Loss 0.05 error 0.00% 
+
+-------------Starting epoch 24------------- : 
+
+-------------Starting epoch 24------------- : 
+
+-------------Starting epoch 24------------- : 
+
+-------------Starting epoch 24------------- : 
+
+-------------Starting epoch 24------------- : 
+
+-------------Starting epoch 24------------- : 
+
+-------------Starting epoch 24------------- : 
+
+-------------Starting epoch 24------------- : 
+
+-------------Starting epoch 24------------- : 
+
+-------------Starting epoch 24------------- : 
+
+-------------Starting epoch 24------------- : 
+
+-------------Starting epoch 24------------- : 
+
+-------------Starting epoch 24------------- : 
+
+-------------Starting epoch 24------------- : 
+
+-------------Starting epoch 24------------- : 
+
+-------------Starting epoch 24------------- : 
+
+-------------Starting epoch 24------------- : 
+
+-------------Starting epoch 24------------- : 
+
+-------------Starting epoch 24------------- : 
+
+-------------Starting epoch 24------------- : 
+Epoch 99 Batch 19 Loss 0.06 error 0.00% 
+
+-------------Starting epoch 25------------- : 
+
+-------------Starting epoch 25------------- : 
+
+-------------Starting epoch 25------------- : 
+
+-------------Starting epoch 25------------- : 
+
+-------------Starting epoch 25------------- : 
+
+-------------Starting epoch 25------------- : 
+
+-------------Starting epoch 25------------- : 
+
+-------------Starting epoch 25------------- : 
+
+-------------Starting epoch 25------------- : 
+
+-------------Starting epoch 25------------- : 
+
+-------------Starting epoch 25------------- : 
+
+-------------Starting epoch 25------------- : 
+
+-------------Starting epoch 25------------- : 
+
+-------------Starting epoch 25------------- : 
+
+-------------Starting epoch 25------------- : 
+
+-------------Starting epoch 25------------- : 
+
+-------------Starting epoch 25------------- : 
+
+-------------Starting epoch 25------------- : 
+
+-------------Starting epoch 25------------- : 
+
+-------------Starting epoch 25------------- : 
+Epoch 99 Batch 19 Loss 0.06 error 2.00% 
+
+-------------Starting epoch 26------------- : 
+
+-------------Starting epoch 26------------- : 
+
+-------------Starting epoch 26------------- : 
+
+-------------Starting epoch 26------------- : 
+
+-------------Starting epoch 26------------- : 
+
+-------------Starting epoch 26------------- : 
+
+-------------Starting epoch 26------------- : 
+
+-------------Starting epoch 26------------- : 
+
+-------------Starting epoch 26------------- : 
+
+-------------Starting epoch 26------------- : 
+
+-------------Starting epoch 26------------- : 
+
+-------------Starting epoch 26------------- : 
+
+-------------Starting epoch 26------------- : 
+
+-------------Starting epoch 26------------- : 
+
+-------------Starting epoch 26------------- : 
+
+-------------Starting epoch 26------------- : 
+
+-------------Starting epoch 26------------- : 
+
+-------------Starting epoch 26------------- : 
+
+-------------Starting epoch 26------------- : 
+
+-------------Starting epoch 26------------- : 
+Epoch 99 Batch 19 Loss 0.06 error 2.00% 
+
+-------------Starting epoch 27------------- : 
+
+-------------Starting epoch 27------------- : 
+
+-------------Starting epoch 27------------- : 
+
+-------------Starting epoch 27------------- : 
+
+-------------Starting epoch 27------------- : 
+
+-------------Starting epoch 27------------- : 
+
+-------------Starting epoch 27------------- : 
+
+-------------Starting epoch 27------------- : 
+
+-------------Starting epoch 27------------- : 
+
+-------------Starting epoch 27------------- : 
+
+-------------Starting epoch 27------------- : 
+
+-------------Starting epoch 27------------- : 
+
+-------------Starting epoch 27------------- : 
+
+-------------Starting epoch 27------------- : 
+
+-------------Starting epoch 27------------- : 
+
+-------------Starting epoch 27------------- : 
+
+-------------Starting epoch 27------------- : 
+
+-------------Starting epoch 27------------- : 
+
+-------------Starting epoch 27------------- : 
+
+-------------Starting epoch 27------------- : 
+Epoch 99 Batch 19 Loss 0.05 error 0.00% 
+
+-------------Starting epoch 28------------- : 
+
+-------------Starting epoch 28------------- : 
+
+-------------Starting epoch 28------------- : 
+
+-------------Starting epoch 28------------- : 
+
+-------------Starting epoch 28------------- : 
+
+-------------Starting epoch 28------------- : 
+
+-------------Starting epoch 28------------- : 
+
+-------------Starting epoch 28------------- : 
+
+-------------Starting epoch 28------------- : 
+
+-------------Starting epoch 28------------- : 
+
+-------------Starting epoch 28------------- : 
+
+-------------Starting epoch 28------------- : 
+
+-------------Starting epoch 28------------- : 
+
+-------------Starting epoch 28------------- : 
+
+-------------Starting epoch 28------------- : 
+
+-------------Starting epoch 28------------- : 
+
+-------------Starting epoch 28------------- : 
+
+-------------Starting epoch 28------------- : 
+
+-------------Starting epoch 28------------- : 
+
+-------------Starting epoch 28------------- : 
+Epoch 99 Batch 19 Loss 0.15 error 6.00% 
+
+-------------Starting epoch 29------------- : 
+
+-------------Starting epoch 29------------- : 
+
+-------------Starting epoch 29------------- : 
+
+-------------Starting epoch 29------------- : 
+
+-------------Starting epoch 29------------- : 
+
+-------------Starting epoch 29------------- : 
+
+-------------Starting epoch 29------------- : 
+
+-------------Starting epoch 29------------- : 
+
+-------------Starting epoch 29------------- : 
+
+-------------Starting epoch 29------------- : 
+
+-------------Starting epoch 29------------- : 
+
+-------------Starting epoch 29------------- : 
+
+-------------Starting epoch 29------------- : 
+
+-------------Starting epoch 29------------- : 
+
+-------------Starting epoch 29------------- : 
+
+-------------Starting epoch 29------------- : 
+
+-------------Starting epoch 29------------- : 
+
+-------------Starting epoch 29------------- : 
+
+-------------Starting epoch 29------------- : 
+
+-------------Starting epoch 29------------- : 
+Epoch 99 Batch 19 Loss 0.10 error 4.00% 
+
+-------------Starting epoch 30------------- : 
+
+-------------Starting epoch 30------------- : 
+
+-------------Starting epoch 30------------- : 
+
+-------------Starting epoch 30------------- : 
+
+-------------Starting epoch 30------------- : 
+
+-------------Starting epoch 30------------- : 
+
+-------------Starting epoch 30------------- : 
+
+-------------Starting epoch 30------------- : 
+
+-------------Starting epoch 30------------- : 
+
+-------------Starting epoch 30------------- : 
+
+-------------Starting epoch 30------------- : 
+
+-------------Starting epoch 30------------- : 
+
+-------------Starting epoch 30------------- : 
+
+-------------Starting epoch 30------------- : 
+
+-------------Starting epoch 30------------- : 
+
+-------------Starting epoch 30------------- : 
+
+-------------Starting epoch 30------------- : 
+
+-------------Starting epoch 30------------- : 
+
+-------------Starting epoch 30------------- : 
+
+-------------Starting epoch 30------------- : 
+Epoch 99 Batch 19 Loss 0.07 error 0.00% 
+
+-------------Starting epoch 31------------- : 
+
+-------------Starting epoch 31------------- : 
+
+-------------Starting epoch 31------------- : 
+
+-------------Starting epoch 31------------- : 
+
+-------------Starting epoch 31------------- : 
+
+-------------Starting epoch 31------------- : 
+
+-------------Starting epoch 31------------- : 
+
+-------------Starting epoch 31------------- : 
+
+-------------Starting epoch 31------------- : 
+
+-------------Starting epoch 31------------- : 
+
+-------------Starting epoch 31------------- : 
+
+-------------Starting epoch 31------------- : 
+
+-------------Starting epoch 31------------- : 
+
+-------------Starting epoch 31------------- : 
+
+-------------Starting epoch 31------------- : 
+
+-------------Starting epoch 31------------- : 
+
+-------------Starting epoch 31------------- : 
+
+-------------Starting epoch 31------------- : 
+
+-------------Starting epoch 31------------- : 
+
+-------------Starting epoch 31------------- : 
+Epoch 99 Batch 19 Loss 0.14 error 6.00% 
+
+-------------Starting epoch 32------------- : 
+
+-------------Starting epoch 32------------- : 
+
+-------------Starting epoch 32------------- : 
+
+-------------Starting epoch 32------------- : 
+
+-------------Starting epoch 32------------- : 
+
+-------------Starting epoch 32------------- : 
+
+-------------Starting epoch 32------------- : 
+
+-------------Starting epoch 32------------- : 
+
+-------------Starting epoch 32------------- : 
+
+-------------Starting epoch 32------------- : 
+
+-------------Starting epoch 32------------- : 
+
+-------------Starting epoch 32------------- : 
+
+-------------Starting epoch 32------------- : 
+
+-------------Starting epoch 32------------- : 
+
+-------------Starting epoch 32------------- : 
+
+-------------Starting epoch 32------------- : 
+
+-------------Starting epoch 32------------- : 
+
+-------------Starting epoch 32------------- : 
+
+-------------Starting epoch 32------------- : 
+
+-------------Starting epoch 32------------- : 
+Epoch 99 Batch 19 Loss 0.05 error 0.00% 
+
+-------------Starting epoch 33------------- : 
+
+-------------Starting epoch 33------------- : 
+
+-------------Starting epoch 33------------- : 
+
+-------------Starting epoch 33------------- : 
+
+-------------Starting epoch 33------------- : 
+
+-------------Starting epoch 33------------- : 
+
+-------------Starting epoch 33------------- : 
+
+-------------Starting epoch 33------------- : 
+
+-------------Starting epoch 33------------- : 
+
+-------------Starting epoch 33------------- : 
+
+-------------Starting epoch 33------------- : 
+
+-------------Starting epoch 33------------- : 
+
+-------------Starting epoch 33------------- : 
+
+-------------Starting epoch 33------------- : 
+
+-------------Starting epoch 33------------- : 
+
+-------------Starting epoch 33------------- : 
+
+-------------Starting epoch 33------------- : 
+
+-------------Starting epoch 33------------- : 
+
+-------------Starting epoch 33------------- : 
+
+-------------Starting epoch 33------------- : 
+Epoch 99 Batch 19 Loss 0.07 error 2.00% 
+
+-------------Starting epoch 34------------- : 
+
+-------------Starting epoch 34------------- : 
+
+-------------Starting epoch 34------------- : 
+
+-------------Starting epoch 34------------- : 
+
+-------------Starting epoch 34------------- : 
+
+-------------Starting epoch 34------------- : 
+
+-------------Starting epoch 34------------- : 
+
+-------------Starting epoch 34------------- : 
+
+-------------Starting epoch 34------------- : 
+
+-------------Starting epoch 34------------- : 
+
+-------------Starting epoch 34------------- : 
+
+-------------Starting epoch 34------------- : 
+
+-------------Starting epoch 34------------- : 
+
+-------------Starting epoch 34------------- : 
+
+-------------Starting epoch 34------------- : 
+
+-------------Starting epoch 34------------- : 
+
+-------------Starting epoch 34------------- : 
+
+-------------Starting epoch 34------------- : 
+
+-------------Starting epoch 34------------- : 
+
+-------------Starting epoch 34------------- : 
+Epoch 99 Batch 19 Loss 0.08 error 2.00% 
+
+-------------Starting epoch 35------------- : 
+
+-------------Starting epoch 35------------- : 
+
+-------------Starting epoch 35------------- : 
+
+-------------Starting epoch 35------------- : 
+
+-------------Starting epoch 35------------- : 
+
+-------------Starting epoch 35------------- : 
+
+-------------Starting epoch 35------------- : 
+
+-------------Starting epoch 35------------- : 
+
+-------------Starting epoch 35------------- : 
+
+-------------Starting epoch 35------------- : 
+
+-------------Starting epoch 35------------- : 
+
+-------------Starting epoch 35------------- : 
+
+-------------Starting epoch 35------------- : 
+
+-------------Starting epoch 35------------- : 
+
+-------------Starting epoch 35------------- : 
+
+-------------Starting epoch 35------------- : 
+
+-------------Starting epoch 35------------- : 
+
+-------------Starting epoch 35------------- : 
+
+-------------Starting epoch 35------------- : 
+
+-------------Starting epoch 35------------- : 
+Epoch 99 Batch 19 Loss 0.08 error 2.00% 
+
+-------------Starting epoch 36------------- : 
+
+-------------Starting epoch 36------------- : 
+
+-------------Starting epoch 36------------- : 
+
+-------------Starting epoch 36------------- : 
+
+-------------Starting epoch 36------------- : 
+
+-------------Starting epoch 36------------- : 
+
+-------------Starting epoch 36------------- : 
+
+-------------Starting epoch 36------------- : 
+
+-------------Starting epoch 36------------- : 
+
+-------------Starting epoch 36------------- : 
+
+-------------Starting epoch 36------------- : 
+
+-------------Starting epoch 36------------- : 
+
+-------------Starting epoch 36------------- : 
+
+-------------Starting epoch 36------------- : 
+
+-------------Starting epoch 36------------- : 
+
+-------------Starting epoch 36------------- : 
+
+-------------Starting epoch 36------------- : 
+
+-------------Starting epoch 36------------- : 
+
+-------------Starting epoch 36------------- : 
+
+-------------Starting epoch 36------------- : 
+Epoch 99 Batch 19 Loss 0.06 error 2.00% 
+
+-------------Starting epoch 37------------- : 
+
+-------------Starting epoch 37------------- : 
+
+-------------Starting epoch 37------------- : 
+
+-------------Starting epoch 37------------- : 
+
+-------------Starting epoch 37------------- : 
+
+-------------Starting epoch 37------------- : 
+
+-------------Starting epoch 37------------- : 
+
+-------------Starting epoch 37------------- : 
+
+-------------Starting epoch 37------------- : 
+
+-------------Starting epoch 37------------- : 
+
+-------------Starting epoch 37------------- : 
+
+-------------Starting epoch 37------------- : 
+
+-------------Starting epoch 37------------- : 
+
+-------------Starting epoch 37------------- : 
+
+-------------Starting epoch 37------------- : 
+
+-------------Starting epoch 37------------- : 
+
+-------------Starting epoch 37------------- : 
+
+-------------Starting epoch 37------------- : 
+
+-------------Starting epoch 37------------- : 
+
+-------------Starting epoch 37------------- : 
+Epoch 99 Batch 19 Loss 0.09 error 4.00% 
+
+-------------Starting epoch 38------------- : 
+
+-------------Starting epoch 38------------- : 
+
+-------------Starting epoch 38------------- : 
+
+-------------Starting epoch 38------------- : 
+
+-------------Starting epoch 38------------- : 
+
+-------------Starting epoch 38------------- : 
+
+-------------Starting epoch 38------------- : 
+
+-------------Starting epoch 38------------- : 
+
+-------------Starting epoch 38------------- : 
+
+-------------Starting epoch 38------------- : 
+
+-------------Starting epoch 38------------- : 
+
+-------------Starting epoch 38------------- : 
+
+-------------Starting epoch 38------------- : 
+
+-------------Starting epoch 38------------- : 
+
+-------------Starting epoch 38------------- : 
+
+-------------Starting epoch 38------------- : 
+
+-------------Starting epoch 38------------- : 
+
+-------------Starting epoch 38------------- : 
+
+-------------Starting epoch 38------------- : 
+
+-------------Starting epoch 38------------- : 
+Epoch 99 Batch 19 Loss 0.08 error 2.00% 
+
+-------------Starting epoch 39------------- : 
+
+-------------Starting epoch 39------------- : 
+
+-------------Starting epoch 39------------- : 
+
+-------------Starting epoch 39------------- : 
+
+-------------Starting epoch 39------------- : 
+
+-------------Starting epoch 39------------- : 
+
+-------------Starting epoch 39------------- : 
+
+-------------Starting epoch 39------------- : 
+
+-------------Starting epoch 39------------- : 
+
+-------------Starting epoch 39------------- : 
+
+-------------Starting epoch 39------------- : 
+
+-------------Starting epoch 39------------- : 
+
+-------------Starting epoch 39------------- : 
+
+-------------Starting epoch 39------------- : 
+
+-------------Starting epoch 39------------- : 
+
+-------------Starting epoch 39------------- : 
+
+-------------Starting epoch 39------------- : 
+
+-------------Starting epoch 39------------- : 
+
+-------------Starting epoch 39------------- : 
+
+-------------Starting epoch 39------------- : 
+Epoch 99 Batch 19 Loss 0.07 error 2.00% 
+
+-------------Starting epoch 40------------- : 
+
+-------------Starting epoch 40------------- : 
+
+-------------Starting epoch 40------------- : 
+
+-------------Starting epoch 40------------- : 
+
+-------------Starting epoch 40------------- : 
+
+-------------Starting epoch 40------------- : 
+
+-------------Starting epoch 40------------- : 
+
+-------------Starting epoch 40------------- : 
+
+-------------Starting epoch 40------------- : 
+
+-------------Starting epoch 40------------- : 
+
+-------------Starting epoch 40------------- : 
+
+-------------Starting epoch 40------------- : 
+
+-------------Starting epoch 40------------- : 
+
+-------------Starting epoch 40------------- : 
+
+-------------Starting epoch 40------------- : 
+
+-------------Starting epoch 40------------- : 
+
+-------------Starting epoch 40------------- : 
+
+-------------Starting epoch 40------------- : 
+
+-------------Starting epoch 40------------- : 
+
+-------------Starting epoch 40------------- : 
+Epoch 99 Batch 19 Loss 0.12 error 6.00% 
+
+-------------Starting epoch 41------------- : 
+
+-------------Starting epoch 41------------- : 
+
+-------------Starting epoch 41------------- : 
+
+-------------Starting epoch 41------------- : 
+
+-------------Starting epoch 41------------- : 
+
+-------------Starting epoch 41------------- : 
+
+-------------Starting epoch 41------------- : 
+
+-------------Starting epoch 41------------- : 
+
+-------------Starting epoch 41------------- : 
+
+-------------Starting epoch 41------------- : 
+
+-------------Starting epoch 41------------- : 
+
+-------------Starting epoch 41------------- : 
+
+-------------Starting epoch 41------------- : 
+
+-------------Starting epoch 41------------- : 
+
+-------------Starting epoch 41------------- : 
+
+-------------Starting epoch 41------------- : 
+
+-------------Starting epoch 41------------- : 
+
+-------------Starting epoch 41------------- : 
+
+-------------Starting epoch 41------------- : 
+
+-------------Starting epoch 41------------- : 
+Epoch 99 Batch 19 Loss 0.11 error 4.00% 
+
+-------------Starting epoch 42------------- : 
+
+-------------Starting epoch 42------------- : 
+
+-------------Starting epoch 42------------- : 
+
+-------------Starting epoch 42------------- : 
+
+-------------Starting epoch 42------------- : 
+
+-------------Starting epoch 42------------- : 
+
+-------------Starting epoch 42------------- : 
+
+-------------Starting epoch 42------------- : 
+
+-------------Starting epoch 42------------- : 
+
+-------------Starting epoch 42------------- : 
+
+-------------Starting epoch 42------------- : 
+
+-------------Starting epoch 42------------- : 
+
+-------------Starting epoch 42------------- : 
+
+-------------Starting epoch 42------------- : 
+
+-------------Starting epoch 42------------- : 
+
+-------------Starting epoch 42------------- : 
+
+-------------Starting epoch 42------------- : 
+
+-------------Starting epoch 42------------- : 
+
+-------------Starting epoch 42------------- : 
+
+-------------Starting epoch 42------------- : 
+Epoch 99 Batch 19 Loss 0.07 error 2.00% 
+
+-------------Starting epoch 43------------- : 
+
+-------------Starting epoch 43------------- : 
+
+-------------Starting epoch 43------------- : 
+
+-------------Starting epoch 43------------- : 
+
+-------------Starting epoch 43------------- : 
+
+-------------Starting epoch 43------------- : 
+
+-------------Starting epoch 43------------- : 
+
+-------------Starting epoch 43------------- : 
+
+-------------Starting epoch 43------------- : 
+
+-------------Starting epoch 43------------- : 
+
+-------------Starting epoch 43------------- : 
+
+-------------Starting epoch 43------------- : 
+
+-------------Starting epoch 43------------- : 
+
+-------------Starting epoch 43------------- : 
+
+-------------Starting epoch 43------------- : 
+
+-------------Starting epoch 43------------- : 
+
+-------------Starting epoch 43------------- : 
+
+-------------Starting epoch 43------------- : 
+
+-------------Starting epoch 43------------- : 
+
+-------------Starting epoch 43------------- : 
+Epoch 99 Batch 19 Loss 0.05 error 2.00% 
+
+-------------Starting epoch 44------------- : 
+
+-------------Starting epoch 44------------- : 
+
+-------------Starting epoch 44------------- : 
+
+-------------Starting epoch 44------------- : 
+
+-------------Starting epoch 44------------- : 
+
+-------------Starting epoch 44------------- : 
+
+-------------Starting epoch 44------------- : 
+
+-------------Starting epoch 44------------- : 
+
+-------------Starting epoch 44------------- : 
+
+-------------Starting epoch 44------------- : 
+
+-------------Starting epoch 44------------- : 
+
+-------------Starting epoch 44------------- : 
+
+-------------Starting epoch 44------------- : 
+
+-------------Starting epoch 44------------- : 
+
+-------------Starting epoch 44------------- : 
+
+-------------Starting epoch 44------------- : 
+
+-------------Starting epoch 44------------- : 
+
+-------------Starting epoch 44------------- : 
+
+-------------Starting epoch 44------------- : 
+
+-------------Starting epoch 44------------- : 
+Epoch 99 Batch 19 Loss 0.06 error 2.00% 
+
+-------------Starting epoch 45------------- : 
+
+-------------Starting epoch 45------------- : 
+
+-------------Starting epoch 45------------- : 
+
+-------------Starting epoch 45------------- : 
+
+-------------Starting epoch 45------------- : 
+
+-------------Starting epoch 45------------- : 
+
+-------------Starting epoch 45------------- : 
+
+-------------Starting epoch 45------------- : 
+
+-------------Starting epoch 45------------- : 
+
+-------------Starting epoch 45------------- : 
+
+-------------Starting epoch 45------------- : 
+
+-------------Starting epoch 45------------- : 
+
+-------------Starting epoch 45------------- : 
+
+-------------Starting epoch 45------------- : 
+
+-------------Starting epoch 45------------- : 
+
+-------------Starting epoch 45------------- : 
+
+-------------Starting epoch 45------------- : 
+
+-------------Starting epoch 45------------- : 
+
+-------------Starting epoch 45------------- : 
+
+-------------Starting epoch 45------------- : 
+Epoch 99 Batch 19 Loss 0.07 error 0.00% 
+
+-------------Starting epoch 46------------- : 
+
+-------------Starting epoch 46------------- : 
+
+-------------Starting epoch 46------------- : 
+
+-------------Starting epoch 46------------- : 
+
+-------------Starting epoch 46------------- : 
+
+-------------Starting epoch 46------------- : 
+
+-------------Starting epoch 46------------- : 
+
+-------------Starting epoch 46------------- : 
+
+-------------Starting epoch 46------------- : 
+
+-------------Starting epoch 46------------- : 
+
+-------------Starting epoch 46------------- : 
+
+-------------Starting epoch 46------------- : 
+
+-------------Starting epoch 46------------- : 
+
+-------------Starting epoch 46------------- : 
+
+-------------Starting epoch 46------------- : 
+
+-------------Starting epoch 46------------- : 
+
+-------------Starting epoch 46------------- : 
+
+-------------Starting epoch 46------------- : 
+
+-------------Starting epoch 46------------- : 
+
+-------------Starting epoch 46------------- : 
+Epoch 99 Batch 19 Loss 0.16 error 6.00% 
+
+-------------Starting epoch 47------------- : 
+
+-------------Starting epoch 47------------- : 
+
+-------------Starting epoch 47------------- : 
+
+-------------Starting epoch 47------------- : 
+
+-------------Starting epoch 47------------- : 
+
+-------------Starting epoch 47------------- : 
+
+-------------Starting epoch 47------------- : 
+
+-------------Starting epoch 47------------- : 
+
+-------------Starting epoch 47------------- : 
+
+-------------Starting epoch 47------------- : 
+
+-------------Starting epoch 47------------- : 
+
+-------------Starting epoch 47------------- : 
+
+-------------Starting epoch 47------------- : 
+
+-------------Starting epoch 47------------- : 
+
+-------------Starting epoch 47------------- : 
+
+-------------Starting epoch 47------------- : 
+
+-------------Starting epoch 47------------- : 
+
+-------------Starting epoch 47------------- : 
+
+-------------Starting epoch 47------------- : 
+
+-------------Starting epoch 47------------- : 
+Epoch 99 Batch 19 Loss 0.20 error 6.00% 
+
+-------------Starting epoch 48------------- : 
+
+-------------Starting epoch 48------------- : 
+
+-------------Starting epoch 48------------- : 
+
+-------------Starting epoch 48------------- : 
+
+-------------Starting epoch 48------------- : 
+
+-------------Starting epoch 48------------- : 
+
+-------------Starting epoch 48------------- : 
+
+-------------Starting epoch 48------------- : 
+
+-------------Starting epoch 48------------- : 
+
+-------------Starting epoch 48------------- : 
+
+-------------Starting epoch 48------------- : 
+
+-------------Starting epoch 48------------- : 
+
+-------------Starting epoch 48------------- : 
+
+-------------Starting epoch 48------------- : 
+
+-------------Starting epoch 48------------- : 
+
+-------------Starting epoch 48------------- : 
+
+-------------Starting epoch 48------------- : 
+
+-------------Starting epoch 48------------- : 
+
+-------------Starting epoch 48------------- : 
+
+-------------Starting epoch 48------------- : 
+Epoch 99 Batch 19 Loss 0.16 error 6.00% 
+
+-------------Starting epoch 49------------- : 
+
+-------------Starting epoch 49------------- : 
+
+-------------Starting epoch 49------------- : 
+
+-------------Starting epoch 49------------- : 
+
+-------------Starting epoch 49------------- : 
+
+-------------Starting epoch 49------------- : 
+
+-------------Starting epoch 49------------- : 
+
+-------------Starting epoch 49------------- : 
+
+-------------Starting epoch 49------------- : 
+
+-------------Starting epoch 49------------- : 
+
+-------------Starting epoch 49------------- : 
+
+-------------Starting epoch 49------------- : 
+
+-------------Starting epoch 49------------- : 
+
+-------------Starting epoch 49------------- : 
+
+-------------Starting epoch 49------------- : 
+
+-------------Starting epoch 49------------- : 
+
+-------------Starting epoch 49------------- : 
+
+-------------Starting epoch 49------------- : 
+
+-------------Starting epoch 49------------- : 
+
+-------------Starting epoch 49------------- : 
+Epoch 99 Batch 19 Loss 0.15 error 6.00% 
+
+-------------Starting epoch 50------------- : 
+
+-------------Starting epoch 50------------- : 
+
+-------------Starting epoch 50------------- : 
+
+-------------Starting epoch 50------------- : 
+
+-------------Starting epoch 50------------- : 
+
+-------------Starting epoch 50------------- : 
+
+-------------Starting epoch 50------------- : 
+
+-------------Starting epoch 50------------- : 
+
+-------------Starting epoch 50------------- : 
+
+-------------Starting epoch 50------------- : 
+
+-------------Starting epoch 50------------- : 
+
+-------------Starting epoch 50------------- : 
+
+-------------Starting epoch 50------------- : 
+
+-------------Starting epoch 50------------- : 
+
+-------------Starting epoch 50------------- : 
+
+-------------Starting epoch 50------------- : 
+
+-------------Starting epoch 50------------- : 
+
+-------------Starting epoch 50------------- : 
+
+-------------Starting epoch 50------------- : 
+
+-------------Starting epoch 50------------- : 
+Epoch 99 Batch 19 Loss 0.19 error 6.00% 
+
+-------------Starting epoch 51------------- : 
+
+-------------Starting epoch 51------------- : 
+
+-------------Starting epoch 51------------- : 
+
+-------------Starting epoch 51------------- : 
+
+-------------Starting epoch 51------------- : 
+
+-------------Starting epoch 51------------- : 
+
+-------------Starting epoch 51------------- : 
+
+-------------Starting epoch 51------------- : 
+
+-------------Starting epoch 51------------- : 
+
+-------------Starting epoch 51------------- : 
+
+-------------Starting epoch 51------------- : 
+
+-------------Starting epoch 51------------- : 
+
+-------------Starting epoch 51------------- : 
+
+-------------Starting epoch 51------------- : 
+
+-------------Starting epoch 51------------- : 
+
+-------------Starting epoch 51------------- : 
+
+-------------Starting epoch 51------------- : 
+
+-------------Starting epoch 51------------- : 
+
+-------------Starting epoch 51------------- : 
+
+-------------Starting epoch 51------------- : 
+Epoch 99 Batch 19 Loss 0.04 error 0.00% 
+
+-------------Starting epoch 52------------- : 
+
+-------------Starting epoch 52------------- : 
+
+-------------Starting epoch 52------------- : 
+
+-------------Starting epoch 52------------- : 
+
+-------------Starting epoch 52------------- : 
+
+-------------Starting epoch 52------------- : 
+
+-------------Starting epoch 52------------- : 
+
+-------------Starting epoch 52------------- : 
+
+-------------Starting epoch 52------------- : 
+
+-------------Starting epoch 52------------- : 
+
+-------------Starting epoch 52------------- : 
+
+-------------Starting epoch 52------------- : 
+
+-------------Starting epoch 52------------- : 
+
+-------------Starting epoch 52------------- : 
+
+-------------Starting epoch 52------------- : 
+
+-------------Starting epoch 52------------- : 
+
+-------------Starting epoch 52------------- : 
+
+-------------Starting epoch 52------------- : 
+
+-------------Starting epoch 52------------- : 
+
+-------------Starting epoch 52------------- : 
+Epoch 99 Batch 19 Loss 0.08 error 2.00% 
+
+-------------Starting epoch 53------------- : 
+
+-------------Starting epoch 53------------- : 
+
+-------------Starting epoch 53------------- : 
+
+-------------Starting epoch 53------------- : 
+
+-------------Starting epoch 53------------- : 
+
+-------------Starting epoch 53------------- : 
+
+-------------Starting epoch 53------------- : 
+
+-------------Starting epoch 53------------- : 
+
+-------------Starting epoch 53------------- : 
+
+-------------Starting epoch 53------------- : 
+
+-------------Starting epoch 53------------- : 
+
+-------------Starting epoch 53------------- : 
+
+-------------Starting epoch 53------------- : 
+
+-------------Starting epoch 53------------- : 
+
+-------------Starting epoch 53------------- : 
+
+-------------Starting epoch 53------------- : 
+
+-------------Starting epoch 53------------- : 
+
+-------------Starting epoch 53------------- : 
+
+-------------Starting epoch 53------------- : 
+
+-------------Starting epoch 53------------- : 
+Epoch 99 Batch 19 Loss 0.08 error 2.00% 
+
+-------------Starting epoch 54------------- : 
+
+-------------Starting epoch 54------------- : 
+
+-------------Starting epoch 54------------- : 
+
+-------------Starting epoch 54------------- : 
+
+-------------Starting epoch 54------------- : 
+
+-------------Starting epoch 54------------- : 
+
+-------------Starting epoch 54------------- : 
+
+-------------Starting epoch 54------------- : 
+
+-------------Starting epoch 54------------- : 
+
+-------------Starting epoch 54------------- : 
+
+-------------Starting epoch 54------------- : 
+
+-------------Starting epoch 54------------- : 
+
+-------------Starting epoch 54------------- : 
+
+-------------Starting epoch 54------------- : 
+
+-------------Starting epoch 54------------- : 
+
+-------------Starting epoch 54------------- : 
+
+-------------Starting epoch 54------------- : 
+
+-------------Starting epoch 54------------- : 
+
+-------------Starting epoch 54------------- : 
+
+-------------Starting epoch 54------------- : 
+Epoch 99 Batch 19 Loss 0.08 error 2.00% 
+
+-------------Starting epoch 55------------- : 
+
+-------------Starting epoch 55------------- : 
+
+-------------Starting epoch 55------------- : 
+
+-------------Starting epoch 55------------- : 
+
+-------------Starting epoch 55------------- : 
+
+-------------Starting epoch 55------------- : 
+
+-------------Starting epoch 55------------- : 
+
+-------------Starting epoch 55------------- : 
+
+-------------Starting epoch 55------------- : 
+
+-------------Starting epoch 55------------- : 
+
+-------------Starting epoch 55------------- : 
+
+-------------Starting epoch 55------------- : 
+
+-------------Starting epoch 55------------- : 
+
+-------------Starting epoch 55------------- : 
+
+-------------Starting epoch 55------------- : 
+
+-------------Starting epoch 55------------- : 
+
+-------------Starting epoch 55------------- : 
+
+-------------Starting epoch 55------------- : 
+
+-------------Starting epoch 55------------- : 
+
+-------------Starting epoch 55------------- : 
+Epoch 99 Batch 19 Loss 0.07 error 2.00% 
+
+-------------Starting epoch 56------------- : 
+
+-------------Starting epoch 56------------- : 
+
+-------------Starting epoch 56------------- : 
+
+-------------Starting epoch 56------------- : 
+
+-------------Starting epoch 56------------- : 
+
+-------------Starting epoch 56------------- : 
+
+-------------Starting epoch 56------------- : 
+
+-------------Starting epoch 56------------- : 
+
+-------------Starting epoch 56------------- : 
+
+-------------Starting epoch 56------------- : 
+
+-------------Starting epoch 56------------- : 
+
+-------------Starting epoch 56------------- : 
+
+-------------Starting epoch 56------------- : 
+
+-------------Starting epoch 56------------- : 
+
+-------------Starting epoch 56------------- : 
+
+-------------Starting epoch 56------------- : 
+
+-------------Starting epoch 56------------- : 
+
+-------------Starting epoch 56------------- : 
+
+-------------Starting epoch 56------------- : 
+
+-------------Starting epoch 56------------- : 
+Epoch 99 Batch 19 Loss 0.10 error 2.00% 
+
+-------------Starting epoch 57------------- : 
+
+-------------Starting epoch 57------------- : 
+
+-------------Starting epoch 57------------- : 
+
+-------------Starting epoch 57------------- : 
+
+-------------Starting epoch 57------------- : 
+
+-------------Starting epoch 57------------- : 
+
+-------------Starting epoch 57------------- : 
+
+-------------Starting epoch 57------------- : 
+
+-------------Starting epoch 57------------- : 
+
+-------------Starting epoch 57------------- : 
+
+-------------Starting epoch 57------------- : 
+
+-------------Starting epoch 57------------- : 
+
+-------------Starting epoch 57------------- : 
+
+-------------Starting epoch 57------------- : 
+
+-------------Starting epoch 57------------- : 
+
+-------------Starting epoch 57------------- : 
+
+-------------Starting epoch 57------------- : 
+
+-------------Starting epoch 57------------- : 
+
+-------------Starting epoch 57------------- : 
+
+-------------Starting epoch 57------------- : 
+Epoch 99 Batch 19 Loss 0.08 error 2.00% 
+
+-------------Starting epoch 58------------- : 
+
+-------------Starting epoch 58------------- : 
+
+-------------Starting epoch 58------------- : 
+
+-------------Starting epoch 58------------- : 
+
+-------------Starting epoch 58------------- : 
+
+-------------Starting epoch 58------------- : 
+
+-------------Starting epoch 58------------- : 
+
+-------------Starting epoch 58------------- : 
+
+-------------Starting epoch 58------------- : 
+
+-------------Starting epoch 58------------- : 
+
+-------------Starting epoch 58------------- : 
+
+-------------Starting epoch 58------------- : 
+
+-------------Starting epoch 58------------- : 
+
+-------------Starting epoch 58------------- : 
+
+-------------Starting epoch 58------------- : 
+
+-------------Starting epoch 58------------- : 
+
+-------------Starting epoch 58------------- : 
+
+-------------Starting epoch 58------------- : 
+
+-------------Starting epoch 58------------- : 
+
+-------------Starting epoch 58------------- : 
+Epoch 99 Batch 19 Loss 0.15 error 6.00% 
+
+-------------Starting epoch 59------------- : 
+
+-------------Starting epoch 59------------- : 
+
+-------------Starting epoch 59------------- : 
+
+-------------Starting epoch 59------------- : 
+
+-------------Starting epoch 59------------- : 
+
+-------------Starting epoch 59------------- : 
+
+-------------Starting epoch 59------------- : 
+
+-------------Starting epoch 59------------- : 
+
+-------------Starting epoch 59------------- : 
+
+-------------Starting epoch 59------------- : 
+
+-------------Starting epoch 59------------- : 
+
+-------------Starting epoch 59------------- : 
+
+-------------Starting epoch 59------------- : 
+
+-------------Starting epoch 59------------- : 
+
+-------------Starting epoch 59------------- : 
+
+-------------Starting epoch 59------------- : 
+
+-------------Starting epoch 59------------- : 
+
+-------------Starting epoch 59------------- : 
+
+-------------Starting epoch 59------------- : 
+
+-------------Starting epoch 59------------- : 
+Epoch 99 Batch 19 Loss 0.14 error 6.00% 
+
+-------------Starting epoch 60------------- : 
+
+-------------Starting epoch 60------------- : 
+
+-------------Starting epoch 60------------- : 
+
+-------------Starting epoch 60------------- : 
+
+-------------Starting epoch 60------------- : 
+
+-------------Starting epoch 60------------- : 
+
+-------------Starting epoch 60------------- : 
+
+-------------Starting epoch 60------------- : 
+
+-------------Starting epoch 60------------- : 
+
+-------------Starting epoch 60------------- : 
+
+-------------Starting epoch 60------------- : 
+
+-------------Starting epoch 60------------- : 
+
+-------------Starting epoch 60------------- : 
+
+-------------Starting epoch 60------------- : 
+
+-------------Starting epoch 60------------- : 
+
+-------------Starting epoch 60------------- : 
+
+-------------Starting epoch 60------------- : 
+
+-------------Starting epoch 60------------- : 
+
+-------------Starting epoch 60------------- : 
+
+-------------Starting epoch 60------------- : 
+Epoch 99 Batch 19 Loss 0.08 error 4.00% 
+
+-------------Starting epoch 61------------- : 
+
+-------------Starting epoch 61------------- : 
+
+-------------Starting epoch 61------------- : 
+
+-------------Starting epoch 61------------- : 
+
+-------------Starting epoch 61------------- : 
+
+-------------Starting epoch 61------------- : 
+
+-------------Starting epoch 61------------- : 
+
+-------------Starting epoch 61------------- : 
+
+-------------Starting epoch 61------------- : 
+
+-------------Starting epoch 61------------- : 
+
+-------------Starting epoch 61------------- : 
+
+-------------Starting epoch 61------------- : 
+
+-------------Starting epoch 61------------- : 
+
+-------------Starting epoch 61------------- : 
+
+-------------Starting epoch 61------------- : 
+
+-------------Starting epoch 61------------- : 
+
+-------------Starting epoch 61------------- : 
+
+-------------Starting epoch 61------------- : 
+
+-------------Starting epoch 61------------- : 
+
+-------------Starting epoch 61------------- : 
+Epoch 99 Batch 19 Loss 0.07 error 2.00% 
+
+-------------Starting epoch 62------------- : 
+
+-------------Starting epoch 62------------- : 
+
+-------------Starting epoch 62------------- : 
+
+-------------Starting epoch 62------------- : 
+
+-------------Starting epoch 62------------- : 
+
+-------------Starting epoch 62------------- : 
+
+-------------Starting epoch 62------------- : 
+
+-------------Starting epoch 62------------- : 
+
+-------------Starting epoch 62------------- : 
+
+-------------Starting epoch 62------------- : 
+
+-------------Starting epoch 62------------- : 
+
+-------------Starting epoch 62------------- : 
+
+-------------Starting epoch 62------------- : 
+
+-------------Starting epoch 62------------- : 
+
+-------------Starting epoch 62------------- : 
+
+-------------Starting epoch 62------------- : 
+
+-------------Starting epoch 62------------- : 
+
+-------------Starting epoch 62------------- : 
+
+-------------Starting epoch 62------------- : 
+
+-------------Starting epoch 62------------- : 
+Epoch 99 Batch 19 Loss 0.06 error 2.00% 
+
+-------------Starting epoch 63------------- : 
+
+-------------Starting epoch 63------------- : 
+
+-------------Starting epoch 63------------- : 
+
+-------------Starting epoch 63------------- : 
+
+-------------Starting epoch 63------------- : 
+
+-------------Starting epoch 63------------- : 
+
+-------------Starting epoch 63------------- : 
+
+-------------Starting epoch 63------------- : 
+
+-------------Starting epoch 63------------- : 
+
+-------------Starting epoch 63------------- : 
+
+-------------Starting epoch 63------------- : 
+
+-------------Starting epoch 63------------- : 
+
+-------------Starting epoch 63------------- : 
+
+-------------Starting epoch 63------------- : 
+
+-------------Starting epoch 63------------- : 
+
+-------------Starting epoch 63------------- : 
+
+-------------Starting epoch 63------------- : 
+
+-------------Starting epoch 63------------- : 
+
+-------------Starting epoch 63------------- : 
+
+-------------Starting epoch 63------------- : 
+Epoch 99 Batch 19 Loss 0.07 error 2.00% 
+
+-------------Starting epoch 64------------- : 
+
+-------------Starting epoch 64------------- : 
+
+-------------Starting epoch 64------------- : 
+
+-------------Starting epoch 64------------- : 
+
+-------------Starting epoch 64------------- : 
+
+-------------Starting epoch 64------------- : 
+
+-------------Starting epoch 64------------- : 
+
+-------------Starting epoch 64------------- : 
+
+-------------Starting epoch 64------------- : 
+
+-------------Starting epoch 64------------- : 
+
+-------------Starting epoch 64------------- : 
+
+-------------Starting epoch 64------------- : 
+
+-------------Starting epoch 64------------- : 
+
+-------------Starting epoch 64------------- : 
+
+-------------Starting epoch 64------------- : 
+
+-------------Starting epoch 64------------- : 
+
+-------------Starting epoch 64------------- : 
+
+-------------Starting epoch 64------------- : 
+
+-------------Starting epoch 64------------- : 
+
+-------------Starting epoch 64------------- : 
+Epoch 99 Batch 19 Loss 0.08 error 2.00% 
+
+-------------Starting epoch 65------------- : 
+
+-------------Starting epoch 65------------- : 
+
+-------------Starting epoch 65------------- : 
+
+-------------Starting epoch 65------------- : 
+
+-------------Starting epoch 65------------- : 
+
+-------------Starting epoch 65------------- : 
+
+-------------Starting epoch 65------------- : 
+
+-------------Starting epoch 65------------- : 
+
+-------------Starting epoch 65------------- : 
+
+-------------Starting epoch 65------------- : 
+
+-------------Starting epoch 65------------- : 
+
+-------------Starting epoch 65------------- : 
+
+-------------Starting epoch 65------------- : 
+
+-------------Starting epoch 65------------- : 
+
+-------------Starting epoch 65------------- : 
+
+-------------Starting epoch 65------------- : 
+
+-------------Starting epoch 65------------- : 
+
+-------------Starting epoch 65------------- : 
+
+-------------Starting epoch 65------------- : 
+
+-------------Starting epoch 65------------- : 
+Epoch 99 Batch 19 Loss 0.06 error 2.00% 
+
+-------------Starting epoch 66------------- : 
+
+-------------Starting epoch 66------------- : 
+
+-------------Starting epoch 66------------- : 
+
+-------------Starting epoch 66------------- : 
+
+-------------Starting epoch 66------------- : 
+
+-------------Starting epoch 66------------- : 
+
+-------------Starting epoch 66------------- : 
+
+-------------Starting epoch 66------------- : 
+
+-------------Starting epoch 66------------- : 
+
+-------------Starting epoch 66------------- : 
+
+-------------Starting epoch 66------------- : 
+
+-------------Starting epoch 66------------- : 
+
+-------------Starting epoch 66------------- : 
+
+-------------Starting epoch 66------------- : 
+
+-------------Starting epoch 66------------- : 
+
+-------------Starting epoch 66------------- : 
+
+-------------Starting epoch 66------------- : 
+
+-------------Starting epoch 66------------- : 
+
+-------------Starting epoch 66------------- : 
+
+-------------Starting epoch 66------------- : 
+Epoch 99 Batch 19 Loss 0.09 error 2.00% 
+
+-------------Starting epoch 67------------- : 
+
+-------------Starting epoch 67------------- : 
+
+-------------Starting epoch 67------------- : 
+
+-------------Starting epoch 67------------- : 
+
+-------------Starting epoch 67------------- : 
+
+-------------Starting epoch 67------------- : 
+
+-------------Starting epoch 67------------- : 
+
+-------------Starting epoch 67------------- : 
+
+-------------Starting epoch 67------------- : 
+
+-------------Starting epoch 67------------- : 
+
+-------------Starting epoch 67------------- : 
+
+-------------Starting epoch 67------------- : 
+
+-------------Starting epoch 67------------- : 
+
+-------------Starting epoch 67------------- : 
+
+-------------Starting epoch 67------------- : 
+
+-------------Starting epoch 67------------- : 
+
+-------------Starting epoch 67------------- : 
+
+-------------Starting epoch 67------------- : 
+
+-------------Starting epoch 67------------- : 
+
+-------------Starting epoch 67------------- : 
+Epoch 99 Batch 19 Loss 0.10 error 2.00% 
+
+-------------Starting epoch 68------------- : 
+
+-------------Starting epoch 68------------- : 
+
+-------------Starting epoch 68------------- : 
+
+-------------Starting epoch 68------------- : 
+
+-------------Starting epoch 68------------- : 
+
+-------------Starting epoch 68------------- : 
+
+-------------Starting epoch 68------------- : 
+
+-------------Starting epoch 68------------- : 
+
+-------------Starting epoch 68------------- : 
+
+-------------Starting epoch 68------------- : 
+
+-------------Starting epoch 68------------- : 
+
+-------------Starting epoch 68------------- : 
+
+-------------Starting epoch 68------------- : 
+
+-------------Starting epoch 68------------- : 
+
+-------------Starting epoch 68------------- : 
+
+-------------Starting epoch 68------------- : 
+
+-------------Starting epoch 68------------- : 
+
+-------------Starting epoch 68------------- : 
+
+-------------Starting epoch 68------------- : 
+
+-------------Starting epoch 68------------- : 
+Epoch 99 Batch 19 Loss 0.05 error 0.00% 
+
+-------------Starting epoch 69------------- : 
+
+-------------Starting epoch 69------------- : 
+
+-------------Starting epoch 69------------- : 
+
+-------------Starting epoch 69------------- : 
+
+-------------Starting epoch 69------------- : 
+
+-------------Starting epoch 69------------- : 
+
+-------------Starting epoch 69------------- : 
+
+-------------Starting epoch 69------------- : 
+
+-------------Starting epoch 69------------- : 
+
+-------------Starting epoch 69------------- : 
+
+-------------Starting epoch 69------------- : 
+
+-------------Starting epoch 69------------- : 
+
+-------------Starting epoch 69------------- : 
+
+-------------Starting epoch 69------------- : 
+
+-------------Starting epoch 69------------- : 
+
+-------------Starting epoch 69------------- : 
+
+-------------Starting epoch 69------------- : 
+
+-------------Starting epoch 69------------- : 
+
+-------------Starting epoch 69------------- : 
+
+-------------Starting epoch 69------------- : 
+Epoch 99 Batch 19 Loss 0.12 error 4.00% 
+
+-------------Starting epoch 70------------- : 
+
+-------------Starting epoch 70------------- : 
+
+-------------Starting epoch 70------------- : 
+
+-------------Starting epoch 70------------- : 
+
+-------------Starting epoch 70------------- : 
+
+-------------Starting epoch 70------------- : 
+
+-------------Starting epoch 70------------- : 
+
+-------------Starting epoch 70------------- : 
+
+-------------Starting epoch 70------------- : 
+
+-------------Starting epoch 70------------- : 
+
+-------------Starting epoch 70------------- : 
+
+-------------Starting epoch 70------------- : 
+
+-------------Starting epoch 70------------- : 
+
+-------------Starting epoch 70------------- : 
+
+-------------Starting epoch 70------------- : 
+
+-------------Starting epoch 70------------- : 
+
+-------------Starting epoch 70------------- : 
+
+-------------Starting epoch 70------------- : 
+
+-------------Starting epoch 70------------- : 
+
+-------------Starting epoch 70------------- : 
+Epoch 99 Batch 19 Loss 0.19 error 6.00% 
+
+-------------Starting epoch 71------------- : 
+
+-------------Starting epoch 71------------- : 
+
+-------------Starting epoch 71------------- : 
+
+-------------Starting epoch 71------------- : 
+
+-------------Starting epoch 71------------- : 
+
+-------------Starting epoch 71------------- : 
+
+-------------Starting epoch 71------------- : 
+
+-------------Starting epoch 71------------- : 
+
+-------------Starting epoch 71------------- : 
+
+-------------Starting epoch 71------------- : 
+
+-------------Starting epoch 71------------- : 
+
+-------------Starting epoch 71------------- : 
+
+-------------Starting epoch 71------------- : 
+
+-------------Starting epoch 71------------- : 
+
+-------------Starting epoch 71------------- : 
+
+-------------Starting epoch 71------------- : 
+
+-------------Starting epoch 71------------- : 
+
+-------------Starting epoch 71------------- : 
+
+-------------Starting epoch 71------------- : 
+
+-------------Starting epoch 71------------- : 
+Epoch 99 Batch 19 Loss 0.08 error 2.00% 
+
+-------------Starting epoch 72------------- : 
+
+-------------Starting epoch 72------------- : 
+
+-------------Starting epoch 72------------- : 
+
+-------------Starting epoch 72------------- : 
+
+-------------Starting epoch 72------------- : 
+
+-------------Starting epoch 72------------- : 
+
+-------------Starting epoch 72------------- : 
+
+-------------Starting epoch 72------------- : 
+
+-------------Starting epoch 72------------- : 
+
+-------------Starting epoch 72------------- : 
+
+-------------Starting epoch 72------------- : 
+
+-------------Starting epoch 72------------- : 
+
+-------------Starting epoch 72------------- : 
+
+-------------Starting epoch 72------------- : 
+
+-------------Starting epoch 72------------- : 
+
+-------------Starting epoch 72------------- : 
+
+-------------Starting epoch 72------------- : 
+
+-------------Starting epoch 72------------- : 
+
+-------------Starting epoch 72------------- : 
+
+-------------Starting epoch 72------------- : 
+Epoch 99 Batch 19 Loss 0.15 error 6.00% 
+
+-------------Starting epoch 73------------- : 
+
+-------------Starting epoch 73------------- : 
+
+-------------Starting epoch 73------------- : 
+
+-------------Starting epoch 73------------- : 
+
+-------------Starting epoch 73------------- : 
+
+-------------Starting epoch 73------------- : 
+
+-------------Starting epoch 73------------- : 
+
+-------------Starting epoch 73------------- : 
+
+-------------Starting epoch 73------------- : 
+
+-------------Starting epoch 73------------- : 
+
+-------------Starting epoch 73------------- : 
+
+-------------Starting epoch 73------------- : 
+
+-------------Starting epoch 73------------- : 
+
+-------------Starting epoch 73------------- : 
+
+-------------Starting epoch 73------------- : 
+
+-------------Starting epoch 73------------- : 
+
+-------------Starting epoch 73------------- : 
+
+-------------Starting epoch 73------------- : 
+
+-------------Starting epoch 73------------- : 
+
+-------------Starting epoch 73------------- : 
+Epoch 99 Batch 19 Loss 0.17 error 6.00% 
+
+-------------Starting epoch 74------------- : 
+
+-------------Starting epoch 74------------- : 
+
+-------------Starting epoch 74------------- : 
+
+-------------Starting epoch 74------------- : 
+
+-------------Starting epoch 74------------- : 
+
+-------------Starting epoch 74------------- : 
+
+-------------Starting epoch 74------------- : 
+
+-------------Starting epoch 74------------- : 
+
+-------------Starting epoch 74------------- : 
+
+-------------Starting epoch 74------------- : 
+
+-------------Starting epoch 74------------- : 
+
+-------------Starting epoch 74------------- : 
+
+-------------Starting epoch 74------------- : 
+
+-------------Starting epoch 74------------- : 
+
+-------------Starting epoch 74------------- : 
+
+-------------Starting epoch 74------------- : 
+
+-------------Starting epoch 74------------- : 
+
+-------------Starting epoch 74------------- : 
+
+-------------Starting epoch 74------------- : 
+
+-------------Starting epoch 74------------- : 
+Epoch 99 Batch 19 Loss 0.17 error 6.00% 
+
+-------------Starting epoch 75------------- : 
+
+-------------Starting epoch 75------------- : 
+
+-------------Starting epoch 75------------- : 
+
+-------------Starting epoch 75------------- : 
+
+-------------Starting epoch 75------------- : 
+
+-------------Starting epoch 75------------- : 
+
+-------------Starting epoch 75------------- : 
+
+-------------Starting epoch 75------------- : 
+
+-------------Starting epoch 75------------- : 
+
+-------------Starting epoch 75------------- : 
+
+-------------Starting epoch 75------------- : 
+
+-------------Starting epoch 75------------- : 
+
+-------------Starting epoch 75------------- : 
+
+-------------Starting epoch 75------------- : 
+
+-------------Starting epoch 75------------- : 
+
+-------------Starting epoch 75------------- : 
+
+-------------Starting epoch 75------------- : 
+
+-------------Starting epoch 75------------- : 
+
+-------------Starting epoch 75------------- : 
+
+-------------Starting epoch 75------------- : 
+Epoch 99 Batch 19 Loss 0.08 error 2.00% 
+
+-------------Starting epoch 76------------- : 
+
+-------------Starting epoch 76------------- : 
+
+-------------Starting epoch 76------------- : 
+
+-------------Starting epoch 76------------- : 
+
+-------------Starting epoch 76------------- : 
+
+-------------Starting epoch 76------------- : 
+
+-------------Starting epoch 76------------- : 
+
+-------------Starting epoch 76------------- : 
+
+-------------Starting epoch 76------------- : 
+
+-------------Starting epoch 76------------- : 
+
+-------------Starting epoch 76------------- : 
+
+-------------Starting epoch 76------------- : 
+
+-------------Starting epoch 76------------- : 
+
+-------------Starting epoch 76------------- : 
+
+-------------Starting epoch 76------------- : 
+
+-------------Starting epoch 76------------- : 
+
+-------------Starting epoch 76------------- : 
+
+-------------Starting epoch 76------------- : 
+
+-------------Starting epoch 76------------- : 
+
+-------------Starting epoch 76------------- : 
+Epoch 99 Batch 19 Loss 0.08 error 2.00% 
+
+-------------Starting epoch 77------------- : 
+
+-------------Starting epoch 77------------- : 
+
+-------------Starting epoch 77------------- : 
+
+-------------Starting epoch 77------------- : 
+
+-------------Starting epoch 77------------- : 
+
+-------------Starting epoch 77------------- : 
+
+-------------Starting epoch 77------------- : 
+
+-------------Starting epoch 77------------- : 
+
+-------------Starting epoch 77------------- : 
+
+-------------Starting epoch 77------------- : 
+
+-------------Starting epoch 77------------- : 
+
+-------------Starting epoch 77------------- : 
+
+-------------Starting epoch 77------------- : 
+
+-------------Starting epoch 77------------- : 
+
+-------------Starting epoch 77------------- : 
+
+-------------Starting epoch 77------------- : 
+
+-------------Starting epoch 77------------- : 
+
+-------------Starting epoch 77------------- : 
+
+-------------Starting epoch 77------------- : 
+
+-------------Starting epoch 77------------- : 
+Epoch 99 Batch 19 Loss 0.20 error 8.00% 
+
+-------------Starting epoch 78------------- : 
+
+-------------Starting epoch 78------------- : 
+
+-------------Starting epoch 78------------- : 
+
+-------------Starting epoch 78------------- : 
+
+-------------Starting epoch 78------------- : 
+
+-------------Starting epoch 78------------- : 
+
+-------------Starting epoch 78------------- : 
+
+-------------Starting epoch 78------------- : 
+
+-------------Starting epoch 78------------- : 
+
+-------------Starting epoch 78------------- : 
+
+-------------Starting epoch 78------------- : 
+
+-------------Starting epoch 78------------- : 
+
+-------------Starting epoch 78------------- : 
+
+-------------Starting epoch 78------------- : 
+
+-------------Starting epoch 78------------- : 
+
+-------------Starting epoch 78------------- : 
+
+-------------Starting epoch 78------------- : 
+
+-------------Starting epoch 78------------- : 
+
+-------------Starting epoch 78------------- : 
+
+-------------Starting epoch 78------------- : 
+Epoch 99 Batch 19 Loss 0.07 error 2.00% 
+
+-------------Starting epoch 79------------- : 
+
+-------------Starting epoch 79------------- : 
+
+-------------Starting epoch 79------------- : 
+
+-------------Starting epoch 79------------- : 
+
+-------------Starting epoch 79------------- : 
+
+-------------Starting epoch 79------------- : 
+
+-------------Starting epoch 79------------- : 
+
+-------------Starting epoch 79------------- : 
+
+-------------Starting epoch 79------------- : 
+
+-------------Starting epoch 79------------- : 
+
+-------------Starting epoch 79------------- : 
+
+-------------Starting epoch 79------------- : 
+
+-------------Starting epoch 79------------- : 
+
+-------------Starting epoch 79------------- : 
+
+-------------Starting epoch 79------------- : 
+
+-------------Starting epoch 79------------- : 
+
+-------------Starting epoch 79------------- : 
+
+-------------Starting epoch 79------------- : 
+
+-------------Starting epoch 79------------- : 
+
+-------------Starting epoch 79------------- : 
+Epoch 99 Batch 19 Loss 0.14 error 4.00% 
+
+-------------Starting epoch 80------------- : 
+
+-------------Starting epoch 80------------- : 
+
+-------------Starting epoch 80------------- : 
+
+-------------Starting epoch 80------------- : 
+
+-------------Starting epoch 80------------- : 
+
+-------------Starting epoch 80------------- : 
+
+-------------Starting epoch 80------------- : 
+
+-------------Starting epoch 80------------- : 
+
+-------------Starting epoch 80------------- : 
+
+-------------Starting epoch 80------------- : 
+
+-------------Starting epoch 80------------- : 
+
+-------------Starting epoch 80------------- : 
+
+-------------Starting epoch 80------------- : 
+
+-------------Starting epoch 80------------- : 
+
+-------------Starting epoch 80------------- : 
+
+-------------Starting epoch 80------------- : 
+
+-------------Starting epoch 80------------- : 
+
+-------------Starting epoch 80------------- : 
+
+-------------Starting epoch 80------------- : 
+
+-------------Starting epoch 80------------- : 
+Epoch 99 Batch 19 Loss 0.04 error 2.00% 
+
+-------------Starting epoch 81------------- : 
+
+-------------Starting epoch 81------------- : 
+
+-------------Starting epoch 81------------- : 
+
+-------------Starting epoch 81------------- : 
+
+-------------Starting epoch 81------------- : 
+
+-------------Starting epoch 81------------- : 
+
+-------------Starting epoch 81------------- : 
+
+-------------Starting epoch 81------------- : 
+
+-------------Starting epoch 81------------- : 
+
+-------------Starting epoch 81------------- : 
+
+-------------Starting epoch 81------------- : 
+
+-------------Starting epoch 81------------- : 
+
+-------------Starting epoch 81------------- : 
+
+-------------Starting epoch 81------------- : 
+
+-------------Starting epoch 81------------- : 
+
+-------------Starting epoch 81------------- : 
+
+-------------Starting epoch 81------------- : 
+
+-------------Starting epoch 81------------- : 
+
+-------------Starting epoch 81------------- : 
+
+-------------Starting epoch 81------------- : 
+Epoch 99 Batch 19 Loss 0.08 error 2.00% 
+
+-------------Starting epoch 82------------- : 
+
+-------------Starting epoch 82------------- : 
+
+-------------Starting epoch 82------------- : 
+
+-------------Starting epoch 82------------- : 
+
+-------------Starting epoch 82------------- : 
+
+-------------Starting epoch 82------------- : 
+
+-------------Starting epoch 82------------- : 
+
+-------------Starting epoch 82------------- : 
+
+-------------Starting epoch 82------------- : 
+
+-------------Starting epoch 82------------- : 
+
+-------------Starting epoch 82------------- : 
+
+-------------Starting epoch 82------------- : 
+
+-------------Starting epoch 82------------- : 
+
+-------------Starting epoch 82------------- : 
+
+-------------Starting epoch 82------------- : 
+
+-------------Starting epoch 82------------- : 
+
+-------------Starting epoch 82------------- : 
+
+-------------Starting epoch 82------------- : 
+
+-------------Starting epoch 82------------- : 
+
+-------------Starting epoch 82------------- : 
+Epoch 99 Batch 19 Loss 0.19 error 6.00% 
+
+-------------Starting epoch 83------------- : 
+
+-------------Starting epoch 83------------- : 
+
+-------------Starting epoch 83------------- : 
+
+-------------Starting epoch 83------------- : 
+
+-------------Starting epoch 83------------- : 
+
+-------------Starting epoch 83------------- : 
+
+-------------Starting epoch 83------------- : 
+
+-------------Starting epoch 83------------- : 
+
+-------------Starting epoch 83------------- : 
+
+-------------Starting epoch 83------------- : 
+
+-------------Starting epoch 83------------- : 
+
+-------------Starting epoch 83------------- : 
+
+-------------Starting epoch 83------------- : 
+
+-------------Starting epoch 83------------- : 
+
+-------------Starting epoch 83------------- : 
+
+-------------Starting epoch 83------------- : 
+
+-------------Starting epoch 83------------- : 
+
+-------------Starting epoch 83------------- : 
+
+-------------Starting epoch 83------------- : 
+
+-------------Starting epoch 83------------- : 
+Epoch 99 Batch 19 Loss 0.08 error 2.00% 
+
+-------------Starting epoch 84------------- : 
+
+-------------Starting epoch 84------------- : 
+
+-------------Starting epoch 84------------- : 
+
+-------------Starting epoch 84------------- : 
+
+-------------Starting epoch 84------------- : 
+
+-------------Starting epoch 84------------- : 
+
+-------------Starting epoch 84------------- : 
+
+-------------Starting epoch 84------------- : 
+
+-------------Starting epoch 84------------- : 
+
+-------------Starting epoch 84------------- : 
+
+-------------Starting epoch 84------------- : 
+
+-------------Starting epoch 84------------- : 
+
+-------------Starting epoch 84------------- : 
+
+-------------Starting epoch 84------------- : 
+
+-------------Starting epoch 84------------- : 
+
+-------------Starting epoch 84------------- : 
+
+-------------Starting epoch 84------------- : 
+
+-------------Starting epoch 84------------- : 
+
+-------------Starting epoch 84------------- : 
+
+-------------Starting epoch 84------------- : 
+Epoch 99 Batch 19 Loss 0.07 error 2.00% 
+
+-------------Starting epoch 85------------- : 
+
+-------------Starting epoch 85------------- : 
+
+-------------Starting epoch 85------------- : 
+
+-------------Starting epoch 85------------- : 
+
+-------------Starting epoch 85------------- : 
+
+-------------Starting epoch 85------------- : 
+
+-------------Starting epoch 85------------- : 
+
+-------------Starting epoch 85------------- : 
+
+-------------Starting epoch 85------------- : 
+
+-------------Starting epoch 85------------- : 
+
+-------------Starting epoch 85------------- : 
+
+-------------Starting epoch 85------------- : 
+
+-------------Starting epoch 85------------- : 
+
+-------------Starting epoch 85------------- : 
+
+-------------Starting epoch 85------------- : 
+
+-------------Starting epoch 85------------- : 
+
+-------------Starting epoch 85------------- : 
+
+-------------Starting epoch 85------------- : 
+
+-------------Starting epoch 85------------- : 
+
+-------------Starting epoch 85------------- : 
+Epoch 99 Batch 19 Loss 0.19 error 6.00% 
+
+-------------Starting epoch 86------------- : 
+
+-------------Starting epoch 86------------- : 
+
+-------------Starting epoch 86------------- : 
+
+-------------Starting epoch 86------------- : 
+
+-------------Starting epoch 86------------- : 
+
+-------------Starting epoch 86------------- : 
+
+-------------Starting epoch 86------------- : 
+
+-------------Starting epoch 86------------- : 
+
+-------------Starting epoch 86------------- : 
+
+-------------Starting epoch 86------------- : 
+
+-------------Starting epoch 86------------- : 
+
+-------------Starting epoch 86------------- : 
+
+-------------Starting epoch 86------------- : 
+
+-------------Starting epoch 86------------- : 
+
+-------------Starting epoch 86------------- : 
+
+-------------Starting epoch 86------------- : 
+
+-------------Starting epoch 86------------- : 
+
+-------------Starting epoch 86------------- : 
+
+-------------Starting epoch 86------------- : 
+
+-------------Starting epoch 86------------- : 
+Epoch 99 Batch 19 Loss 0.08 error 2.00% 
+
+-------------Starting epoch 87------------- : 
+
+-------------Starting epoch 87------------- : 
+
+-------------Starting epoch 87------------- : 
+
+-------------Starting epoch 87------------- : 
+
+-------------Starting epoch 87------------- : 
+
+-------------Starting epoch 87------------- : 
+
+-------------Starting epoch 87------------- : 
+
+-------------Starting epoch 87------------- : 
+
+-------------Starting epoch 87------------- : 
+
+-------------Starting epoch 87------------- : 
+
+-------------Starting epoch 87------------- : 
+
+-------------Starting epoch 87------------- : 
+
+-------------Starting epoch 87------------- : 
+
+-------------Starting epoch 87------------- : 
+
+-------------Starting epoch 87------------- : 
+
+-------------Starting epoch 87------------- : 
+
+-------------Starting epoch 87------------- : 
+
+-------------Starting epoch 87------------- : 
+
+-------------Starting epoch 87------------- : 
+
+-------------Starting epoch 87------------- : 
+Epoch 99 Batch 19 Loss 0.04 error 2.00% 
+
+-------------Starting epoch 88------------- : 
+
+-------------Starting epoch 88------------- : 
+
+-------------Starting epoch 88------------- : 
+
+-------------Starting epoch 88------------- : 
+
+-------------Starting epoch 88------------- : 
+
+-------------Starting epoch 88------------- : 
+
+-------------Starting epoch 88------------- : 
+
+-------------Starting epoch 88------------- : 
+
+-------------Starting epoch 88------------- : 
+
+-------------Starting epoch 88------------- : 
+
+-------------Starting epoch 88------------- : 
+
+-------------Starting epoch 88------------- : 
+
+-------------Starting epoch 88------------- : 
+
+-------------Starting epoch 88------------- : 
+
+-------------Starting epoch 88------------- : 
+
+-------------Starting epoch 88------------- : 
+
+-------------Starting epoch 88------------- : 
+
+-------------Starting epoch 88------------- : 
+
+-------------Starting epoch 88------------- : 
+
+-------------Starting epoch 88------------- : 
+Epoch 99 Batch 19 Loss 0.22 error 6.00% 
+
+-------------Starting epoch 89------------- : 
+
+-------------Starting epoch 89------------- : 
+
+-------------Starting epoch 89------------- : 
+
+-------------Starting epoch 89------------- : 
+
+-------------Starting epoch 89------------- : 
+
+-------------Starting epoch 89------------- : 
+
+-------------Starting epoch 89------------- : 
+
+-------------Starting epoch 89------------- : 
+
+-------------Starting epoch 89------------- : 
+
+-------------Starting epoch 89------------- : 
+
+-------------Starting epoch 89------------- : 
+
+-------------Starting epoch 89------------- : 
+
+-------------Starting epoch 89------------- : 
+
+-------------Starting epoch 89------------- : 
+
+-------------Starting epoch 89------------- : 
+
+-------------Starting epoch 89------------- : 
+
+-------------Starting epoch 89------------- : 
+
+-------------Starting epoch 89------------- : 
+
+-------------Starting epoch 89------------- : 
+
+-------------Starting epoch 89------------- : 
+Epoch 99 Batch 19 Loss 0.07 error 2.00% 
+
+-------------Starting epoch 90------------- : 
+
+-------------Starting epoch 90------------- : 
+
+-------------Starting epoch 90------------- : 
+
+-------------Starting epoch 90------------- : 
+
+-------------Starting epoch 90------------- : 
+
+-------------Starting epoch 90------------- : 
+
+-------------Starting epoch 90------------- : 
+
+-------------Starting epoch 90------------- : 
+
+-------------Starting epoch 90------------- : 
+
+-------------Starting epoch 90------------- : 
+
+-------------Starting epoch 90------------- : 
+
+-------------Starting epoch 90------------- : 
+
+-------------Starting epoch 90------------- : 
+
+-------------Starting epoch 90------------- : 
+
+-------------Starting epoch 90------------- : 
+
+-------------Starting epoch 90------------- : 
+
+-------------Starting epoch 90------------- : 
+
+-------------Starting epoch 90------------- : 
+
+-------------Starting epoch 90------------- : 
+
+-------------Starting epoch 90------------- : 
+Epoch 99 Batch 19 Loss 0.08 error 2.00% 
+
+-------------Starting epoch 91------------- : 
+
+-------------Starting epoch 91------------- : 
+
+-------------Starting epoch 91------------- : 
+
+-------------Starting epoch 91------------- : 
+
+-------------Starting epoch 91------------- : 
+
+-------------Starting epoch 91------------- : 
+
+-------------Starting epoch 91------------- : 
+
+-------------Starting epoch 91------------- : 
+
+-------------Starting epoch 91------------- : 
+
+-------------Starting epoch 91------------- : 
+
+-------------Starting epoch 91------------- : 
+
+-------------Starting epoch 91------------- : 
+
+-------------Starting epoch 91------------- : 
+
+-------------Starting epoch 91------------- : 
+
+-------------Starting epoch 91------------- : 
+
+-------------Starting epoch 91------------- : 
+
+-------------Starting epoch 91------------- : 
+
+-------------Starting epoch 91------------- : 
+
+-------------Starting epoch 91------------- : 
+
+-------------Starting epoch 91------------- : 
+Epoch 99 Batch 19 Loss 0.10 error 2.00% 
+
+-------------Starting epoch 92------------- : 
+
+-------------Starting epoch 92------------- : 
+
+-------------Starting epoch 92------------- : 
+
+-------------Starting epoch 92------------- : 
+
+-------------Starting epoch 92------------- : 
+
+-------------Starting epoch 92------------- : 
+
+-------------Starting epoch 92------------- : 
+
+-------------Starting epoch 92------------- : 
+
+-------------Starting epoch 92------------- : 
+
+-------------Starting epoch 92------------- : 
+
+-------------Starting epoch 92------------- : 
+
+-------------Starting epoch 92------------- : 
+
+-------------Starting epoch 92------------- : 
+
+-------------Starting epoch 92------------- : 
+
+-------------Starting epoch 92------------- : 
+
+-------------Starting epoch 92------------- : 
+
+-------------Starting epoch 92------------- : 
+
+-------------Starting epoch 92------------- : 
+
+-------------Starting epoch 92------------- : 
+
+-------------Starting epoch 92------------- : 
+Epoch 99 Batch 19 Loss 0.15 error 6.00% 
+
+-------------Starting epoch 93------------- : 
+
+-------------Starting epoch 93------------- : 
+
+-------------Starting epoch 93------------- : 
+
+-------------Starting epoch 93------------- : 
+
+-------------Starting epoch 93------------- : 
+
+-------------Starting epoch 93------------- : 
+
+-------------Starting epoch 93------------- : 
+
+-------------Starting epoch 93------------- : 
+
+-------------Starting epoch 93------------- : 
+
+-------------Starting epoch 93------------- : 
+
+-------------Starting epoch 93------------- : 
+
+-------------Starting epoch 93------------- : 
+
+-------------Starting epoch 93------------- : 
+
+-------------Starting epoch 93------------- : 
+
+-------------Starting epoch 93------------- : 
+
+-------------Starting epoch 93------------- : 
+
+-------------Starting epoch 93------------- : 
+
+-------------Starting epoch 93------------- : 
+
+-------------Starting epoch 93------------- : 
+
+-------------Starting epoch 93------------- : 
+Epoch 99 Batch 19 Loss 0.08 error 2.00% 
+
+-------------Starting epoch 94------------- : 
+
+-------------Starting epoch 94------------- : 
+
+-------------Starting epoch 94------------- : 
+
+-------------Starting epoch 94------------- : 
+
+-------------Starting epoch 94------------- : 
+
+-------------Starting epoch 94------------- : 
+
+-------------Starting epoch 94------------- : 
+
+-------------Starting epoch 94------------- : 
+
+-------------Starting epoch 94------------- : 
+
+-------------Starting epoch 94------------- : 
+
+-------------Starting epoch 94------------- : 
+
+-------------Starting epoch 94------------- : 
+
+-------------Starting epoch 94------------- : 
+
+-------------Starting epoch 94------------- : 
+
+-------------Starting epoch 94------------- : 
+
+-------------Starting epoch 94------------- : 
+
+-------------Starting epoch 94------------- : 
+
+-------------Starting epoch 94------------- : 
+
+-------------Starting epoch 94------------- : 
+
+-------------Starting epoch 94------------- : 
+Epoch 99 Batch 19 Loss 0.11 error 2.00% 
+
+-------------Starting epoch 95------------- : 
+
+-------------Starting epoch 95------------- : 
+
+-------------Starting epoch 95------------- : 
+
+-------------Starting epoch 95------------- : 
+
+-------------Starting epoch 95------------- : 
+
+-------------Starting epoch 95------------- : 
+
+-------------Starting epoch 95------------- : 
+
+-------------Starting epoch 95------------- : 
+
+-------------Starting epoch 95------------- : 
+
+-------------Starting epoch 95------------- : 
+
+-------------Starting epoch 95------------- : 
+
+-------------Starting epoch 95------------- : 
+
+-------------Starting epoch 95------------- : 
+
+-------------Starting epoch 95------------- : 
+
+-------------Starting epoch 95------------- : 
+
+-------------Starting epoch 95------------- : 
+
+-------------Starting epoch 95------------- : 
+
+-------------Starting epoch 95------------- : 
+
+-------------Starting epoch 95------------- : 
+
+-------------Starting epoch 95------------- : 
+Epoch 99 Batch 19 Loss 0.17 error 6.00% 
+
+-------------Starting epoch 96------------- : 
+
+-------------Starting epoch 96------------- : 
+
+-------------Starting epoch 96------------- : 
+
+-------------Starting epoch 96------------- : 
+
+-------------Starting epoch 96------------- : 
+
+-------------Starting epoch 96------------- : 
+
+-------------Starting epoch 96------------- : 
+
+-------------Starting epoch 96------------- : 
+
+-------------Starting epoch 96------------- : 
+
+-------------Starting epoch 96------------- : 
+
+-------------Starting epoch 96------------- : 
+
+-------------Starting epoch 96------------- : 
+
+-------------Starting epoch 96------------- : 
+
+-------------Starting epoch 96------------- : 
+
+-------------Starting epoch 96------------- : 
+
+-------------Starting epoch 96------------- : 
+
+-------------Starting epoch 96------------- : 
+
+-------------Starting epoch 96------------- : 
+
+-------------Starting epoch 96------------- : 
+
+-------------Starting epoch 96------------- : 
+Epoch 99 Batch 19 Loss 0.07 error 2.00% 
+
+-------------Starting epoch 97------------- : 
+
+-------------Starting epoch 97------------- : 
+
+-------------Starting epoch 97------------- : 
+
+-------------Starting epoch 97------------- : 
+
+-------------Starting epoch 97------------- : 
+
+-------------Starting epoch 97------------- : 
+
+-------------Starting epoch 97------------- : 
+
+-------------Starting epoch 97------------- : 
+
+-------------Starting epoch 97------------- : 
+
+-------------Starting epoch 97------------- : 
+
+-------------Starting epoch 97------------- : 
+
+-------------Starting epoch 97------------- : 
+
+-------------Starting epoch 97------------- : 
+
+-------------Starting epoch 97------------- : 
+
+-------------Starting epoch 97------------- : 
+
+-------------Starting epoch 97------------- : 
+
+-------------Starting epoch 97------------- : 
+
+-------------Starting epoch 97------------- : 
+
+-------------Starting epoch 97------------- : 
+
+-------------Starting epoch 97------------- : 
+Epoch 99 Batch 19 Loss 0.06 error 2.00% 
+
+-------------Starting epoch 98------------- : 
+
+-------------Starting epoch 98------------- : 
+
+-------------Starting epoch 98------------- : 
+
+-------------Starting epoch 98------------- : 
+
+-------------Starting epoch 98------------- : 
+
+-------------Starting epoch 98------------- : 
+
+-------------Starting epoch 98------------- : 
+
+-------------Starting epoch 98------------- : 
+
+-------------Starting epoch 98------------- : 
+
+-------------Starting epoch 98------------- : 
+
+-------------Starting epoch 98------------- : 
+
+-------------Starting epoch 98------------- : 
+
+-------------Starting epoch 98------------- : 
+
+-------------Starting epoch 98------------- : 
+
+-------------Starting epoch 98------------- : 
+
+-------------Starting epoch 98------------- : 
+
+-------------Starting epoch 98------------- : 
+
+-------------Starting epoch 98------------- : 
+
+-------------Starting epoch 98------------- : 
+
+-------------Starting epoch 98------------- : 
+Epoch 99 Batch 19 Loss 0.14 error 6.00% 
+
+-------------Starting epoch 99------------- : 
+
+-------------Starting epoch 99------------- : 
+
+-------------Starting epoch 99------------- : 
+
+-------------Starting epoch 99------------- : 
+
+-------------Starting epoch 99------------- : 
+
+-------------Starting epoch 99------------- : 
+
+-------------Starting epoch 99------------- : 
+
+-------------Starting epoch 99------------- : 
+
+-------------Starting epoch 99------------- : 
+
+-------------Starting epoch 99------------- : 
+
+-------------Starting epoch 99------------- : 
+
+-------------Starting epoch 99------------- : 
+
+-------------Starting epoch 99------------- : 
+
+-------------Starting epoch 99------------- : 
+
+-------------Starting epoch 99------------- : 
+
+-------------Starting epoch 99------------- : 
+
+-------------Starting epoch 99------------- : 
+
+-------------Starting epoch 99------------- : 
+
+-------------Starting epoch 99------------- : 
+
+-------------Starting epoch 99------------- : 
+Epoch 99 Batch 19 Loss 0.06 error 2.00% 
+Final Train Error: 3.50% 
+Final Test Error: 4.30% 

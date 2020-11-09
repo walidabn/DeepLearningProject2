@@ -1,0 +1,2602 @@
+
+-------------Starting epoch 0------------- : 
+Epoch 0 Batch 0 Loss 2.00 error 52.00% 
+Epoch 0 Batch 1 Loss 2.00 error 44.00% 
+Epoch 0 Batch 2 Loss 2.13 error 56.00% 
+Epoch 0 Batch 3 Loss 2.03 error 48.00% 
+Epoch 0 Batch 4 Loss 2.00 error 54.00% 
+Epoch 0 Batch 5 Loss 1.96 error 42.00% 
+Epoch 0 Batch 6 Loss 2.14 error 56.00% 
+Epoch 0 Batch 7 Loss 2.05 error 50.00% 
+Epoch 0 Batch 8 Loss 1.98 error 42.00% 
+Epoch 0 Batch 9 Loss 2.24 error 64.00% 
+Epoch 0 Batch 10 Loss 2.27 error 52.00% 
+Epoch 0 Batch 11 Loss 2.05 error 58.00% 
+Epoch 0 Batch 12 Loss 2.15 error 56.00% 
+Epoch 0 Batch 13 Loss 2.01 error 48.00% 
+Epoch 0 Batch 14 Loss 2.03 error 62.00% 
+Epoch 0 Batch 15 Loss 2.01 error 44.00% 
+Epoch 0 Batch 16 Loss 2.07 error 56.00% 
+Epoch 0 Batch 17 Loss 2.12 error 58.00% 
+Epoch 0 Batch 18 Loss 2.02 error 48.00% 
+Epoch 0 Batch 19 Loss 1.99 error 50.00% 
+
+------------- After Epoch 0 ------------- 
+ 
+Loss: 1.99, Error: 41.70%
+
+-------------Starting epoch 1------------- : 
+Epoch 1 Batch 0 Loss 2.00 error 46.00% 
+Epoch 1 Batch 1 Loss 1.99 error 46.00% 
+Epoch 1 Batch 2 Loss 2.14 error 56.00% 
+Epoch 1 Batch 3 Loss 2.02 error 48.00% 
+Epoch 1 Batch 4 Loss 1.99 error 40.00% 
+Epoch 1 Batch 5 Loss 1.96 error 42.00% 
+Epoch 1 Batch 6 Loss 2.13 error 56.00% 
+Epoch 1 Batch 7 Loss 2.04 error 50.00% 
+Epoch 1 Batch 8 Loss 1.98 error 42.00% 
+Epoch 1 Batch 9 Loss 2.24 error 64.00% 
+Epoch 1 Batch 10 Loss 2.24 error 52.00% 
+Epoch 1 Batch 11 Loss 2.04 error 58.00% 
+Epoch 1 Batch 12 Loss 2.14 error 56.00% 
+Epoch 1 Batch 13 Loss 2.01 error 48.00% 
+Epoch 1 Batch 14 Loss 2.02 error 62.00% 
+Epoch 1 Batch 15 Loss 2.00 error 44.00% 
+Epoch 1 Batch 16 Loss 2.07 error 56.00% 
+Epoch 1 Batch 17 Loss 2.11 error 58.00% 
+Epoch 1 Batch 18 Loss 2.02 error 48.00% 
+Epoch 1 Batch 19 Loss 1.99 error 38.00% 
+
+------------- After Epoch 1 ------------- 
+ 
+Loss: 1.99, Error: 41.30%
+
+-------------Starting epoch 2------------- : 
+Epoch 2 Batch 0 Loss 1.99 error 46.00% 
+Epoch 2 Batch 1 Loss 1.98 error 44.00% 
+Epoch 2 Batch 2 Loss 2.13 error 56.00% 
+Epoch 2 Batch 3 Loss 2.02 error 48.00% 
+Epoch 2 Batch 4 Loss 1.96 error 34.00% 
+Epoch 2 Batch 5 Loss 1.96 error 42.00% 
+Epoch 2 Batch 6 Loss 2.13 error 56.00% 
+Epoch 2 Batch 7 Loss 2.07 error 50.00% 
+Epoch 2 Batch 8 Loss 1.95 error 42.00% 
+Epoch 2 Batch 9 Loss 2.24 error 64.00% 
+Epoch 2 Batch 10 Loss 2.30 error 52.00% 
+Epoch 2 Batch 11 Loss 2.07 error 58.00% 
+Epoch 2 Batch 12 Loss 2.16 error 56.00% 
+Epoch 2 Batch 13 Loss 2.01 error 48.00% 
+Epoch 2 Batch 14 Loss 2.01 error 62.00% 
+Epoch 2 Batch 15 Loss 2.00 error 44.00% 
+Epoch 2 Batch 16 Loss 2.06 error 56.00% 
+Epoch 2 Batch 17 Loss 2.12 error 58.00% 
+Epoch 2 Batch 18 Loss 2.01 error 48.00% 
+Epoch 2 Batch 19 Loss 1.98 error 46.00% 
+
+------------- After Epoch 2 ------------- 
+ 
+Loss: 1.97, Error: 41.00%
+
+-------------Starting epoch 3------------- : 
+Epoch 3 Batch 0 Loss 1.99 error 46.00% 
+Epoch 3 Batch 1 Loss 1.96 error 46.00% 
+Epoch 3 Batch 2 Loss 2.12 error 56.00% 
+Epoch 3 Batch 3 Loss 2.03 error 48.00% 
+Epoch 3 Batch 4 Loss 1.92 error 32.00% 
+Epoch 3 Batch 5 Loss 1.97 error 42.00% 
+Epoch 3 Batch 6 Loss 2.13 error 56.00% 
+Epoch 3 Batch 7 Loss 2.11 error 50.00% 
+Epoch 3 Batch 8 Loss 1.92 error 42.00% 
+Epoch 3 Batch 9 Loss 2.20 error 64.00% 
+Epoch 3 Batch 10 Loss 2.40 error 52.00% 
+Epoch 3 Batch 11 Loss 2.14 error 58.00% 
+Epoch 3 Batch 12 Loss 2.17 error 56.00% 
+Epoch 3 Batch 13 Loss 2.01 error 48.00% 
+Epoch 3 Batch 14 Loss 1.98 error 34.00% 
+Epoch 3 Batch 15 Loss 2.00 error 44.00% 
+Epoch 3 Batch 16 Loss 2.03 error 48.00% 
+Epoch 3 Batch 17 Loss 2.12 error 58.00% 
+Epoch 3 Batch 18 Loss 2.00 error 48.00% 
+Epoch 3 Batch 19 Loss 1.98 error 48.00% 
+
+------------- After Epoch 3 ------------- 
+ 
+Loss: 1.96, Error: 40.30%
+
+-------------Starting epoch 4------------- : 
+Epoch 4 Batch 0 Loss 1.98 error 46.00% 
+Epoch 4 Batch 1 Loss 1.93 error 42.00% 
+Epoch 4 Batch 2 Loss 2.10 error 56.00% 
+Epoch 4 Batch 3 Loss 2.06 error 48.00% 
+Epoch 4 Batch 4 Loss 1.88 error 46.00% 
+Epoch 4 Batch 5 Loss 1.99 error 54.00% 
+Epoch 4 Batch 6 Loss 2.20 error 56.00% 
+Epoch 4 Batch 7 Loss 2.18 error 50.00% 
+Epoch 4 Batch 8 Loss 1.91 error 42.00% 
+Epoch 4 Batch 9 Loss 2.15 error 64.00% 
+Epoch 4 Batch 10 Loss 2.46 error 52.00% 
+Epoch 4 Batch 11 Loss 2.19 error 58.00% 
+Epoch 4 Batch 12 Loss 2.18 error 56.00% 
+Epoch 4 Batch 13 Loss 2.00 error 48.00% 
+Epoch 4 Batch 14 Loss 1.94 error 32.00% 
+Epoch 4 Batch 15 Loss 2.00 error 44.00% 
+Epoch 4 Batch 16 Loss 2.00 error 50.00% 
+Epoch 4 Batch 17 Loss 2.12 error 58.00% 
+Epoch 4 Batch 18 Loss 1.97 error 48.00% 
+Epoch 4 Batch 19 Loss 1.97 error 46.00% 
+
+------------- After Epoch 4 ------------- 
+ 
+Loss: 1.94, Error: 43.10%
+
+-------------Starting epoch 5------------- : 
+Epoch 5 Batch 0 Loss 1.96 error 46.00% 
+Epoch 5 Batch 1 Loss 1.89 error 46.00% 
+Epoch 5 Batch 2 Loss 2.04 error 56.00% 
+Epoch 5 Batch 3 Loss 2.06 error 40.00% 
+Epoch 5 Batch 4 Loss 1.79 error 46.00% 
+Epoch 5 Batch 5 Loss 2.02 error 54.00% 
+Epoch 5 Batch 6 Loss 2.14 error 56.00% 
+Epoch 5 Batch 7 Loss 2.24 error 50.00% 
+Epoch 5 Batch 8 Loss 1.88 error 42.00% 
+Epoch 5 Batch 9 Loss 2.11 error 64.00% 
+Epoch 5 Batch 10 Loss 2.43 error 50.00% 
+Epoch 5 Batch 11 Loss 2.16 error 58.00% 
+Epoch 5 Batch 12 Loss 2.16 error 48.00% 
+Epoch 5 Batch 13 Loss 1.91 error 48.00% 
+Epoch 5 Batch 14 Loss 1.84 error 32.00% 
+Epoch 5 Batch 15 Loss 1.91 error 36.00% 
+Epoch 5 Batch 16 Loss 2.01 error 54.00% 
+Epoch 5 Batch 17 Loss 1.98 error 58.00% 
+Epoch 5 Batch 18 Loss 1.87 error 38.00% 
+Epoch 5 Batch 19 Loss 2.02 error 46.00% 
+
+------------- After Epoch 5 ------------- 
+ 
+Loss: 1.90, Error: 39.70%
+
+-------------Starting epoch 6------------- : 
+Epoch 6 Batch 0 Loss 1.97 error 46.00% 
+Epoch 6 Batch 1 Loss 1.78 error 42.00% 
+Epoch 6 Batch 2 Loss 1.89 error 56.00% 
+Epoch 6 Batch 3 Loss 1.97 error 44.00% 
+Epoch 6 Batch 4 Loss 1.74 error 34.00% 
+Epoch 6 Batch 5 Loss 2.08 error 54.00% 
+Epoch 6 Batch 6 Loss 1.88 error 56.00% 
+Epoch 6 Batch 7 Loss 2.07 error 46.00% 
+Epoch 6 Batch 8 Loss 1.83 error 42.00% 
+Epoch 6 Batch 9 Loss 2.11 error 64.00% 
+Epoch 6 Batch 10 Loss 2.23 error 48.00% 
+Epoch 6 Batch 11 Loss 2.02 error 58.00% 
+Epoch 6 Batch 12 Loss 2.04 error 48.00% 
+Epoch 6 Batch 13 Loss 1.79 error 48.00% 
+Epoch 6 Batch 14 Loss 1.77 error 32.00% 
+Epoch 6 Batch 15 Loss 1.77 error 36.00% 
+Epoch 6 Batch 16 Loss 2.24 error 52.00% 
+Epoch 6 Batch 17 Loss 2.27 error 58.00% 
+Epoch 6 Batch 18 Loss 1.92 error 40.00% 
+Epoch 6 Batch 19 Loss 2.03 error 48.00% 
+
+------------- After Epoch 6 ------------- 
+ 
+Loss: 1.93, Error: 42.20%
+
+-------------Starting epoch 7------------- : 
+Epoch 7 Batch 0 Loss 2.00 error 48.00% 
+Epoch 7 Batch 1 Loss 1.77 error 44.00% 
+Epoch 7 Batch 2 Loss 1.86 error 56.00% 
+Epoch 7 Batch 3 Loss 1.93 error 46.00% 
+Epoch 7 Batch 4 Loss 1.66 error 34.00% 
+Epoch 7 Batch 5 Loss 2.04 error 54.00% 
+Epoch 7 Batch 6 Loss 1.82 error 56.00% 
+Epoch 7 Batch 7 Loss 2.01 error 48.00% 
+Epoch 7 Batch 8 Loss 1.83 error 48.00% 
+Epoch 7 Batch 9 Loss 2.06 error 64.00% 
+Epoch 7 Batch 10 Loss 2.13 error 46.00% 
+Epoch 7 Batch 11 Loss 1.94 error 42.00% 
+Epoch 7 Batch 12 Loss 1.99 error 46.00% 
+Epoch 7 Batch 13 Loss 1.71 error 48.00% 
+Epoch 7 Batch 14 Loss 1.78 error 32.00% 
+Epoch 7 Batch 15 Loss 1.85 error 38.00% 
+Epoch 7 Batch 16 Loss 2.04 error 52.00% 
+Epoch 7 Batch 17 Loss 1.83 error 34.00% 
+Epoch 7 Batch 18 Loss 1.64 error 34.00% 
+Epoch 7 Batch 19 Loss 1.82 error 38.00% 
+
+------------- After Epoch 7 ------------- 
+ 
+Loss: 1.80, Error: 39.40%
+
+-------------Starting epoch 8------------- : 
+Epoch 8 Batch 0 Loss 1.82 error 40.00% 
+Epoch 8 Batch 1 Loss 1.67 error 38.00% 
+Epoch 8 Batch 2 Loss 1.73 error 36.00% 
+Epoch 8 Batch 3 Loss 1.90 error 42.00% 
+Epoch 8 Batch 4 Loss 1.52 error 30.00% 
+Epoch 8 Batch 5 Loss 1.86 error 42.00% 
+Epoch 8 Batch 6 Loss 1.64 error 28.00% 
+Epoch 8 Batch 7 Loss 1.74 error 32.00% 
+Epoch 8 Batch 8 Loss 2.17 error 48.00% 
+Epoch 8 Batch 9 Loss 1.98 error 36.00% 
+Epoch 8 Batch 10 Loss 2.06 error 44.00% 
+Epoch 8 Batch 11 Loss 1.96 error 36.00% 
+Epoch 8 Batch 12 Loss 1.99 error 42.00% 
+Epoch 8 Batch 13 Loss 1.65 error 32.00% 
+Epoch 8 Batch 14 Loss 1.48 error 22.00% 
+Epoch 8 Batch 15 Loss 1.73 error 32.00% 
+Epoch 8 Batch 16 Loss 1.97 error 42.00% 
+Epoch 8 Batch 17 Loss 1.68 error 32.00% 
+Epoch 8 Batch 18 Loss 1.60 error 34.00% 
+Epoch 8 Batch 19 Loss 1.84 error 36.00% 
+
+------------- After Epoch 8 ------------- 
+ 
+Loss: 1.84, Error: 37.80%
+
+-------------Starting epoch 9------------- : 
+Epoch 9 Batch 0 Loss 1.78 error 40.00% 
+Epoch 9 Batch 1 Loss 1.73 error 38.00% 
+Epoch 9 Batch 2 Loss 2.07 error 40.00% 
+Epoch 9 Batch 3 Loss 1.80 error 38.00% 
+Epoch 9 Batch 4 Loss 1.41 error 28.00% 
+Epoch 9 Batch 5 Loss 1.87 error 42.00% 
+Epoch 9 Batch 6 Loss 1.77 error 26.00% 
+Epoch 9 Batch 7 Loss 1.62 error 32.00% 
+Epoch 9 Batch 8 Loss 1.81 error 40.00% 
+Epoch 9 Batch 9 Loss 2.00 error 36.00% 
+Epoch 9 Batch 10 Loss 1.90 error 38.00% 
+Epoch 9 Batch 11 Loss 1.67 error 32.00% 
+Epoch 9 Batch 12 Loss 1.95 error 40.00% 
+Epoch 9 Batch 13 Loss 1.58 error 32.00% 
+Epoch 9 Batch 14 Loss 1.38 error 18.00% 
+Epoch 9 Batch 15 Loss 1.55 error 28.00% 
+Epoch 9 Batch 16 Loss 1.78 error 38.00% 
+Epoch 9 Batch 17 Loss 1.64 error 32.00% 
+Epoch 9 Batch 18 Loss 1.54 error 30.00% 
+Epoch 9 Batch 19 Loss 1.80 error 34.00% 
+
+------------- After Epoch 9 ------------- 
+ 
+Loss: 1.80, Error: 36.00%
+
+-------------Starting epoch 10------------- : 
+Epoch 10 Batch 0 Loss 1.74 error 38.00% 
+Epoch 10 Batch 1 Loss 1.49 error 30.00% 
+Epoch 10 Batch 2 Loss 1.86 error 36.00% 
+Epoch 10 Batch 3 Loss 1.67 error 34.00% 
+Epoch 10 Batch 4 Loss 1.45 error 30.00% 
+Epoch 10 Batch 5 Loss 1.94 error 46.00% 
+Epoch 10 Batch 6 Loss 1.96 error 56.00% 
+Epoch 10 Batch 7 Loss 1.87 error 40.00% 
+Epoch 10 Batch 8 Loss 1.57 error 38.00% 
+Epoch 10 Batch 9 Loss 1.62 error 24.00% 
+Epoch 10 Batch 10 Loss 1.68 error 34.00% 
+Epoch 10 Batch 11 Loss 1.55 error 30.00% 
+Epoch 10 Batch 12 Loss 2.02 error 44.00% 
+Epoch 10 Batch 13 Loss 1.59 error 32.00% 
+Epoch 10 Batch 14 Loss 1.42 error 18.00% 
+Epoch 10 Batch 15 Loss 1.61 error 30.00% 
+Epoch 10 Batch 16 Loss 1.64 error 36.00% 
+Epoch 10 Batch 17 Loss 1.59 error 30.00% 
+Epoch 10 Batch 18 Loss 1.49 error 30.00% 
+Epoch 10 Batch 19 Loss 1.63 error 32.00% 
+
+------------- After Epoch 10 ------------- 
+ 
+Loss: 1.64, Error: 32.80%
+
+-------------Starting epoch 11------------- : 
+Epoch 11 Batch 0 Loss 1.69 error 36.00% 
+Epoch 11 Batch 1 Loss 1.52 error 32.00% 
+Epoch 11 Batch 2 Loss 1.69 error 34.00% 
+Epoch 11 Batch 3 Loss 1.73 error 36.00% 
+Epoch 11 Batch 4 Loss 1.40 error 28.00% 
+Epoch 11 Batch 5 Loss 1.85 error 44.00% 
+Epoch 11 Batch 6 Loss 1.47 error 22.00% 
+Epoch 11 Batch 7 Loss 1.61 error 32.00% 
+Epoch 11 Batch 8 Loss 1.79 error 40.00% 
+Epoch 11 Batch 9 Loss 2.05 error 32.00% 
+Epoch 11 Batch 10 Loss 1.63 error 34.00% 
+Epoch 11 Batch 11 Loss 1.77 error 30.00% 
+Epoch 11 Batch 12 Loss 2.09 error 44.00% 
+Epoch 11 Batch 13 Loss 1.52 error 30.00% 
+Epoch 11 Batch 14 Loss 1.37 error 18.00% 
+Epoch 11 Batch 15 Loss 1.56 error 30.00% 
+Epoch 11 Batch 16 Loss 1.73 error 36.00% 
+Epoch 11 Batch 17 Loss 1.61 error 30.00% 
+Epoch 11 Batch 18 Loss 1.49 error 30.00% 
+Epoch 11 Batch 19 Loss 1.63 error 32.00% 
+
+------------- After Epoch 11 ------------- 
+ 
+Loss: 1.62, Error: 32.60%
+
+-------------Starting epoch 12------------- : 
+Epoch 12 Batch 0 Loss 1.66 error 36.00% 
+Epoch 12 Batch 1 Loss 1.53 error 32.00% 
+Epoch 12 Batch 2 Loss 1.67 error 34.00% 
+Epoch 12 Batch 3 Loss 1.73 error 36.00% 
+Epoch 12 Batch 4 Loss 1.38 error 28.00% 
+Epoch 12 Batch 5 Loss 1.87 error 42.00% 
+Epoch 12 Batch 6 Loss 1.60 error 24.00% 
+Epoch 12 Batch 7 Loss 1.62 error 30.00% 
+Epoch 12 Batch 8 Loss 1.53 error 32.00% 
+Epoch 12 Batch 9 Loss 1.55 error 26.00% 
+Epoch 12 Batch 10 Loss 1.92 error 40.00% 
+Epoch 12 Batch 11 Loss 1.65 error 30.00% 
+Epoch 12 Batch 12 Loss 1.98 error 44.00% 
+Epoch 12 Batch 13 Loss 1.60 error 32.00% 
+Epoch 12 Batch 14 Loss 1.44 error 20.00% 
+Epoch 12 Batch 15 Loss 1.52 error 28.00% 
+Epoch 12 Batch 16 Loss 1.71 error 36.00% 
+Epoch 12 Batch 17 Loss 1.61 error 30.00% 
+Epoch 12 Batch 18 Loss 1.52 error 28.00% 
+Epoch 12 Batch 19 Loss 1.61 error 32.00% 
+
+------------- After Epoch 12 ------------- 
+ 
+Loss: 1.60, Error: 32.00%
+
+-------------Starting epoch 13------------- : 
+Epoch 13 Batch 0 Loss 1.65 error 36.00% 
+Epoch 13 Batch 1 Loss 1.50 error 32.00% 
+Epoch 13 Batch 2 Loss 1.65 error 32.00% 
+Epoch 13 Batch 3 Loss 1.72 error 34.00% 
+Epoch 13 Batch 4 Loss 1.37 error 26.00% 
+Epoch 13 Batch 5 Loss 1.83 error 42.00% 
+Epoch 13 Batch 6 Loss 1.50 error 22.00% 
+Epoch 13 Batch 7 Loss 1.61 error 32.00% 
+Epoch 13 Batch 8 Loss 1.59 error 36.00% 
+Epoch 13 Batch 9 Loss 1.62 error 24.00% 
+Epoch 13 Batch 10 Loss 1.75 error 34.00% 
+Epoch 13 Batch 11 Loss 1.56 error 30.00% 
+Epoch 13 Batch 12 Loss 1.95 error 42.00% 
+Epoch 13 Batch 13 Loss 1.46 error 28.00% 
+Epoch 13 Batch 14 Loss 1.31 error 18.00% 
+Epoch 13 Batch 15 Loss 1.47 error 26.00% 
+Epoch 13 Batch 16 Loss 1.71 error 36.00% 
+Epoch 13 Batch 17 Loss 1.59 error 30.00% 
+Epoch 13 Batch 18 Loss 1.45 error 26.00% 
+Epoch 13 Batch 19 Loss 1.59 error 32.00% 
+
+------------- After Epoch 13 ------------- 
+ 
+Loss: 1.58, Error: 31.20%
+
+-------------Starting epoch 14------------- : 
+Epoch 14 Batch 0 Loss 1.67 error 36.00% 
+Epoch 14 Batch 1 Loss 1.46 error 30.00% 
+Epoch 14 Batch 2 Loss 1.88 error 36.00% 
+Epoch 14 Batch 3 Loss 1.64 error 32.00% 
+Epoch 14 Batch 4 Loss 1.35 error 24.00% 
+Epoch 14 Batch 5 Loss 1.95 error 42.00% 
+Epoch 14 Batch 6 Loss 1.34 error 20.00% 
+Epoch 14 Batch 7 Loss 1.66 error 36.00% 
+Epoch 14 Batch 8 Loss 1.78 error 38.00% 
+Epoch 14 Batch 9 Loss 1.74 error 26.00% 
+Epoch 14 Batch 10 Loss 1.70 error 34.00% 
+Epoch 14 Batch 11 Loss 1.49 error 28.00% 
+Epoch 14 Batch 12 Loss 1.91 error 42.00% 
+Epoch 14 Batch 13 Loss 1.46 error 28.00% 
+Epoch 14 Batch 14 Loss 1.31 error 18.00% 
+Epoch 14 Batch 15 Loss 1.47 error 26.00% 
+Epoch 14 Batch 16 Loss 1.69 error 36.00% 
+Epoch 14 Batch 17 Loss 1.59 error 30.00% 
+Epoch 14 Batch 18 Loss 1.46 error 28.00% 
+Epoch 14 Batch 19 Loss 1.59 error 32.00% 
+
+------------- After Epoch 14 ------------- 
+ 
+Loss: 1.56, Error: 31.10%
+
+-------------Starting epoch 15------------- : 
+Epoch 15 Batch 0 Loss 1.66 error 36.00% 
+Epoch 15 Batch 1 Loss 1.45 error 30.00% 
+Epoch 15 Batch 2 Loss 1.82 error 36.00% 
+Epoch 15 Batch 3 Loss 1.77 error 36.00% 
+Epoch 15 Batch 4 Loss 1.29 error 22.00% 
+Epoch 15 Batch 5 Loss 1.95 error 42.00% 
+Epoch 15 Batch 6 Loss 1.46 error 24.00% 
+Epoch 15 Batch 7 Loss 1.84 error 36.00% 
+Epoch 15 Batch 8 Loss 1.58 error 36.00% 
+Epoch 15 Batch 9 Loss 1.53 error 24.00% 
+Epoch 15 Batch 10 Loss 1.62 error 34.00% 
+Epoch 15 Batch 11 Loss 1.57 error 30.00% 
+Epoch 15 Batch 12 Loss 1.92 error 40.00% 
+Epoch 15 Batch 13 Loss 1.48 error 30.00% 
+Epoch 15 Batch 14 Loss 1.31 error 18.00% 
+Epoch 15 Batch 15 Loss 1.48 error 26.00% 
+Epoch 15 Batch 16 Loss 1.68 error 36.00% 
+Epoch 15 Batch 17 Loss 1.59 error 30.00% 
+Epoch 15 Batch 18 Loss 1.49 error 28.00% 
+Epoch 15 Batch 19 Loss 1.61 error 32.00% 
+
+------------- After Epoch 15 ------------- 
+ 
+Loss: 1.55, Error: 30.70%
+
+-------------Starting epoch 16------------- : 
+Epoch 16 Batch 0 Loss 1.62 error 34.00% 
+Epoch 16 Batch 1 Loss 1.43 error 30.00% 
+Epoch 16 Batch 2 Loss 1.66 error 32.00% 
+Epoch 16 Batch 3 Loss 1.67 error 34.00% 
+Epoch 16 Batch 4 Loss 1.35 error 26.00% 
+Epoch 16 Batch 5 Loss 1.97 error 42.00% 
+Epoch 16 Batch 6 Loss 1.39 error 20.00% 
+Epoch 16 Batch 7 Loss 1.66 error 34.00% 
+Epoch 16 Batch 8 Loss 1.60 error 36.00% 
+Epoch 16 Batch 9 Loss 1.55 error 24.00% 
+Epoch 16 Batch 10 Loss 1.61 error 32.00% 
+Epoch 16 Batch 11 Loss 1.52 error 28.00% 
+Epoch 16 Batch 12 Loss 1.93 error 40.00% 
+Epoch 16 Batch 13 Loss 1.49 error 30.00% 
+Epoch 16 Batch 14 Loss 1.29 error 18.00% 
+Epoch 16 Batch 15 Loss 1.51 error 28.00% 
+Epoch 16 Batch 16 Loss 1.70 error 36.00% 
+Epoch 16 Batch 17 Loss 1.59 error 30.00% 
+Epoch 16 Batch 18 Loss 1.49 error 28.00% 
+Epoch 16 Batch 19 Loss 1.57 error 30.00% 
+
+------------- After Epoch 16 ------------- 
+ 
+Loss: 1.52, Error: 30.20%
+
+-------------Starting epoch 17------------- : 
+Epoch 17 Batch 0 Loss 1.63 error 34.00% 
+Epoch 17 Batch 1 Loss 1.41 error 30.00% 
+Epoch 17 Batch 2 Loss 1.66 error 32.00% 
+Epoch 17 Batch 3 Loss 1.72 error 36.00% 
+Epoch 17 Batch 4 Loss 1.45 error 28.00% 
+Epoch 17 Batch 5 Loss 1.78 error 40.00% 
+Epoch 17 Batch 6 Loss 1.39 error 18.00% 
+Epoch 17 Batch 7 Loss 1.56 error 30.00% 
+Epoch 17 Batch 8 Loss 1.59 error 34.00% 
+Epoch 17 Batch 9 Loss 1.62 error 24.00% 
+Epoch 17 Batch 10 Loss 1.74 error 34.00% 
+Epoch 17 Batch 11 Loss 1.44 error 26.00% 
+Epoch 17 Batch 12 Loss 1.94 error 42.00% 
+Epoch 17 Batch 13 Loss 1.51 error 30.00% 
+Epoch 17 Batch 14 Loss 1.34 error 20.00% 
+Epoch 17 Batch 15 Loss 1.39 error 26.00% 
+Epoch 17 Batch 16 Loss 1.80 error 36.00% 
+Epoch 17 Batch 17 Loss 1.59 error 30.00% 
+Epoch 17 Batch 18 Loss 1.46 error 28.00% 
+Epoch 17 Batch 19 Loss 1.64 error 34.00% 
+
+------------- After Epoch 17 ------------- 
+ 
+Loss: 1.67, Error: 32.50%
+
+-------------Starting epoch 18------------- : 
+Epoch 18 Batch 0 Loss 1.60 error 34.00% 
+Epoch 18 Batch 1 Loss 1.52 error 32.00% 
+Epoch 18 Batch 2 Loss 1.62 error 32.00% 
+Epoch 18 Batch 3 Loss 1.68 error 34.00% 
+Epoch 18 Batch 4 Loss 1.52 error 30.00% 
+Epoch 18 Batch 5 Loss 1.81 error 40.00% 
+Epoch 18 Batch 6 Loss 1.38 error 20.00% 
+Epoch 18 Batch 7 Loss 1.57 error 30.00% 
+Epoch 18 Batch 8 Loss 1.59 error 36.00% 
+Epoch 18 Batch 9 Loss 1.61 error 24.00% 
+Epoch 18 Batch 10 Loss 1.69 error 34.00% 
+Epoch 18 Batch 11 Loss 1.47 error 26.00% 
+Epoch 18 Batch 12 Loss 1.92 error 42.00% 
+Epoch 18 Batch 13 Loss 1.47 error 28.00% 
+Epoch 18 Batch 14 Loss 1.27 error 18.00% 
+Epoch 18 Batch 15 Loss 1.50 error 28.00% 
+Epoch 18 Batch 16 Loss 1.68 error 36.00% 
+Epoch 18 Batch 17 Loss 1.59 error 30.00% 
+Epoch 18 Batch 18 Loss 1.45 error 26.00% 
+Epoch 18 Batch 19 Loss 1.58 error 32.00% 
+
+------------- After Epoch 18 ------------- 
+ 
+Loss: 1.63, Error: 33.00%
+
+-------------Starting epoch 19------------- : 
+Epoch 19 Batch 0 Loss 1.74 error 36.00% 
+Epoch 19 Batch 1 Loss 1.40 error 30.00% 
+Epoch 19 Batch 2 Loss 1.73 error 36.00% 
+Epoch 19 Batch 3 Loss 1.70 error 34.00% 
+Epoch 19 Batch 4 Loss 1.23 error 20.00% 
+Epoch 19 Batch 5 Loss 1.87 error 40.00% 
+Epoch 19 Batch 6 Loss 1.29 error 18.00% 
+Epoch 19 Batch 7 Loss 1.60 error 32.00% 
+Epoch 19 Batch 8 Loss 1.54 error 32.00% 
+Epoch 19 Batch 9 Loss 1.56 error 24.00% 
+Epoch 19 Batch 10 Loss 1.64 error 32.00% 
+Epoch 19 Batch 11 Loss 1.48 error 28.00% 
+Epoch 19 Batch 12 Loss 1.88 error 42.00% 
+Epoch 19 Batch 13 Loss 1.56 error 30.00% 
+Epoch 19 Batch 14 Loss 1.32 error 16.00% 
+Epoch 19 Batch 15 Loss 1.27 error 22.00% 
+Epoch 19 Batch 16 Loss 1.84 error 36.00% 
+Epoch 19 Batch 17 Loss 1.68 error 30.00% 
+Epoch 19 Batch 18 Loss 1.45 error 28.00% 
+Epoch 19 Batch 19 Loss 1.89 error 42.00% 
+
+------------- After Epoch 19 ------------- 
+ 
+Loss: 1.63, Error: 32.90%
+
+-------------Starting epoch 20------------- : 
+Epoch 20 Batch 0 Loss 1.78 error 40.00% 
+Epoch 20 Batch 1 Loss 1.55 error 32.00% 
+Epoch 20 Batch 2 Loss 2.10 error 34.00% 
+Epoch 20 Batch 3 Loss 1.53 error 32.00% 
+Epoch 20 Batch 4 Loss 1.32 error 22.00% 
+Epoch 20 Batch 5 Loss 2.11 error 42.00% 
+Epoch 20 Batch 6 Loss 1.68 error 26.00% 
+Epoch 20 Batch 7 Loss 1.46 error 26.00% 
+Epoch 20 Batch 8 Loss 1.09 error 20.00% 
+Epoch 20 Batch 9 Loss 1.24 error 18.00% 
+Epoch 20 Batch 10 Loss 0.70 error 10.00% 
+Epoch 20 Batch 11 Loss 1.07 error 18.00% 
+Epoch 20 Batch 12 Loss 2.35 error 42.00% 
+Epoch 20 Batch 13 Loss 0.81 error 10.00% 
+Epoch 20 Batch 14 Loss 1.68 error 20.00% 
+Epoch 20 Batch 15 Loss 1.47 error 20.00% 
+Epoch 20 Batch 16 Loss 1.22 error 24.00% 
+Epoch 20 Batch 17 Loss 2.42 error 34.00% 
+Epoch 20 Batch 18 Loss 2.36 error 34.00% 
+Epoch 20 Batch 19 Loss 2.01 error 28.00% 
+
+------------- After Epoch 20 ------------- 
+ 
+Loss: 1.57, Error: 22.00%
+
+-------------Starting epoch 21------------- : 
+Epoch 21 Batch 0 Loss 1.59 error 22.00% 
+Epoch 21 Batch 1 Loss 1.21 error 16.00% 
+Epoch 21 Batch 2 Loss 1.58 error 24.00% 
+Epoch 21 Batch 3 Loss 1.36 error 22.00% 
+Epoch 21 Batch 4 Loss 0.71 error 16.00% 
+Epoch 21 Batch 5 Loss 1.51 error 20.00% 
+Epoch 21 Batch 6 Loss 0.52 error 8.00% 
+Epoch 21 Batch 7 Loss 0.83 error 14.00% 
+Epoch 21 Batch 8 Loss 0.93 error 12.00% 
+Epoch 21 Batch 9 Loss 1.50 error 20.00% 
+Epoch 21 Batch 10 Loss 0.45 error 8.00% 
+Epoch 21 Batch 11 Loss 1.05 error 16.00% 
+Epoch 21 Batch 12 Loss 2.39 error 42.00% 
+Epoch 21 Batch 13 Loss 0.80 error 10.00% 
+Epoch 21 Batch 14 Loss 0.94 error 14.00% 
+Epoch 21 Batch 15 Loss 0.95 error 14.00% 
+Epoch 21 Batch 16 Loss 2.64 error 44.00% 
+Epoch 21 Batch 17 Loss 1.22 error 18.00% 
+Epoch 21 Batch 18 Loss 0.85 error 14.00% 
+Epoch 21 Batch 19 Loss 0.75 error 10.00% 
+
+------------- After Epoch 21 ------------- 
+ 
+Loss: 1.06, Error: 18.00%
+
+-------------Starting epoch 22------------- : 
+Epoch 22 Batch 0 Loss 1.49 error 26.00% 
+Epoch 22 Batch 1 Loss 0.59 error 8.00% 
+Epoch 22 Batch 2 Loss 0.48 error 8.00% 
+Epoch 22 Batch 3 Loss 0.88 error 14.00% 
+Epoch 22 Batch 4 Loss 0.93 error 14.00% 
+Epoch 22 Batch 5 Loss 1.71 error 22.00% 
+Epoch 22 Batch 6 Loss 0.66 error 10.00% 
+Epoch 22 Batch 7 Loss 1.16 error 22.00% 
+Epoch 22 Batch 8 Loss 1.30 error 18.00% 
+Epoch 22 Batch 9 Loss 1.71 error 24.00% 
+Epoch 22 Batch 10 Loss 0.76 error 12.00% 
+Epoch 22 Batch 11 Loss 0.84 error 16.00% 
+Epoch 22 Batch 12 Loss 1.21 error 16.00% 
+Epoch 22 Batch 13 Loss 0.24 error 4.00% 
+Epoch 22 Batch 14 Loss 0.59 error 10.00% 
+Epoch 22 Batch 15 Loss 0.42 error 10.00% 
+Epoch 22 Batch 16 Loss 1.02 error 18.00% 
+Epoch 22 Batch 17 Loss 1.15 error 16.00% 
+Epoch 22 Batch 18 Loss 0.54 error 6.00% 
+Epoch 22 Batch 19 Loss 0.85 error 18.00% 
+
+------------- After Epoch 22 ------------- 
+ 
+Loss: 3.19, Error: 49.00%
+
+-------------Starting epoch 23------------- : 
+Epoch 23 Batch 0 Loss 3.35 error 50.00% 
+Epoch 23 Batch 1 Loss 2.15 error 34.00% 
+Epoch 23 Batch 2 Loss 1.55 error 20.00% 
+Epoch 23 Batch 3 Loss 0.93 error 16.00% 
+Epoch 23 Batch 4 Loss 1.02 error 20.00% 
+Epoch 23 Batch 5 Loss 1.83 error 24.00% 
+Epoch 23 Batch 6 Loss 0.95 error 12.00% 
+Epoch 23 Batch 7 Loss 0.37 error 6.00% 
+Epoch 23 Batch 8 Loss 1.21 error 16.00% 
+Epoch 23 Batch 9 Loss 1.50 error 18.00% 
+Epoch 23 Batch 10 Loss 1.10 error 18.00% 
+Epoch 23 Batch 11 Loss 0.70 error 8.00% 
+Epoch 23 Batch 12 Loss 1.89 error 28.00% 
+Epoch 23 Batch 13 Loss 0.11 error 2.00% 
+Epoch 23 Batch 14 Loss 0.59 error 8.00% 
+Epoch 23 Batch 15 Loss 0.83 error 10.00% 
+Epoch 23 Batch 16 Loss 1.42 error 28.00% 
+Epoch 23 Batch 17 Loss 0.49 error 8.00% 
+Epoch 23 Batch 18 Loss 0.97 error 18.00% 
+Epoch 23 Batch 19 Loss 1.38 error 20.00% 
+
+------------- After Epoch 23 ------------- 
+ 
+Loss: 0.79, Error: 12.20%
+
+-------------Starting epoch 24------------- : 
+Epoch 24 Batch 0 Loss 1.02 error 18.00% 
+Epoch 24 Batch 1 Loss 0.90 error 12.00% 
+Epoch 24 Batch 2 Loss 1.13 error 16.00% 
+Epoch 24 Batch 3 Loss 1.15 error 18.00% 
+Epoch 24 Batch 4 Loss 1.20 error 18.00% 
+Epoch 24 Batch 5 Loss 1.32 error 24.00% 
+Epoch 24 Batch 6 Loss 0.34 error 6.00% 
+Epoch 24 Batch 7 Loss 0.82 error 10.00% 
+Epoch 24 Batch 8 Loss 0.44 error 4.00% 
+Epoch 24 Batch 9 Loss 0.88 error 14.00% 
+Epoch 24 Batch 10 Loss 0.30 error 6.00% 
+Epoch 24 Batch 11 Loss 0.78 error 12.00% 
+Epoch 24 Batch 12 Loss 1.65 error 24.00% 
+Epoch 24 Batch 13 Loss 0.26 error 4.00% 
+Epoch 24 Batch 14 Loss 0.60 error 8.00% 
+Epoch 24 Batch 15 Loss 0.56 error 12.00% 
+Epoch 24 Batch 16 Loss 0.84 error 14.00% 
+Epoch 24 Batch 17 Loss 0.64 error 10.00% 
+Epoch 24 Batch 18 Loss 1.04 error 16.00% 
+Epoch 24 Batch 19 Loss 1.35 error 22.00% 
+
+------------- After Epoch 24 ------------- 
+ 
+Loss: 1.15, Error: 17.70%
+
+-------------Starting epoch 25------------- : 
+Epoch 25 Batch 0 Loss 1.40 error 22.00% 
+Epoch 25 Batch 1 Loss 1.27 error 20.00% 
+Epoch 25 Batch 2 Loss 1.39 error 18.00% 
+Epoch 25 Batch 3 Loss 1.32 error 18.00% 
+Epoch 25 Batch 4 Loss 0.48 error 10.00% 
+Epoch 25 Batch 5 Loss 1.31 error 18.00% 
+Epoch 25 Batch 6 Loss 0.25 error 4.00% 
+Epoch 25 Batch 7 Loss 0.42 error 6.00% 
+Epoch 25 Batch 8 Loss 0.81 error 12.00% 
+Epoch 25 Batch 9 Loss 1.06 error 14.00% 
+Epoch 25 Batch 10 Loss 0.39 error 4.00% 
+Epoch 25 Batch 11 Loss 0.43 error 6.00% 
+Epoch 25 Batch 12 Loss 0.28 error 4.00% 
+Epoch 25 Batch 13 Loss 0.46 error 8.00% 
+Epoch 25 Batch 14 Loss 0.26 error 2.00% 
+Epoch 25 Batch 15 Loss 0.31 error 6.00% 
+Epoch 25 Batch 16 Loss 0.57 error 12.00% 
+Epoch 25 Batch 17 Loss 0.38 error 4.00% 
+Epoch 25 Batch 18 Loss 0.53 error 10.00% 
+Epoch 25 Batch 19 Loss 0.64 error 8.00% 
+
+------------- After Epoch 25 ------------- 
+ 
+Loss: 0.76, Error: 11.00%
+
+-------------Starting epoch 26------------- : 
+Epoch 26 Batch 0 Loss 0.72 error 12.00% 
+Epoch 26 Batch 1 Loss 1.04 error 16.00% 
+Epoch 26 Batch 2 Loss 0.63 error 10.00% 
+Epoch 26 Batch 3 Loss 0.34 error 6.00% 
+Epoch 26 Batch 4 Loss 0.52 error 8.00% 
+Epoch 26 Batch 5 Loss 0.41 error 8.00% 
+Epoch 26 Batch 6 Loss 1.60 error 24.00% 
+Epoch 26 Batch 7 Loss 0.63 error 10.00% 
+Epoch 26 Batch 8 Loss 0.64 error 10.00% 
+Epoch 26 Batch 9 Loss 0.57 error 8.00% 
+Epoch 26 Batch 10 Loss 0.37 error 4.00% 
+Epoch 26 Batch 11 Loss 0.30 error 4.00% 
+Epoch 26 Batch 12 Loss 0.93 error 16.00% 
+Epoch 26 Batch 13 Loss 0.78 error 12.00% 
+Epoch 26 Batch 14 Loss 0.39 error 4.00% 
+Epoch 26 Batch 15 Loss 0.22 error 2.00% 
+Epoch 26 Batch 16 Loss 0.48 error 6.00% 
+Epoch 26 Batch 17 Loss 0.47 error 6.00% 
+Epoch 26 Batch 18 Loss 0.32 error 6.00% 
+Epoch 26 Batch 19 Loss 0.85 error 14.00% 
+
+------------- After Epoch 26 ------------- 
+ 
+Loss: 0.68, Error:  9.90%
+
+-------------Starting epoch 27------------- : 
+Epoch 27 Batch 0 Loss 0.90 error 12.00% 
+Epoch 27 Batch 1 Loss 0.33 error 4.00% 
+Epoch 27 Batch 2 Loss 0.32 error 6.00% 
+Epoch 27 Batch 3 Loss 0.71 error 14.00% 
+Epoch 27 Batch 4 Loss 0.33 error 6.00% 
+Epoch 27 Batch 5 Loss 0.85 error 12.00% 
+Epoch 27 Batch 6 Loss 0.28 error 6.00% 
+Epoch 27 Batch 7 Loss 0.35 error 6.00% 
+Epoch 27 Batch 8 Loss 0.79 error 14.00% 
+Epoch 27 Batch 9 Loss 0.54 error 8.00% 
+Epoch 27 Batch 10 Loss 0.18 error 2.00% 
+Epoch 27 Batch 11 Loss 0.17 error 2.00% 
+Epoch 27 Batch 12 Loss 0.34 error 4.00% 
+Epoch 27 Batch 13 Loss 0.14 error 2.00% 
+Epoch 27 Batch 14 Loss 0.24 error 4.00% 
+Epoch 27 Batch 15 Loss 0.41 error 6.00% 
+Epoch 27 Batch 16 Loss 0.74 error 10.00% 
+Epoch 27 Batch 17 Loss 0.51 error 8.00% 
+Epoch 27 Batch 18 Loss 0.65 error 12.00% 
+Epoch 27 Batch 19 Loss 0.86 error 14.00% 
+
+------------- After Epoch 27 ------------- 
+ 
+Loss: 0.97, Error: 15.50%
+
+-------------Starting epoch 28------------- : 
+Epoch 28 Batch 0 Loss 1.03 error 16.00% 
+Epoch 28 Batch 1 Loss 0.38 error 6.00% 
+Epoch 28 Batch 2 Loss 0.53 error 8.00% 
+Epoch 28 Batch 3 Loss 1.05 error 16.00% 
+Epoch 28 Batch 4 Loss 0.50 error 8.00% 
+Epoch 28 Batch 5 Loss 1.10 error 18.00% 
+Epoch 28 Batch 6 Loss 0.78 error 12.00% 
+Epoch 28 Batch 7 Loss 0.13 error 2.00% 
+Epoch 28 Batch 8 Loss 0.48 error 8.00% 
+Epoch 28 Batch 9 Loss 0.33 error 8.00% 
+Epoch 28 Batch 10 Loss 1.67 error 28.00% 
+Epoch 28 Batch 11 Loss 1.27 error 16.00% 
+Epoch 28 Batch 12 Loss 1.26 error 18.00% 
+Epoch 28 Batch 13 Loss 0.19 error 6.00% 
+Epoch 28 Batch 14 Loss 0.98 error 14.00% 
+Epoch 28 Batch 15 Loss 1.15 error 16.00% 
+Epoch 28 Batch 16 Loss 0.67 error 10.00% 
+Epoch 28 Batch 17 Loss 0.85 error 12.00% 
+Epoch 28 Batch 18 Loss 0.25 error 4.00% 
+Epoch 28 Batch 19 Loss 0.45 error 10.00% 
+
+------------- After Epoch 28 ------------- 
+ 
+Loss: 0.65, Error:  9.50%
+
+-------------Starting epoch 29------------- : 
+Epoch 29 Batch 0 Loss 0.44 error 6.00% 
+Epoch 29 Batch 1 Loss 0.23 error 4.00% 
+Epoch 29 Batch 2 Loss 0.36 error 6.00% 
+Epoch 29 Batch 3 Loss 0.35 error 6.00% 
+Epoch 29 Batch 4 Loss 0.62 error 10.00% 
+Epoch 29 Batch 5 Loss 0.41 error 8.00% 
+Epoch 29 Batch 6 Loss 0.62 error 12.00% 
+Epoch 29 Batch 7 Loss 0.62 error 8.00% 
+Epoch 29 Batch 8 Loss 0.80 error 12.00% 
+Epoch 29 Batch 9 Loss 0.41 error 6.00% 
+Epoch 29 Batch 10 Loss 0.36 error 6.00% 
+Epoch 29 Batch 11 Loss 0.15 error 2.00% 
+Epoch 29 Batch 12 Loss 0.66 error 8.00% 
+Epoch 29 Batch 13 Loss 0.19 error 2.00% 
+Epoch 29 Batch 14 Loss 0.47 error 6.00% 
+Epoch 29 Batch 15 Loss 0.33 error 6.00% 
+Epoch 29 Batch 16 Loss 1.21 error 18.00% 
+Epoch 29 Batch 17 Loss 0.39 error 8.00% 
+Epoch 29 Batch 18 Loss 0.46 error 8.00% 
+Epoch 29 Batch 19 Loss 0.68 error 14.00% 
+
+------------- After Epoch 29 ------------- 
+ 
+Loss: 0.70, Error:  9.90%
+
+-------------Starting epoch 30------------- : 
+Epoch 30 Batch 0 Loss 0.52 error 8.00% 
+Epoch 30 Batch 1 Loss 0.10 error 0.00% 
+Epoch 30 Batch 2 Loss 0.32 error 4.00% 
+Epoch 30 Batch 3 Loss 0.88 error 14.00% 
+Epoch 30 Batch 4 Loss 0.71 error 12.00% 
+Epoch 30 Batch 5 Loss 0.85 error 14.00% 
+Epoch 30 Batch 6 Loss 0.49 error 8.00% 
+Epoch 30 Batch 7 Loss 0.52 error 10.00% 
+Epoch 30 Batch 8 Loss 0.62 error 10.00% 
+Epoch 30 Batch 9 Loss 0.46 error 8.00% 
+Epoch 30 Batch 10 Loss 0.30 error 6.00% 
+Epoch 30 Batch 11 Loss 0.34 error 6.00% 
+Epoch 30 Batch 12 Loss 0.67 error 10.00% 
+Epoch 30 Batch 13 Loss 0.15 error 2.00% 
+Epoch 30 Batch 14 Loss 0.23 error 4.00% 
+Epoch 30 Batch 15 Loss 0.34 error 4.00% 
+Epoch 30 Batch 16 Loss 0.64 error 10.00% 
+Epoch 30 Batch 17 Loss 0.24 error 4.00% 
+Epoch 30 Batch 18 Loss 0.52 error 8.00% 
+Epoch 30 Batch 19 Loss 0.79 error 12.00% 
+
+------------- After Epoch 30 ------------- 
+ 
+Loss: 0.67, Error: 10.60%
+
+-------------Starting epoch 31------------- : 
+Epoch 31 Batch 0 Loss 0.53 error 8.00% 
+Epoch 31 Batch 1 Loss 0.41 error 6.00% 
+Epoch 31 Batch 2 Loss 0.25 error 4.00% 
+Epoch 31 Batch 3 Loss 0.32 error 6.00% 
+Epoch 31 Batch 4 Loss 0.48 error 8.00% 
+Epoch 31 Batch 5 Loss 0.57 error 10.00% 
+Epoch 31 Batch 6 Loss 0.44 error 8.00% 
+Epoch 31 Batch 7 Loss 0.56 error 10.00% 
+Epoch 31 Batch 8 Loss 1.01 error 16.00% 
+Epoch 31 Batch 9 Loss 0.79 error 10.00% 
+Epoch 31 Batch 10 Loss 0.20 error 2.00% 
+Epoch 31 Batch 11 Loss 0.37 error 8.00% 
+Epoch 31 Batch 12 Loss 0.56 error 8.00% 
+Epoch 31 Batch 13 Loss 0.02 error 0.00% 
+Epoch 31 Batch 14 Loss 0.23 error 4.00% 
+Epoch 31 Batch 15 Loss 0.09 error 2.00% 
+Epoch 31 Batch 16 Loss 0.46 error 6.00% 
+Epoch 31 Batch 17 Loss 0.10 error 0.00% 
+Epoch 31 Batch 18 Loss 0.32 error 4.00% 
+Epoch 31 Batch 19 Loss 0.37 error 6.00% 
+
+------------- After Epoch 31 ------------- 
+ 
+Loss: 0.34, Error:  5.00%
+
+-------------Starting epoch 32------------- : 
+Epoch 32 Batch 0 Loss 0.19 error 4.00% 
+Epoch 32 Batch 1 Loss 0.12 error 2.00% 
+Epoch 32 Batch 2 Loss 0.35 error 8.00% 
+Epoch 32 Batch 3 Loss 0.52 error 6.00% 
+Epoch 32 Batch 4 Loss 0.57 error 8.00% 
+Epoch 32 Batch 5 Loss 0.56 error 8.00% 
+Epoch 32 Batch 6 Loss 0.36 error 4.00% 
+Epoch 32 Batch 7 Loss 0.40 error 6.00% 
+Epoch 32 Batch 8 Loss 0.37 error 6.00% 
+Epoch 32 Batch 9 Loss 1.21 error 16.00% 
+Epoch 32 Batch 10 Loss 0.40 error 6.00% 
+Epoch 32 Batch 11 Loss 0.51 error 8.00% 
+Epoch 32 Batch 12 Loss 1.22 error 20.00% 
+Epoch 32 Batch 13 Loss 0.20 error 2.00% 
+Epoch 32 Batch 14 Loss 0.33 error 4.00% 
+Epoch 32 Batch 15 Loss 0.40 error 6.00% 
+Epoch 32 Batch 16 Loss 0.61 error 10.00% 
+Epoch 32 Batch 17 Loss 0.04 error 0.00% 
+Epoch 32 Batch 18 Loss 0.31 error 6.00% 
+Epoch 32 Batch 19 Loss 0.48 error 6.00% 
+
+------------- After Epoch 32 ------------- 
+ 
+Loss: 0.20, Error:  3.20%
+
+-------------Starting epoch 33------------- : 
+Epoch 33 Batch 0 Loss 0.03 error 0.00% 
+Epoch 33 Batch 1 Loss 0.15 error 2.00% 
+Epoch 33 Batch 2 Loss 0.10 error 2.00% 
+Epoch 33 Batch 3 Loss 0.29 error 6.00% 
+Epoch 33 Batch 4 Loss 0.43 error 6.00% 
+Epoch 33 Batch 5 Loss 0.26 error 4.00% 
+Epoch 33 Batch 6 Loss 0.38 error 8.00% 
+Epoch 33 Batch 7 Loss 0.17 error 2.00% 
+Epoch 33 Batch 8 Loss 0.29 error 4.00% 
+Epoch 33 Batch 9 Loss 0.22 error 4.00% 
+Epoch 33 Batch 10 Loss 0.31 error 4.00% 
+Epoch 33 Batch 11 Loss 0.30 error 4.00% 
+Epoch 33 Batch 12 Loss 0.75 error 10.00% 
+Epoch 33 Batch 13 Loss 0.01 error 0.00% 
+Epoch 33 Batch 14 Loss 0.19 error 4.00% 
+Epoch 33 Batch 15 Loss 0.25 error 2.00% 
+Epoch 33 Batch 16 Loss 0.94 error 12.00% 
+Epoch 33 Batch 17 Loss 0.51 error 8.00% 
+Epoch 33 Batch 18 Loss 0.47 error 6.00% 
+Epoch 33 Batch 19 Loss 0.41 error 8.00% 
+
+------------- After Epoch 33 ------------- 
+ 
+Loss: 0.43, Error:  7.10%
+
+-------------Starting epoch 34------------- : 
+Epoch 34 Batch 0 Loss 0.75 error 12.00% 
+Epoch 34 Batch 1 Loss 0.20 error 2.00% 
+Epoch 34 Batch 2 Loss 0.26 error 6.00% 
+Epoch 34 Batch 3 Loss 0.11 error 2.00% 
+Epoch 34 Batch 4 Loss 0.43 error 8.00% 
+Epoch 34 Batch 5 Loss 0.42 error 8.00% 
+Epoch 34 Batch 6 Loss 0.33 error 4.00% 
+Epoch 34 Batch 7 Loss 0.20 error 2.00% 
+Epoch 34 Batch 8 Loss 0.60 error 8.00% 
+Epoch 34 Batch 9 Loss 0.40 error 6.00% 
+Epoch 34 Batch 10 Loss 0.23 error 4.00% 
+Epoch 34 Batch 11 Loss 0.16 error 4.00% 
+Epoch 34 Batch 12 Loss 0.44 error 6.00% 
+Epoch 34 Batch 13 Loss 0.01 error 0.00% 
+Epoch 34 Batch 14 Loss 0.19 error 2.00% 
+Epoch 34 Batch 15 Loss 0.25 error 4.00% 
+Epoch 34 Batch 16 Loss 0.36 error 4.00% 
+Epoch 34 Batch 17 Loss 0.12 error 2.00% 
+Epoch 34 Batch 18 Loss 0.26 error 4.00% 
+Epoch 34 Batch 19 Loss 0.74 error 12.00% 
+
+------------- After Epoch 34 ------------- 
+ 
+Loss: 0.73, Error: 10.30%
+
+-------------Starting epoch 35------------- : 
+Epoch 35 Batch 0 Loss 0.67 error 10.00% 
+Epoch 35 Batch 1 Loss 0.15 error 4.00% 
+Epoch 35 Batch 2 Loss 0.16 error 2.00% 
+Epoch 35 Batch 3 Loss 0.32 error 6.00% 
+Epoch 35 Batch 4 Loss 0.34 error 4.00% 
+Epoch 35 Batch 5 Loss 0.39 error 6.00% 
+Epoch 35 Batch 6 Loss 0.22 error 4.00% 
+Epoch 35 Batch 7 Loss 0.16 error 2.00% 
+Epoch 35 Batch 8 Loss 0.74 error 12.00% 
+Epoch 35 Batch 9 Loss 0.51 error 6.00% 
+Epoch 35 Batch 10 Loss 0.13 error 2.00% 
+Epoch 35 Batch 11 Loss 0.33 error 6.00% 
+Epoch 35 Batch 12 Loss 0.48 error 6.00% 
+Epoch 35 Batch 13 Loss 0.03 error 0.00% 
+Epoch 35 Batch 14 Loss 0.20 error 4.00% 
+Epoch 35 Batch 15 Loss 0.20 error 4.00% 
+Epoch 35 Batch 16 Loss 0.49 error 8.00% 
+Epoch 35 Batch 17 Loss 0.11 error 2.00% 
+Epoch 35 Batch 18 Loss 0.24 error 4.00% 
+Epoch 35 Batch 19 Loss 0.46 error 6.00% 
+
+------------- After Epoch 35 ------------- 
+ 
+Loss: 0.26, Error:  4.50%
+
+-------------Starting epoch 36------------- : 
+Epoch 36 Batch 0 Loss 0.31 error 6.00% 
+Epoch 36 Batch 1 Loss 0.30 error 6.00% 
+Epoch 36 Batch 2 Loss 0.36 error 6.00% 
+Epoch 36 Batch 3 Loss 0.24 error 4.00% 
+Epoch 36 Batch 4 Loss 0.31 error 6.00% 
+Epoch 36 Batch 5 Loss 0.37 error 6.00% 
+Epoch 36 Batch 6 Loss 0.45 error 10.00% 
+Epoch 36 Batch 7 Loss 0.35 error 8.00% 
+Epoch 36 Batch 8 Loss 0.56 error 8.00% 
+Epoch 36 Batch 9 Loss 0.26 error 6.00% 
+Epoch 36 Batch 10 Loss 0.46 error 8.00% 
+Epoch 36 Batch 11 Loss 0.20 error 4.00% 
+Epoch 36 Batch 12 Loss 0.70 error 12.00% 
+Epoch 36 Batch 13 Loss 0.01 error 0.00% 
+Epoch 36 Batch 14 Loss 0.17 error 2.00% 
+Epoch 36 Batch 15 Loss 0.42 error 6.00% 
+Epoch 36 Batch 16 Loss 0.84 error 12.00% 
+Epoch 36 Batch 17 Loss 0.27 error 4.00% 
+Epoch 36 Batch 18 Loss 0.39 error 8.00% 
+Epoch 36 Batch 19 Loss 0.58 error 12.00% 
+
+------------- After Epoch 36 ------------- 
+ 
+Loss: 0.61, Error:  8.80%
+
+-------------Starting epoch 37------------- : 
+Epoch 37 Batch 0 Loss 0.47 error 6.00% 
+Epoch 37 Batch 1 Loss 0.02 error 0.00% 
+Epoch 37 Batch 2 Loss 0.01 error 0.00% 
+Epoch 37 Batch 3 Loss 0.30 error 6.00% 
+Epoch 37 Batch 4 Loss 0.73 error 10.00% 
+Epoch 37 Batch 5 Loss 0.51 error 8.00% 
+Epoch 37 Batch 6 Loss 0.60 error 10.00% 
+Epoch 37 Batch 7 Loss 0.44 error 8.00% 
+Epoch 37 Batch 8 Loss 0.80 error 10.00% 
+Epoch 37 Batch 9 Loss 0.56 error 8.00% 
+Epoch 37 Batch 10 Loss 0.45 error 8.00% 
+Epoch 37 Batch 11 Loss 0.19 error 2.00% 
+Epoch 37 Batch 12 Loss 0.50 error 8.00% 
+Epoch 37 Batch 13 Loss 0.01 error 0.00% 
+Epoch 37 Batch 14 Loss 0.17 error 2.00% 
+Epoch 37 Batch 15 Loss 0.14 error 4.00% 
+Epoch 37 Batch 16 Loss 0.33 error 4.00% 
+Epoch 37 Batch 17 Loss 0.12 error 2.00% 
+Epoch 37 Batch 18 Loss 0.18 error 2.00% 
+Epoch 37 Batch 19 Loss 0.12 error 2.00% 
+
+------------- After Epoch 37 ------------- 
+ 
+Loss: 0.30, Error:  5.30%
+
+-------------Starting epoch 38------------- : 
+Epoch 38 Batch 0 Loss 0.11 error 2.00% 
+Epoch 38 Batch 1 Loss 0.13 error 2.00% 
+Epoch 38 Batch 2 Loss 0.27 error 6.00% 
+Epoch 38 Batch 3 Loss 0.43 error 8.00% 
+Epoch 38 Batch 4 Loss 0.58 error 8.00% 
+Epoch 38 Batch 5 Loss 0.20 error 2.00% 
+Epoch 38 Batch 6 Loss 0.26 error 6.00% 
+Epoch 38 Batch 7 Loss 0.16 error 2.00% 
+Epoch 38 Batch 8 Loss 0.21 error 4.00% 
+Epoch 38 Batch 9 Loss 0.50 error 8.00% 
+Epoch 38 Batch 10 Loss 0.65 error 12.00% 
+Epoch 38 Batch 11 Loss 0.66 error 8.00% 
+Epoch 38 Batch 12 Loss 0.66 error 10.00% 
+Epoch 38 Batch 13 Loss 0.03 error 0.00% 
+Epoch 38 Batch 14 Loss 0.23 error 6.00% 
+Epoch 38 Batch 15 Loss 0.24 error 4.00% 
+Epoch 38 Batch 16 Loss 0.27 error 4.00% 
+Epoch 38 Batch 17 Loss 0.28 error 4.00% 
+Epoch 38 Batch 18 Loss 0.39 error 6.00% 
+Epoch 38 Batch 19 Loss 0.67 error 10.00% 
+
+------------- After Epoch 38 ------------- 
+ 
+Loss: 0.49, Error:  7.80%
+
+-------------Starting epoch 39------------- : 
+Epoch 39 Batch 0 Loss 0.64 error 10.00% 
+Epoch 39 Batch 1 Loss 0.23 error 4.00% 
+Epoch 39 Batch 2 Loss 0.05 error 0.00% 
+Epoch 39 Batch 3 Loss 0.41 error 4.00% 
+Epoch 39 Batch 4 Loss 0.32 error 4.00% 
+Epoch 39 Batch 5 Loss 0.68 error 12.00% 
+Epoch 39 Batch 6 Loss 0.60 error 10.00% 
+Epoch 39 Batch 7 Loss 0.31 error 4.00% 
+Epoch 39 Batch 8 Loss 0.48 error 6.00% 
+Epoch 39 Batch 9 Loss 0.20 error 2.00% 
+Epoch 39 Batch 10 Loss 0.70 error 10.00% 
+Epoch 39 Batch 11 Loss 0.39 error 6.00% 
+Epoch 39 Batch 12 Loss 0.44 error 6.00% 
+Epoch 39 Batch 13 Loss 0.01 error 0.00% 
+Epoch 39 Batch 14 Loss 0.12 error 2.00% 
+Epoch 39 Batch 15 Loss 0.20 error 2.00% 
+Epoch 39 Batch 16 Loss 0.67 error 8.00% 
+Epoch 39 Batch 17 Loss 0.45 error 6.00% 
+Epoch 39 Batch 18 Loss 0.51 error 10.00% 
+Epoch 39 Batch 19 Loss 0.50 error 10.00% 
+
+------------- After Epoch 39 ------------- 
+ 
+Loss: 0.71, Error: 11.70%
+
+-------------Starting epoch 40------------- : 
+Epoch 40 Batch 0 Loss 0.91 error 14.00% 
+Epoch 40 Batch 1 Loss 0.22 error 6.00% 
+Epoch 40 Batch 2 Loss 0.04 error 0.00% 
+Epoch 40 Batch 3 Loss 0.56 error 10.00% 
+Epoch 40 Batch 4 Loss 0.39 error 8.00% 
+Epoch 40 Batch 5 Loss 0.38 error 4.00% 
+Epoch 40 Batch 6 Loss 0.16 error 2.00% 
+Epoch 40 Batch 7 Loss 0.19 error 2.00% 
+Epoch 40 Batch 8 Loss 0.50 error 8.00% 
+Epoch 40 Batch 9 Loss 0.54 error 8.00% 
+Epoch 40 Batch 10 Loss 0.26 error 6.00% 
+Epoch 40 Batch 11 Loss 0.37 error 6.00% 
+Epoch 40 Batch 12 Loss 0.45 error 6.00% 
+Epoch 40 Batch 13 Loss 0.11 error 0.00% 
+Epoch 40 Batch 14 Loss 0.38 error 6.00% 
+Epoch 40 Batch 15 Loss 0.37 error 6.00% 
+Epoch 40 Batch 16 Loss 0.80 error 10.00% 
+Epoch 40 Batch 17 Loss 0.22 error 4.00% 
+Epoch 40 Batch 18 Loss 0.42 error 8.00% 
+Epoch 40 Batch 19 Loss 0.15 error 2.00% 
+
+------------- After Epoch 40 ------------- 
+ 
+Loss: 0.26, Error:  4.60%
+
+-------------Starting epoch 41------------- : 
+Epoch 41 Batch 0 Loss 0.41 error 8.00% 
+Epoch 41 Batch 1 Loss 0.23 error 2.00% 
+Epoch 41 Batch 2 Loss 0.38 error 8.00% 
+Epoch 41 Batch 3 Loss 0.48 error 8.00% 
+Epoch 41 Batch 4 Loss 0.67 error 10.00% 
+Epoch 41 Batch 5 Loss 0.63 error 12.00% 
+Epoch 41 Batch 6 Loss 0.34 error 6.00% 
+Epoch 41 Batch 7 Loss 0.28 error 6.00% 
+Epoch 41 Batch 8 Loss 0.74 error 12.00% 
+Epoch 41 Batch 9 Loss 0.49 error 8.00% 
+Epoch 41 Batch 10 Loss 0.19 error 2.00% 
+Epoch 41 Batch 11 Loss 0.22 error 4.00% 
+Epoch 41 Batch 12 Loss 0.37 error 6.00% 
+Epoch 41 Batch 13 Loss 0.03 error 0.00% 
+Epoch 41 Batch 14 Loss 0.16 error 2.00% 
+Epoch 41 Batch 15 Loss 0.24 error 6.00% 
+Epoch 41 Batch 16 Loss 0.47 error 8.00% 
+Epoch 41 Batch 17 Loss 0.15 error 2.00% 
+Epoch 41 Batch 18 Loss 0.20 error 2.00% 
+Epoch 41 Batch 19 Loss 0.36 error 6.00% 
+
+------------- After Epoch 41 ------------- 
+ 
+Loss: 0.47, Error:  7.70%
+
+-------------Starting epoch 42------------- : 
+Epoch 42 Batch 0 Loss 0.69 error 12.00% 
+Epoch 42 Batch 1 Loss 0.40 error 8.00% 
+Epoch 42 Batch 2 Loss 0.11 error 2.00% 
+Epoch 42 Batch 3 Loss 0.48 error 12.00% 
+Epoch 42 Batch 4 Loss 0.58 error 8.00% 
+Epoch 42 Batch 5 Loss 0.29 error 4.00% 
+Epoch 42 Batch 6 Loss 0.23 error 4.00% 
+Epoch 42 Batch 7 Loss 0.13 error 2.00% 
+Epoch 42 Batch 8 Loss 0.13 error 2.00% 
+Epoch 42 Batch 9 Loss 0.25 error 4.00% 
+Epoch 42 Batch 10 Loss 1.57 error 26.00% 
+Epoch 42 Batch 11 Loss 0.40 error 6.00% 
+Epoch 42 Batch 12 Loss 0.77 error 10.00% 
+Epoch 42 Batch 13 Loss 0.16 error 2.00% 
+Epoch 42 Batch 14 Loss 0.68 error 10.00% 
+Epoch 42 Batch 15 Loss 0.55 error 12.00% 
+Epoch 42 Batch 16 Loss 0.93 error 12.00% 
+Epoch 42 Batch 17 Loss 0.39 error 6.00% 
+Epoch 42 Batch 18 Loss 0.54 error 8.00% 
+Epoch 42 Batch 19 Loss 0.51 error 8.00% 
+
+------------- After Epoch 42 ------------- 
+ 
+Loss: 0.28, Error:  4.50%
+
+-------------Starting epoch 43------------- : 
+Epoch 43 Batch 0 Loss 0.17 error 4.00% 
+Epoch 43 Batch 1 Loss 0.16 error 4.00% 
+Epoch 43 Batch 2 Loss 0.28 error 4.00% 
+Epoch 43 Batch 3 Loss 0.37 error 6.00% 
+Epoch 43 Batch 4 Loss 0.16 error 4.00% 
+Epoch 43 Batch 5 Loss 0.41 error 8.00% 
+Epoch 43 Batch 6 Loss 0.29 error 4.00% 
+Epoch 43 Batch 7 Loss 0.14 error 2.00% 
+Epoch 43 Batch 8 Loss 0.11 error 2.00% 
+Epoch 43 Batch 9 Loss 0.08 error 0.00% 
+Epoch 43 Batch 10 Loss 0.35 error 6.00% 
+Epoch 43 Batch 11 Loss 0.21 error 4.00% 
+Epoch 43 Batch 12 Loss 0.41 error 6.00% 
+Epoch 43 Batch 13 Loss 0.01 error 0.00% 
+Epoch 43 Batch 14 Loss 0.25 error 4.00% 
+Epoch 43 Batch 15 Loss 0.28 error 6.00% 
+Epoch 43 Batch 16 Loss 0.39 error 8.00% 
+Epoch 43 Batch 17 Loss 0.28 error 6.00% 
+Epoch 43 Batch 18 Loss 0.15 error 2.00% 
+Epoch 43 Batch 19 Loss 0.19 error 2.00% 
+
+------------- After Epoch 43 ------------- 
+ 
+Loss: 0.28, Error:  4.60%
+
+-------------Starting epoch 44------------- : 
+Epoch 44 Batch 0 Loss 0.09 error 2.00% 
+Epoch 44 Batch 1 Loss 0.04 error 0.00% 
+Epoch 44 Batch 2 Loss 0.02 error 0.00% 
+Epoch 44 Batch 3 Loss 0.13 error 2.00% 
+Epoch 44 Batch 4 Loss 0.11 error 2.00% 
+Epoch 44 Batch 5 Loss 0.40 error 6.00% 
+Epoch 44 Batch 6 Loss 0.25 error 4.00% 
+Epoch 44 Batch 7 Loss 0.08 error 0.00% 
+Epoch 44 Batch 8 Loss 0.13 error 2.00% 
+Epoch 44 Batch 9 Loss 0.16 error 2.00% 
+Epoch 44 Batch 10 Loss 0.24 error 2.00% 
+Epoch 44 Batch 11 Loss 0.11 error 2.00% 
+Epoch 44 Batch 12 Loss 0.60 error 10.00% 
+Epoch 44 Batch 13 Loss 0.01 error 0.00% 
+Epoch 44 Batch 14 Loss 0.30 error 4.00% 
+Epoch 44 Batch 15 Loss 0.07 error 0.00% 
+Epoch 44 Batch 16 Loss 0.28 error 4.00% 
+Epoch 44 Batch 17 Loss 0.04 error 0.00% 
+Epoch 44 Batch 18 Loss 0.10 error 2.00% 
+Epoch 44 Batch 19 Loss 0.17 error 4.00% 
+
+------------- After Epoch 44 ------------- 
+ 
+Loss: 0.14, Error:  2.40%
+
+-------------Starting epoch 45------------- : 
+Epoch 45 Batch 0 Loss 0.09 error 0.00% 
+Epoch 45 Batch 1 Loss 0.16 error 2.00% 
+Epoch 45 Batch 2 Loss 0.07 error 2.00% 
+Epoch 45 Batch 3 Loss 0.29 error 6.00% 
+Epoch 45 Batch 4 Loss 0.90 error 14.00% 
+Epoch 45 Batch 5 Loss 0.28 error 6.00% 
+Epoch 45 Batch 6 Loss 0.73 error 12.00% 
+Epoch 45 Batch 7 Loss 0.46 error 6.00% 
+Epoch 45 Batch 8 Loss 0.52 error 8.00% 
+Epoch 45 Batch 9 Loss 0.09 error 2.00% 
+Epoch 45 Batch 10 Loss 0.26 error 4.00% 
+Epoch 45 Batch 11 Loss 0.33 error 6.00% 
+Epoch 45 Batch 12 Loss 0.26 error 6.00% 
+Epoch 45 Batch 13 Loss 0.13 error 2.00% 
+Epoch 45 Batch 14 Loss 0.17 error 2.00% 
+Epoch 45 Batch 15 Loss 0.25 error 6.00% 
+Epoch 45 Batch 16 Loss 0.31 error 6.00% 
+Epoch 45 Batch 17 Loss 0.34 error 4.00% 
+Epoch 45 Batch 18 Loss 0.55 error 8.00% 
+Epoch 45 Batch 19 Loss 0.50 error 10.00% 
+
+------------- After Epoch 45 ------------- 
+ 
+Loss: 0.27, Error:  4.40%
+
+-------------Starting epoch 46------------- : 
+Epoch 46 Batch 0 Loss 0.58 error 8.00% 
+Epoch 46 Batch 1 Loss 0.12 error 2.00% 
+Epoch 46 Batch 2 Loss 0.15 error 2.00% 
+Epoch 46 Batch 3 Loss 0.15 error 2.00% 
+Epoch 46 Batch 4 Loss 0.10 error 2.00% 
+Epoch 46 Batch 5 Loss 0.25 error 2.00% 
+Epoch 46 Batch 6 Loss 0.26 error 4.00% 
+Epoch 46 Batch 7 Loss 0.14 error 4.00% 
+Epoch 46 Batch 8 Loss 0.19 error 2.00% 
+Epoch 46 Batch 9 Loss 0.17 error 4.00% 
+Epoch 46 Batch 10 Loss 0.24 error 4.00% 
+Epoch 46 Batch 11 Loss 0.11 error 2.00% 
+Epoch 46 Batch 12 Loss 0.55 error 8.00% 
+Epoch 46 Batch 13 Loss 0.02 error 0.00% 
+Epoch 46 Batch 14 Loss 0.19 error 4.00% 
+Epoch 46 Batch 15 Loss 0.39 error 6.00% 
+Epoch 46 Batch 16 Loss 0.45 error 8.00% 
+Epoch 46 Batch 17 Loss 0.04 error 0.00% 
+Epoch 46 Batch 18 Loss 0.14 error 2.00% 
+Epoch 46 Batch 19 Loss 0.38 error 6.00% 
+
+------------- After Epoch 46 ------------- 
+ 
+Loss: 0.28, Error:  4.40%
+
+-------------Starting epoch 47------------- : 
+Epoch 47 Batch 0 Loss 0.09 error 0.00% 
+Epoch 47 Batch 1 Loss 0.07 error 0.00% 
+Epoch 47 Batch 2 Loss 0.02 error 0.00% 
+Epoch 47 Batch 3 Loss 0.09 error 2.00% 
+Epoch 47 Batch 4 Loss 0.06 error 0.00% 
+Epoch 47 Batch 5 Loss 0.18 error 4.00% 
+Epoch 47 Batch 6 Loss 0.17 error 2.00% 
+Epoch 47 Batch 7 Loss 0.03 error 0.00% 
+Epoch 47 Batch 8 Loss 0.11 error 4.00% 
+Epoch 47 Batch 9 Loss 0.12 error 2.00% 
+Epoch 47 Batch 10 Loss 0.25 error 4.00% 
+Epoch 47 Batch 11 Loss 0.02 error 0.00% 
+Epoch 47 Batch 12 Loss 0.42 error 6.00% 
+Epoch 47 Batch 13 Loss 0.01 error 0.00% 
+Epoch 47 Batch 14 Loss 0.19 error 4.00% 
+Epoch 47 Batch 15 Loss 0.37 error 6.00% 
+Epoch 47 Batch 16 Loss 0.49 error 8.00% 
+Epoch 47 Batch 17 Loss 0.09 error 2.00% 
+Epoch 47 Batch 18 Loss 0.22 error 4.00% 
+Epoch 47 Batch 19 Loss 0.42 error 8.00% 
+
+------------- After Epoch 47 ------------- 
+ 
+Loss: 0.47, Error:  7.50%
+
+-------------Starting epoch 48------------- : 
+Epoch 48 Batch 0 Loss 0.76 error 10.00% 
+Epoch 48 Batch 1 Loss 0.16 error 2.00% 
+Epoch 48 Batch 2 Loss 0.07 error 2.00% 
+Epoch 48 Batch 3 Loss 0.37 error 6.00% 
+Epoch 48 Batch 4 Loss 0.23 error 4.00% 
+Epoch 48 Batch 5 Loss 0.24 error 2.00% 
+Epoch 48 Batch 6 Loss 0.13 error 2.00% 
+Epoch 48 Batch 7 Loss 0.11 error 2.00% 
+Epoch 48 Batch 8 Loss 0.24 error 6.00% 
+Epoch 48 Batch 9 Loss 0.28 error 4.00% 
+Epoch 48 Batch 10 Loss 0.67 error 14.00% 
+Epoch 48 Batch 11 Loss 0.37 error 6.00% 
+Epoch 48 Batch 12 Loss 0.29 error 4.00% 
+Epoch 48 Batch 13 Loss 0.04 error 0.00% 
+Epoch 48 Batch 14 Loss 0.06 error 2.00% 
+Epoch 48 Batch 15 Loss 0.25 error 4.00% 
+Epoch 48 Batch 16 Loss 0.67 error 12.00% 
+Epoch 48 Batch 17 Loss 0.04 error 0.00% 
+Epoch 48 Batch 18 Loss 0.08 error 0.00% 
+Epoch 48 Batch 19 Loss 0.29 error 4.00% 
+
+------------- After Epoch 48 ------------- 
+ 
+Loss: 0.15, Error:  2.90%
+
+-------------Starting epoch 49------------- : 
+Epoch 49 Batch 0 Loss 0.19 error 4.00% 
+Epoch 49 Batch 1 Loss 0.04 error 0.00% 
+Epoch 49 Batch 2 Loss 0.02 error 0.00% 
+Epoch 49 Batch 3 Loss 0.12 error 4.00% 
+Epoch 49 Batch 4 Loss 0.18 error 4.00% 
+Epoch 49 Batch 5 Loss 0.41 error 8.00% 
+Epoch 49 Batch 6 Loss 0.83 error 12.00% 
+Epoch 49 Batch 7 Loss 0.31 error 6.00% 
+Epoch 49 Batch 8 Loss 0.56 error 10.00% 
+Epoch 49 Batch 9 Loss 0.29 error 6.00% 
+Epoch 49 Batch 10 Loss 0.28 error 4.00% 
+Epoch 49 Batch 11 Loss 0.08 error 2.00% 
+Epoch 49 Batch 12 Loss 0.63 error 10.00% 
+Epoch 49 Batch 13 Loss 0.00 error 0.00% 
+Epoch 49 Batch 14 Loss 0.23 error 4.00% 
+Epoch 49 Batch 15 Loss 0.29 error 8.00% 
+Epoch 49 Batch 16 Loss 0.41 error 8.00% 
+Epoch 49 Batch 17 Loss 0.26 error 4.00% 
+Epoch 49 Batch 18 Loss 0.17 error 4.00% 
+Epoch 49 Batch 19 Loss 0.14 error 2.00% 
+
+------------- After Epoch 49 ------------- 
+ 
+Loss: 0.19, Error:  3.20%
+
+-------------Starting epoch 50------------- : 
+Epoch 50 Batch 0 Loss 0.36 error 6.00% 
+Epoch 50 Batch 1 Loss 0.12 error 2.00% 
+Epoch 50 Batch 2 Loss 0.05 error 0.00% 
+Epoch 50 Batch 3 Loss 0.09 error 2.00% 
+Epoch 50 Batch 4 Loss 0.18 error 6.00% 
+Epoch 50 Batch 5 Loss 0.37 error 4.00% 
+Epoch 50 Batch 6 Loss 0.26 error 6.00% 
+Epoch 50 Batch 7 Loss 0.40 error 8.00% 
+Epoch 50 Batch 8 Loss 0.59 error 12.00% 
+Epoch 50 Batch 9 Loss 1.13 error 14.00% 
+Epoch 50 Batch 10 Loss 0.54 error 8.00% 
+Epoch 50 Batch 11 Loss 0.10 error 0.00% 
+Epoch 50 Batch 12 Loss 0.49 error 10.00% 
+Epoch 50 Batch 13 Loss 0.02 error 0.00% 
+Epoch 50 Batch 14 Loss 0.26 error 4.00% 
+Epoch 50 Batch 15 Loss 0.13 error 4.00% 
+Epoch 50 Batch 16 Loss 0.41 error 6.00% 
+Epoch 50 Batch 17 Loss 0.02 error 0.00% 
+Epoch 50 Batch 18 Loss 0.14 error 4.00% 
+Epoch 50 Batch 19 Loss 0.18 error 4.00% 
+
+------------- After Epoch 50 ------------- 
+ 
+Loss: 0.21, Error:  3.20%
+
+-------------Starting epoch 51------------- : 
+Epoch 51 Batch 0 Loss 0.09 error 2.00% 
+Epoch 51 Batch 1 Loss 0.02 error 0.00% 
+Epoch 51 Batch 2 Loss 0.03 error 0.00% 
+Epoch 51 Batch 3 Loss 0.27 error 4.00% 
+Epoch 51 Batch 4 Loss 0.13 error 2.00% 
+Epoch 51 Batch 5 Loss 0.52 error 8.00% 
+Epoch 51 Batch 6 Loss 0.38 error 6.00% 
+Epoch 51 Batch 7 Loss 0.21 error 2.00% 
+Epoch 51 Batch 8 Loss 0.55 error 10.00% 
+Epoch 51 Batch 9 Loss 0.43 error 6.00% 
+Epoch 51 Batch 10 Loss 0.10 error 2.00% 
+Epoch 51 Batch 11 Loss 0.30 error 6.00% 
+Epoch 51 Batch 12 Loss 0.37 error 4.00% 
+Epoch 51 Batch 13 Loss 0.00 error 0.00% 
+Epoch 51 Batch 14 Loss 0.15 error 2.00% 
+Epoch 51 Batch 15 Loss 0.36 error 6.00% 
+Epoch 51 Batch 16 Loss 0.55 error 8.00% 
+Epoch 51 Batch 17 Loss 0.36 error 6.00% 
+Epoch 51 Batch 18 Loss 0.12 error 2.00% 
+Epoch 51 Batch 19 Loss 0.18 error 4.00% 
+
+------------- After Epoch 51 ------------- 
+ 
+Loss: 0.20, Error:  3.20%
+
+-------------Starting epoch 52------------- : 
+Epoch 52 Batch 0 Loss 0.22 error 4.00% 
+Epoch 52 Batch 1 Loss 0.23 error 4.00% 
+Epoch 52 Batch 2 Loss 0.05 error 0.00% 
+Epoch 52 Batch 3 Loss 0.17 error 2.00% 
+Epoch 52 Batch 4 Loss 0.17 error 2.00% 
+Epoch 52 Batch 5 Loss 0.58 error 12.00% 
+Epoch 52 Batch 6 Loss 0.48 error 8.00% 
+Epoch 52 Batch 7 Loss 0.41 error 8.00% 
+Epoch 52 Batch 8 Loss 0.67 error 10.00% 
+Epoch 52 Batch 9 Loss 0.32 error 6.00% 
+Epoch 52 Batch 10 Loss 0.25 error 4.00% 
+Epoch 52 Batch 11 Loss 0.12 error 2.00% 
+Epoch 52 Batch 12 Loss 0.54 error 8.00% 
+Epoch 52 Batch 13 Loss 0.00 error 0.00% 
+Epoch 52 Batch 14 Loss 0.27 error 4.00% 
+Epoch 52 Batch 15 Loss 0.09 error 2.00% 
+Epoch 52 Batch 16 Loss 0.40 error 6.00% 
+Epoch 52 Batch 17 Loss 0.24 error 4.00% 
+Epoch 52 Batch 18 Loss 0.20 error 4.00% 
+Epoch 52 Batch 19 Loss 0.16 error 4.00% 
+
+------------- After Epoch 52 ------------- 
+ 
+Loss: 0.33, Error:  5.30%
+
+-------------Starting epoch 53------------- : 
+Epoch 53 Batch 0 Loss 0.11 error 2.00% 
+Epoch 53 Batch 1 Loss 0.03 error 0.00% 
+Epoch 53 Batch 2 Loss 0.02 error 0.00% 
+Epoch 53 Batch 3 Loss 0.32 error 6.00% 
+Epoch 53 Batch 4 Loss 0.09 error 0.00% 
+Epoch 53 Batch 5 Loss 0.33 error 4.00% 
+Epoch 53 Batch 6 Loss 0.32 error 6.00% 
+Epoch 53 Batch 7 Loss 0.18 error 2.00% 
+Epoch 53 Batch 8 Loss 0.07 error 0.00% 
+Epoch 53 Batch 9 Loss 0.26 error 2.00% 
+Epoch 53 Batch 10 Loss 0.53 error 10.00% 
+Epoch 53 Batch 11 Loss 0.07 error 0.00% 
+Epoch 53 Batch 12 Loss 0.43 error 6.00% 
+Epoch 53 Batch 13 Loss 0.00 error 0.00% 
+Epoch 53 Batch 14 Loss 0.28 error 4.00% 
+Epoch 53 Batch 15 Loss 0.11 error 2.00% 
+Epoch 53 Batch 16 Loss 0.29 error 4.00% 
+Epoch 53 Batch 17 Loss 0.21 error 4.00% 
+Epoch 53 Batch 18 Loss 0.26 error 6.00% 
+Epoch 53 Batch 19 Loss 0.17 error 2.00% 
+
+------------- After Epoch 53 ------------- 
+ 
+Loss: 0.26, Error:  3.90%
+
+-------------Starting epoch 54------------- : 
+Epoch 54 Batch 0 Loss 0.04 error 0.00% 
+Epoch 54 Batch 1 Loss 0.14 error 2.00% 
+Epoch 54 Batch 2 Loss 0.01 error 0.00% 
+Epoch 54 Batch 3 Loss 0.03 error 0.00% 
+Epoch 54 Batch 4 Loss 0.08 error 0.00% 
+Epoch 54 Batch 5 Loss 0.32 error 6.00% 
+Epoch 54 Batch 6 Loss 0.69 error 12.00% 
+Epoch 54 Batch 7 Loss 0.18 error 2.00% 
+Epoch 54 Batch 8 Loss 0.78 error 12.00% 
+Epoch 54 Batch 9 Loss 0.66 error 10.00% 
+Epoch 54 Batch 10 Loss 0.29 error 2.00% 
+Epoch 54 Batch 11 Loss 0.27 error 6.00% 
+Epoch 54 Batch 12 Loss 0.35 error 4.00% 
+Epoch 54 Batch 13 Loss 0.01 error 0.00% 
+Epoch 54 Batch 14 Loss 0.10 error 2.00% 
+Epoch 54 Batch 15 Loss 0.41 error 6.00% 
+Epoch 54 Batch 16 Loss 0.51 error 8.00% 
+Epoch 54 Batch 17 Loss 0.25 error 4.00% 
+Epoch 54 Batch 18 Loss 0.07 error 0.00% 
+Epoch 54 Batch 19 Loss 0.30 error 6.00% 
+
+------------- After Epoch 54 ------------- 
+ 
+Loss: 0.30, Error:  4.60%
+
+-------------Starting epoch 55------------- : 
+Epoch 55 Batch 0 Loss 0.04 error 0.00% 
+Epoch 55 Batch 1 Loss 0.07 error 2.00% 
+Epoch 55 Batch 2 Loss 0.01 error 0.00% 
+Epoch 55 Batch 3 Loss 0.16 error 2.00% 
+Epoch 55 Batch 4 Loss 0.03 error 0.00% 
+Epoch 55 Batch 5 Loss 0.17 error 2.00% 
+Epoch 55 Batch 6 Loss 0.10 error 2.00% 
+Epoch 55 Batch 7 Loss 0.14 error 2.00% 
+Epoch 55 Batch 8 Loss 0.09 error 2.00% 
+Epoch 55 Batch 9 Loss 0.15 error 0.00% 
+Epoch 55 Batch 10 Loss 1.06 error 18.00% 
+Epoch 55 Batch 11 Loss 0.24 error 4.00% 
+Epoch 55 Batch 12 Loss 0.32 error 4.00% 
+Epoch 55 Batch 13 Loss 0.00 error 0.00% 
+Epoch 55 Batch 14 Loss 0.24 error 4.00% 
+Epoch 55 Batch 15 Loss 0.17 error 2.00% 
+Epoch 55 Batch 16 Loss 0.39 error 6.00% 
+Epoch 55 Batch 17 Loss 0.26 error 6.00% 
+Epoch 55 Batch 18 Loss 0.25 error 8.00% 
+Epoch 55 Batch 19 Loss 0.25 error 6.00% 
+
+------------- After Epoch 55 ------------- 
+ 
+Loss: 0.35, Error:  5.20%
+
+-------------Starting epoch 56------------- : 
+Epoch 56 Batch 0 Loss 0.06 error 2.00% 
+Epoch 56 Batch 1 Loss 0.02 error 0.00% 
+Epoch 56 Batch 2 Loss 0.02 error 0.00% 
+Epoch 56 Batch 3 Loss 0.32 error 6.00% 
+Epoch 56 Batch 4 Loss 0.13 error 2.00% 
+Epoch 56 Batch 5 Loss 0.56 error 10.00% 
+Epoch 56 Batch 6 Loss 0.42 error 6.00% 
+Epoch 56 Batch 7 Loss 0.22 error 2.00% 
+Epoch 56 Batch 8 Loss 0.51 error 8.00% 
+Epoch 56 Batch 9 Loss 0.20 error 6.00% 
+Epoch 56 Batch 10 Loss 0.25 error 4.00% 
+Epoch 56 Batch 11 Loss 0.19 error 4.00% 
+Epoch 56 Batch 12 Loss 0.45 error 6.00% 
+Epoch 56 Batch 13 Loss 0.01 error 0.00% 
+Epoch 56 Batch 14 Loss 0.22 error 4.00% 
+Epoch 56 Batch 15 Loss 0.34 error 6.00% 
+Epoch 56 Batch 16 Loss 0.40 error 8.00% 
+Epoch 56 Batch 17 Loss 0.11 error 2.00% 
+Epoch 56 Batch 18 Loss 0.21 error 4.00% 
+Epoch 56 Batch 19 Loss 0.11 error 0.00% 
+
+------------- After Epoch 56 ------------- 
+ 
+Loss: 0.21, Error:  3.90%
+
+-------------Starting epoch 57------------- : 
+Epoch 57 Batch 0 Loss 0.12 error 2.00% 
+Epoch 57 Batch 1 Loss 0.02 error 0.00% 
+Epoch 57 Batch 2 Loss 0.02 error 0.00% 
+Epoch 57 Batch 3 Loss 0.44 error 8.00% 
+Epoch 57 Batch 4 Loss 0.10 error 2.00% 
+Epoch 57 Batch 5 Loss 0.22 error 2.00% 
+Epoch 57 Batch 6 Loss 0.23 error 4.00% 
+Epoch 57 Batch 7 Loss 0.08 error 0.00% 
+Epoch 57 Batch 8 Loss 0.04 error 0.00% 
+Epoch 57 Batch 9 Loss 0.27 error 4.00% 
+Epoch 57 Batch 10 Loss 0.53 error 10.00% 
+Epoch 57 Batch 11 Loss 0.08 error 2.00% 
+Epoch 57 Batch 12 Loss 0.35 error 4.00% 
+Epoch 57 Batch 13 Loss 0.00 error 0.00% 
+Epoch 57 Batch 14 Loss 0.31 error 4.00% 
+Epoch 57 Batch 15 Loss 0.17 error 2.00% 
+Epoch 57 Batch 16 Loss 0.31 error 4.00% 
+Epoch 57 Batch 17 Loss 0.06 error 0.00% 
+Epoch 57 Batch 18 Loss 0.17 error 2.00% 
+Epoch 57 Batch 19 Loss 0.15 error 4.00% 
+
+------------- After Epoch 57 ------------- 
+ 
+Loss: 0.35, Error:  5.10%
+
+-------------Starting epoch 58------------- : 
+Epoch 58 Batch 0 Loss 0.01 error 0.00% 
+Epoch 58 Batch 1 Loss 0.08 error 0.00% 
+Epoch 58 Batch 2 Loss 0.09 error 2.00% 
+Epoch 58 Batch 3 Loss 0.03 error 0.00% 
+Epoch 58 Batch 4 Loss 0.03 error 0.00% 
+Epoch 58 Batch 5 Loss 0.19 error 2.00% 
+Epoch 58 Batch 6 Loss 0.12 error 2.00% 
+Epoch 58 Batch 7 Loss 0.20 error 2.00% 
+Epoch 58 Batch 8 Loss 0.01 error 0.00% 
+Epoch 58 Batch 9 Loss 0.23 error 4.00% 
+Epoch 58 Batch 10 Loss 0.35 error 6.00% 
+Epoch 58 Batch 11 Loss 0.01 error 0.00% 
+Epoch 58 Batch 12 Loss 0.48 error 6.00% 
+Epoch 58 Batch 13 Loss 0.00 error 0.00% 
+Epoch 58 Batch 14 Loss 0.28 error 4.00% 
+Epoch 58 Batch 15 Loss 0.21 error 4.00% 
+Epoch 58 Batch 16 Loss 0.32 error 4.00% 
+Epoch 58 Batch 17 Loss 0.15 error 2.00% 
+Epoch 58 Batch 18 Loss 0.20 error 4.00% 
+Epoch 58 Batch 19 Loss 0.26 error 4.00% 
+
+------------- After Epoch 58 ------------- 
+ 
+Loss: 0.40, Error:  5.90%
+
+-------------Starting epoch 59------------- : 
+Epoch 59 Batch 0 Loss 0.28 error 4.00% 
+Epoch 59 Batch 1 Loss 0.06 error 0.00% 
+Epoch 59 Batch 2 Loss 0.12 error 2.00% 
+Epoch 59 Batch 3 Loss 0.09 error 2.00% 
+Epoch 59 Batch 4 Loss 0.42 error 8.00% 
+Epoch 59 Batch 5 Loss 0.27 error 4.00% 
+Epoch 59 Batch 6 Loss 0.59 error 10.00% 
+Epoch 59 Batch 7 Loss 0.16 error 2.00% 
+Epoch 59 Batch 8 Loss 0.57 error 10.00% 
+Epoch 59 Batch 9 Loss 0.41 error 6.00% 
+Epoch 59 Batch 10 Loss 0.08 error 2.00% 
+Epoch 59 Batch 11 Loss 0.16 error 4.00% 
+Epoch 59 Batch 12 Loss 0.38 error 6.00% 
+Epoch 59 Batch 13 Loss 0.01 error 0.00% 
+Epoch 59 Batch 14 Loss 0.19 error 4.00% 
+Epoch 59 Batch 15 Loss 0.33 error 4.00% 
+Epoch 59 Batch 16 Loss 0.40 error 6.00% 
+Epoch 59 Batch 17 Loss 0.05 error 0.00% 
+Epoch 59 Batch 18 Loss 0.05 error 0.00% 
+Epoch 59 Batch 19 Loss 0.22 error 4.00% 
+
+------------- After Epoch 59 ------------- 
+ 
+Loss: 0.32, Error:  4.90%
+
+-------------Starting epoch 60------------- : 
+Epoch 60 Batch 0 Loss 0.02 error 0.00% 
+Epoch 60 Batch 1 Loss 0.18 error 2.00% 
+Epoch 60 Batch 2 Loss 0.01 error 0.00% 
+Epoch 60 Batch 3 Loss 0.17 error 2.00% 
+Epoch 60 Batch 4 Loss 0.10 error 0.00% 
+Epoch 60 Batch 5 Loss 0.41 error 6.00% 
+Epoch 60 Batch 6 Loss 0.32 error 6.00% 
+Epoch 60 Batch 7 Loss 0.22 error 4.00% 
+Epoch 60 Batch 8 Loss 0.24 error 4.00% 
+Epoch 60 Batch 9 Loss 0.49 error 6.00% 
+Epoch 60 Batch 10 Loss 0.17 error 2.00% 
+Epoch 60 Batch 11 Loss 0.35 error 6.00% 
+Epoch 60 Batch 12 Loss 0.60 error 14.00% 
+Epoch 60 Batch 13 Loss 0.17 error 4.00% 
+Epoch 60 Batch 14 Loss 0.29 error 4.00% 
+Epoch 60 Batch 15 Loss 0.07 error 2.00% 
+Epoch 60 Batch 16 Loss 0.28 error 8.00% 
+Epoch 60 Batch 17 Loss 0.09 error 2.00% 
+Epoch 60 Batch 18 Loss 0.16 error 2.00% 
+Epoch 60 Batch 19 Loss 0.22 error 4.00% 
+
+------------- After Epoch 60 ------------- 
+ 
+Loss: 0.44, Error:  6.20%
+
+-------------Starting epoch 61------------- : 
+Epoch 61 Batch 0 Loss 0.12 error 2.00% 
+Epoch 61 Batch 1 Loss 0.03 error 0.00% 
+Epoch 61 Batch 2 Loss 0.06 error 0.00% 
+Epoch 61 Batch 3 Loss 0.30 error 4.00% 
+Epoch 61 Batch 4 Loss 0.10 error 4.00% 
+Epoch 61 Batch 5 Loss 0.43 error 6.00% 
+Epoch 61 Batch 6 Loss 0.29 error 4.00% 
+Epoch 61 Batch 7 Loss 0.19 error 2.00% 
+Epoch 61 Batch 8 Loss 0.25 error 4.00% 
+Epoch 61 Batch 9 Loss 0.36 error 6.00% 
+Epoch 61 Batch 10 Loss 0.32 error 4.00% 
+Epoch 61 Batch 11 Loss 0.23 error 6.00% 
+Epoch 61 Batch 12 Loss 0.44 error 6.00% 
+Epoch 61 Batch 13 Loss 0.00 error 0.00% 
+Epoch 61 Batch 14 Loss 0.26 error 4.00% 
+Epoch 61 Batch 15 Loss 0.29 error 6.00% 
+Epoch 61 Batch 16 Loss 0.36 error 6.00% 
+Epoch 61 Batch 17 Loss 0.16 error 2.00% 
+Epoch 61 Batch 18 Loss 0.16 error 2.00% 
+Epoch 61 Batch 19 Loss 0.29 error 6.00% 
+
+------------- After Epoch 61 ------------- 
+ 
+Loss: 0.32, Error:  4.90%
+
+-------------Starting epoch 62------------- : 
+Epoch 62 Batch 0 Loss 0.02 error 0.00% 
+Epoch 62 Batch 1 Loss 0.03 error 0.00% 
+Epoch 62 Batch 2 Loss 0.01 error 0.00% 
+Epoch 62 Batch 3 Loss 0.11 error 2.00% 
+Epoch 62 Batch 4 Loss 0.06 error 0.00% 
+Epoch 62 Batch 5 Loss 0.33 error 4.00% 
+Epoch 62 Batch 6 Loss 0.11 error 2.00% 
+Epoch 62 Batch 7 Loss 0.19 error 2.00% 
+Epoch 62 Batch 8 Loss 0.04 error 0.00% 
+Epoch 62 Batch 9 Loss 0.17 error 2.00% 
+Epoch 62 Batch 10 Loss 0.37 error 8.00% 
+Epoch 62 Batch 11 Loss 0.19 error 2.00% 
+Epoch 62 Batch 12 Loss 0.76 error 12.00% 
+Epoch 62 Batch 13 Loss 0.00 error 0.00% 
+Epoch 62 Batch 14 Loss 0.31 error 4.00% 
+Epoch 62 Batch 15 Loss 0.10 error 2.00% 
+Epoch 62 Batch 16 Loss 0.35 error 6.00% 
+Epoch 62 Batch 17 Loss 0.30 error 4.00% 
+Epoch 62 Batch 18 Loss 0.11 error 2.00% 
+Epoch 62 Batch 19 Loss 0.26 error 6.00% 
+
+------------- After Epoch 62 ------------- 
+ 
+Loss: 0.30, Error:  4.60%
+
+-------------Starting epoch 63------------- : 
+Epoch 63 Batch 0 Loss 0.04 error 0.00% 
+Epoch 63 Batch 1 Loss 0.01 error 0.00% 
+Epoch 63 Batch 2 Loss 0.04 error 0.00% 
+Epoch 63 Batch 3 Loss 0.19 error 4.00% 
+Epoch 63 Batch 4 Loss 0.11 error 4.00% 
+Epoch 63 Batch 5 Loss 0.60 error 10.00% 
+Epoch 63 Batch 6 Loss 0.34 error 4.00% 
+Epoch 63 Batch 7 Loss 0.20 error 2.00% 
+Epoch 63 Batch 8 Loss 0.45 error 8.00% 
+Epoch 63 Batch 9 Loss 0.15 error 2.00% 
+Epoch 63 Batch 10 Loss 0.15 error 4.00% 
+Epoch 63 Batch 11 Loss 0.31 error 6.00% 
+Epoch 63 Batch 12 Loss 0.47 error 6.00% 
+Epoch 63 Batch 13 Loss 0.01 error 0.00% 
+Epoch 63 Batch 14 Loss 0.19 error 4.00% 
+Epoch 63 Batch 15 Loss 0.33 error 6.00% 
+Epoch 63 Batch 16 Loss 0.54 error 8.00% 
+Epoch 63 Batch 17 Loss 0.14 error 4.00% 
+Epoch 63 Batch 18 Loss 0.10 error 0.00% 
+Epoch 63 Batch 19 Loss 0.14 error 4.00% 
+
+------------- After Epoch 63 ------------- 
+ 
+Loss: 0.17, Error:  2.70%
+
+-------------Starting epoch 64------------- : 
+Epoch 64 Batch 0 Loss 0.17 error 4.00% 
+Epoch 64 Batch 1 Loss 0.17 error 2.00% 
+Epoch 64 Batch 2 Loss 0.09 error 0.00% 
+Epoch 64 Batch 3 Loss 0.09 error 2.00% 
+Epoch 64 Batch 4 Loss 0.30 error 8.00% 
+Epoch 64 Batch 5 Loss 0.61 error 10.00% 
+Epoch 64 Batch 6 Loss 0.43 error 6.00% 
+Epoch 64 Batch 7 Loss 0.41 error 8.00% 
+Epoch 64 Batch 8 Loss 0.33 error 6.00% 
+Epoch 64 Batch 9 Loss 0.05 error 0.00% 
+Epoch 64 Batch 10 Loss 0.29 error 4.00% 
+Epoch 64 Batch 11 Loss 0.21 error 6.00% 
+Epoch 64 Batch 12 Loss 0.36 error 8.00% 
+Epoch 64 Batch 13 Loss 0.04 error 0.00% 
+Epoch 64 Batch 14 Loss 0.26 error 4.00% 
+Epoch 64 Batch 15 Loss 0.20 error 6.00% 
+Epoch 64 Batch 16 Loss 0.37 error 6.00% 
+Epoch 64 Batch 17 Loss 0.07 error 2.00% 
+Epoch 64 Batch 18 Loss 0.25 error 6.00% 
+Epoch 64 Batch 19 Loss 0.11 error 2.00% 
+
+------------- After Epoch 64 ------------- 
+ 
+Loss: 0.25, Error:  4.90%
+
+-------------Starting epoch 65------------- : 
+Epoch 65 Batch 0 Loss 0.19 error 4.00% 
+Epoch 65 Batch 1 Loss 0.02 error 0.00% 
+Epoch 65 Batch 2 Loss 0.01 error 0.00% 
+Epoch 65 Batch 3 Loss 0.37 error 6.00% 
+Epoch 65 Batch 4 Loss 0.09 error 0.00% 
+Epoch 65 Batch 5 Loss 0.34 error 4.00% 
+Epoch 65 Batch 6 Loss 0.12 error 2.00% 
+Epoch 65 Batch 7 Loss 0.16 error 2.00% 
+Epoch 65 Batch 8 Loss 0.35 error 4.00% 
+Epoch 65 Batch 9 Loss 0.54 error 10.00% 
+Epoch 65 Batch 10 Loss 0.36 error 4.00% 
+Epoch 65 Batch 11 Loss 0.29 error 6.00% 
+Epoch 65 Batch 12 Loss 0.36 error 6.00% 
+Epoch 65 Batch 13 Loss 0.00 error 0.00% 
+Epoch 65 Batch 14 Loss 0.30 error 4.00% 
+Epoch 65 Batch 15 Loss 0.22 error 4.00% 
+Epoch 65 Batch 16 Loss 0.36 error 6.00% 
+Epoch 65 Batch 17 Loss 0.05 error 0.00% 
+Epoch 65 Batch 18 Loss 0.11 error 2.00% 
+Epoch 65 Batch 19 Loss 0.30 error 6.00% 
+
+------------- After Epoch 65 ------------- 
+ 
+Loss: 0.27, Error:  4.60%
+
+-------------Starting epoch 66------------- : 
+Epoch 66 Batch 0 Loss 0.03 error 0.00% 
+Epoch 66 Batch 1 Loss 0.04 error 0.00% 
+Epoch 66 Batch 2 Loss 0.03 error 0.00% 
+Epoch 66 Batch 3 Loss 0.05 error 0.00% 
+Epoch 66 Batch 4 Loss 0.07 error 0.00% 
+Epoch 66 Batch 5 Loss 0.31 error 4.00% 
+Epoch 66 Batch 6 Loss 0.23 error 4.00% 
+Epoch 66 Batch 7 Loss 0.16 error 2.00% 
+Epoch 66 Batch 8 Loss 0.52 error 6.00% 
+Epoch 66 Batch 9 Loss 0.33 error 4.00% 
+Epoch 66 Batch 10 Loss 0.13 error 2.00% 
+Epoch 66 Batch 11 Loss 0.17 error 4.00% 
+Epoch 66 Batch 12 Loss 0.29 error 4.00% 
+Epoch 66 Batch 13 Loss 0.01 error 0.00% 
+Epoch 66 Batch 14 Loss 0.26 error 4.00% 
+Epoch 66 Batch 15 Loss 0.12 error 2.00% 
+Epoch 66 Batch 16 Loss 0.17 error 2.00% 
+Epoch 66 Batch 17 Loss 0.10 error 2.00% 
+Epoch 66 Batch 18 Loss 0.14 error 4.00% 
+Epoch 66 Batch 19 Loss 0.13 error 2.00% 
+
+------------- After Epoch 66 ------------- 
+ 
+Loss: 0.15, Error:  2.80%
+
+-------------Starting epoch 67------------- : 
+Epoch 67 Batch 0 Loss 0.01 error 0.00% 
+Epoch 67 Batch 1 Loss 0.01 error 0.00% 
+Epoch 67 Batch 2 Loss 0.01 error 0.00% 
+Epoch 67 Batch 3 Loss 0.17 error 4.00% 
+Epoch 67 Batch 4 Loss 0.11 error 2.00% 
+Epoch 67 Batch 5 Loss 0.43 error 6.00% 
+Epoch 67 Batch 6 Loss 0.36 error 6.00% 
+Epoch 67 Batch 7 Loss 0.19 error 2.00% 
+Epoch 67 Batch 8 Loss 0.66 error 10.00% 
+Epoch 67 Batch 9 Loss 0.27 error 4.00% 
+Epoch 67 Batch 10 Loss 0.05 error 2.00% 
+Epoch 67 Batch 11 Loss 0.19 error 4.00% 
+Epoch 67 Batch 12 Loss 0.39 error 6.00% 
+Epoch 67 Batch 13 Loss 0.00 error 0.00% 
+Epoch 67 Batch 14 Loss 0.17 error 4.00% 
+Epoch 67 Batch 15 Loss 0.38 error 6.00% 
+Epoch 67 Batch 16 Loss 0.36 error 6.00% 
+Epoch 67 Batch 17 Loss 0.25 error 4.00% 
+Epoch 67 Batch 18 Loss 0.07 error 0.00% 
+Epoch 67 Batch 19 Loss 0.04 error 0.00% 
+
+------------- After Epoch 67 ------------- 
+ 
+Loss: 0.16, Error:  2.70%
+
+-------------Starting epoch 68------------- : 
+Epoch 68 Batch 0 Loss 0.05 error 0.00% 
+Epoch 68 Batch 1 Loss 0.16 error 2.00% 
+Epoch 68 Batch 2 Loss 0.06 error 2.00% 
+Epoch 68 Batch 3 Loss 0.15 error 2.00% 
+Epoch 68 Batch 4 Loss 0.24 error 4.00% 
+Epoch 68 Batch 5 Loss 0.47 error 10.00% 
+Epoch 68 Batch 6 Loss 0.39 error 6.00% 
+Epoch 68 Batch 7 Loss 0.18 error 2.00% 
+Epoch 68 Batch 8 Loss 0.55 error 8.00% 
+Epoch 68 Batch 9 Loss 0.23 error 4.00% 
+Epoch 68 Batch 10 Loss 0.13 error 2.00% 
+Epoch 68 Batch 11 Loss 0.19 error 2.00% 
+Epoch 68 Batch 12 Loss 0.37 error 6.00% 
+Epoch 68 Batch 13 Loss 0.05 error 0.00% 
+Epoch 68 Batch 14 Loss 0.10 error 2.00% 
+Epoch 68 Batch 15 Loss 0.31 error 4.00% 
+Epoch 68 Batch 16 Loss 0.22 error 6.00% 
+Epoch 68 Batch 17 Loss 0.11 error 2.00% 
+Epoch 68 Batch 18 Loss 0.10 error 0.00% 
+Epoch 68 Batch 19 Loss 0.11 error 2.00% 
+
+------------- After Epoch 68 ------------- 
+ 
+Loss: 0.18, Error:  3.20%
+
+-------------Starting epoch 69------------- : 
+Epoch 69 Batch 0 Loss 0.34 error 6.00% 
+Epoch 69 Batch 1 Loss 0.03 error 0.00% 
+Epoch 69 Batch 2 Loss 0.02 error 0.00% 
+Epoch 69 Batch 3 Loss 0.08 error 2.00% 
+Epoch 69 Batch 4 Loss 0.13 error 2.00% 
+Epoch 69 Batch 5 Loss 0.38 error 8.00% 
+Epoch 69 Batch 6 Loss 0.05 error 0.00% 
+Epoch 69 Batch 7 Loss 0.21 error 4.00% 
+Epoch 69 Batch 8 Loss 0.37 error 4.00% 
+Epoch 69 Batch 9 Loss 0.86 error 14.00% 
+Epoch 69 Batch 10 Loss 0.59 error 10.00% 
+Epoch 69 Batch 11 Loss 0.28 error 4.00% 
+Epoch 69 Batch 12 Loss 0.41 error 8.00% 
+Epoch 69 Batch 13 Loss 0.01 error 0.00% 
+Epoch 69 Batch 14 Loss 0.27 error 4.00% 
+Epoch 69 Batch 15 Loss 0.23 error 6.00% 
+Epoch 69 Batch 16 Loss 0.12 error 2.00% 
+Epoch 69 Batch 17 Loss 0.16 error 2.00% 
+Epoch 69 Batch 18 Loss 0.05 error 0.00% 
+Epoch 69 Batch 19 Loss 0.09 error 2.00% 
+
+------------- After Epoch 69 ------------- 
+ 
+Loss: 0.24, Error:  4.00%
+
+-------------Starting epoch 70------------- : 
+Epoch 70 Batch 0 Loss 0.06 error 0.00% 
+Epoch 70 Batch 1 Loss 0.19 error 2.00% 
+Epoch 70 Batch 2 Loss 0.06 error 2.00% 
+Epoch 70 Batch 3 Loss 0.11 error 2.00% 
+Epoch 70 Batch 4 Loss 0.17 error 4.00% 
+Epoch 70 Batch 5 Loss 0.38 error 4.00% 
+Epoch 70 Batch 6 Loss 0.06 error 0.00% 
+Epoch 70 Batch 7 Loss 0.12 error 2.00% 
+Epoch 70 Batch 8 Loss 0.10 error 0.00% 
+Epoch 70 Batch 9 Loss 0.33 error 4.00% 
+Epoch 70 Batch 10 Loss 0.12 error 2.00% 
+Epoch 70 Batch 11 Loss 0.05 error 2.00% 
+Epoch 70 Batch 12 Loss 0.20 error 4.00% 
+Epoch 70 Batch 13 Loss 0.26 error 4.00% 
+Epoch 70 Batch 14 Loss 0.54 error 10.00% 
+Epoch 70 Batch 15 Loss 0.39 error 6.00% 
+Epoch 70 Batch 16 Loss 0.54 error 10.00% 
+Epoch 70 Batch 17 Loss 0.21 error 4.00% 
+Epoch 70 Batch 18 Loss 0.14 error 4.00% 
+Epoch 70 Batch 19 Loss 0.40 error 8.00% 
+
+------------- After Epoch 70 ------------- 
+ 
+Loss: 0.31, Error:  5.00%
+
+-------------Starting epoch 71------------- : 
+Epoch 71 Batch 0 Loss 0.05 error 0.00% 
+Epoch 71 Batch 1 Loss 0.17 error 4.00% 
+Epoch 71 Batch 2 Loss 0.05 error 0.00% 
+Epoch 71 Batch 3 Loss 0.08 error 2.00% 
+Epoch 71 Batch 4 Loss 0.05 error 0.00% 
+Epoch 71 Batch 5 Loss 0.25 error 6.00% 
+Epoch 71 Batch 6 Loss 0.07 error 0.00% 
+Epoch 71 Batch 7 Loss 0.10 error 2.00% 
+Epoch 71 Batch 8 Loss 0.24 error 4.00% 
+Epoch 71 Batch 9 Loss 0.54 error 10.00% 
+Epoch 71 Batch 10 Loss 0.65 error 12.00% 
+Epoch 71 Batch 11 Loss 0.13 error 2.00% 
+Epoch 71 Batch 12 Loss 0.39 error 6.00% 
+Epoch 71 Batch 13 Loss 0.04 error 0.00% 
+Epoch 71 Batch 14 Loss 0.32 error 6.00% 
+Epoch 71 Batch 15 Loss 0.17 error 4.00% 
+Epoch 71 Batch 16 Loss 0.30 error 4.00% 
+Epoch 71 Batch 17 Loss 0.15 error 2.00% 
+Epoch 71 Batch 18 Loss 0.14 error 4.00% 
+Epoch 71 Batch 19 Loss 0.17 error 2.00% 
+
+------------- After Epoch 71 ------------- 
+ 
+Loss: 0.11, Error:  2.10%
+
+-------------Starting epoch 72------------- : 
+Epoch 72 Batch 0 Loss 0.30 error 6.00% 
+Epoch 72 Batch 1 Loss 0.01 error 0.00% 
+Epoch 72 Batch 2 Loss 0.05 error 0.00% 
+Epoch 72 Batch 3 Loss 0.07 error 2.00% 
+Epoch 72 Batch 4 Loss 0.15 error 2.00% 
+Epoch 72 Batch 5 Loss 0.33 error 4.00% 
+Epoch 72 Batch 6 Loss 0.28 error 4.00% 
+Epoch 72 Batch 7 Loss 0.20 error 4.00% 
+Epoch 72 Batch 8 Loss 0.20 error 6.00% 
+Epoch 72 Batch 9 Loss 0.62 error 10.00% 
+Epoch 72 Batch 10 Loss 0.28 error 6.00% 
+Epoch 72 Batch 11 Loss 0.30 error 4.00% 
+Epoch 72 Batch 12 Loss 0.42 error 8.00% 
+Epoch 72 Batch 13 Loss 0.00 error 0.00% 
+Epoch 72 Batch 14 Loss 0.22 error 4.00% 
+Epoch 72 Batch 15 Loss 0.28 error 6.00% 
+Epoch 72 Batch 16 Loss 0.38 error 6.00% 
+Epoch 72 Batch 17 Loss 0.10 error 2.00% 
+Epoch 72 Batch 18 Loss 0.13 error 4.00% 
+Epoch 72 Batch 19 Loss 0.22 error 6.00% 
+
+------------- After Epoch 72 ------------- 
+ 
+Loss: 0.40, Error:  5.90%
+
+-------------Starting epoch 73------------- : 
+Epoch 73 Batch 0 Loss 0.02 error 0.00% 
+Epoch 73 Batch 1 Loss 0.03 error 0.00% 
+Epoch 73 Batch 2 Loss 0.00 error 0.00% 
+Epoch 73 Batch 3 Loss 0.13 error 2.00% 
+Epoch 73 Batch 4 Loss 0.03 error 0.00% 
+Epoch 73 Batch 5 Loss 0.27 error 4.00% 
+Epoch 73 Batch 6 Loss 0.13 error 2.00% 
+Epoch 73 Batch 7 Loss 0.20 error 2.00% 
+Epoch 73 Batch 8 Loss 0.19 error 4.00% 
+Epoch 73 Batch 9 Loss 0.40 error 6.00% 
+Epoch 73 Batch 10 Loss 0.20 error 6.00% 
+Epoch 73 Batch 11 Loss 0.28 error 4.00% 
+Epoch 73 Batch 12 Loss 0.40 error 6.00% 
+Epoch 73 Batch 13 Loss 0.00 error 0.00% 
+Epoch 73 Batch 14 Loss 0.22 error 4.00% 
+Epoch 73 Batch 15 Loss 0.53 error 8.00% 
+Epoch 73 Batch 16 Loss 0.33 error 4.00% 
+Epoch 73 Batch 17 Loss 0.13 error 2.00% 
+Epoch 73 Batch 18 Loss 0.14 error 2.00% 
+Epoch 73 Batch 19 Loss 0.16 error 4.00% 
+
+------------- After Epoch 73 ------------- 
+ 
+Loss: 0.22, Error:  3.90%
+
+-------------Starting epoch 74------------- : 
+Epoch 74 Batch 0 Loss 0.02 error 0.00% 
+Epoch 74 Batch 1 Loss 0.01 error 0.00% 
+Epoch 74 Batch 2 Loss 0.06 error 2.00% 
+Epoch 74 Batch 3 Loss 0.13 error 2.00% 
+Epoch 74 Batch 4 Loss 0.29 error 6.00% 
+Epoch 74 Batch 5 Loss 0.60 error 10.00% 
+Epoch 74 Batch 6 Loss 0.42 error 6.00% 
+Epoch 74 Batch 7 Loss 0.21 error 2.00% 
+Epoch 74 Batch 8 Loss 0.45 error 8.00% 
+Epoch 74 Batch 9 Loss 0.20 error 2.00% 
+Epoch 74 Batch 10 Loss 0.07 error 2.00% 
+Epoch 74 Batch 11 Loss 0.12 error 2.00% 
+Epoch 74 Batch 12 Loss 0.37 error 6.00% 
+Epoch 74 Batch 13 Loss 0.01 error 0.00% 
+Epoch 74 Batch 14 Loss 0.19 error 4.00% 
+Epoch 74 Batch 15 Loss 0.19 error 4.00% 
+Epoch 74 Batch 16 Loss 0.21 error 4.00% 
+Epoch 74 Batch 17 Loss 0.05 error 2.00% 
+Epoch 74 Batch 18 Loss 0.16 error 4.00% 
+Epoch 74 Batch 19 Loss 0.08 error 0.00% 
+
+------------- After Epoch 74 ------------- 
+ 
+Loss: 0.11, Error:  2.00%
+
+-------------Starting epoch 75------------- : 
+Epoch 75 Batch 0 Loss 0.04 error 0.00% 
+Epoch 75 Batch 1 Loss 0.03 error 0.00% 
+Epoch 75 Batch 2 Loss 0.01 error 0.00% 
+Epoch 75 Batch 3 Loss 0.06 error 0.00% 
+Epoch 75 Batch 4 Loss 0.03 error 0.00% 
+Epoch 75 Batch 5 Loss 0.24 error 4.00% 
+Epoch 75 Batch 6 Loss 0.17 error 2.00% 
+Epoch 75 Batch 7 Loss 0.03 error 0.00% 
+Epoch 75 Batch 8 Loss 0.00 error 0.00% 
+Epoch 75 Batch 9 Loss 0.36 error 8.00% 
+Epoch 75 Batch 10 Loss 0.44 error 6.00% 
+Epoch 75 Batch 11 Loss 0.27 error 6.00% 
+Epoch 75 Batch 12 Loss 0.36 error 4.00% 
+Epoch 75 Batch 13 Loss 0.00 error 0.00% 
+Epoch 75 Batch 14 Loss 0.32 error 4.00% 
+Epoch 75 Batch 15 Loss 0.16 error 2.00% 
+Epoch 75 Batch 16 Loss 0.38 error 6.00% 
+Epoch 75 Batch 17 Loss 0.02 error 0.00% 
+Epoch 75 Batch 18 Loss 0.14 error 2.00% 
+Epoch 75 Batch 19 Loss 0.13 error 4.00% 
+
+------------- After Epoch 75 ------------- 
+ 
+Loss: 0.26, Error:  4.10%
+
+-------------Starting epoch 76------------- : 
+Epoch 76 Batch 0 Loss 0.01 error 0.00% 
+Epoch 76 Batch 1 Loss 0.01 error 0.00% 
+Epoch 76 Batch 2 Loss 0.00 error 0.00% 
+Epoch 76 Batch 3 Loss 0.08 error 2.00% 
+Epoch 76 Batch 4 Loss 0.04 error 0.00% 
+Epoch 76 Batch 5 Loss 0.21 error 2.00% 
+Epoch 76 Batch 6 Loss 0.24 error 4.00% 
+Epoch 76 Batch 7 Loss 0.17 error 2.00% 
+Epoch 76 Batch 8 Loss 0.45 error 8.00% 
+Epoch 76 Batch 9 Loss 0.41 error 8.00% 
+Epoch 76 Batch 10 Loss 0.08 error 2.00% 
+Epoch 76 Batch 11 Loss 0.42 error 8.00% 
+Epoch 76 Batch 12 Loss 0.46 error 6.00% 
+Epoch 76 Batch 13 Loss 0.00 error 0.00% 
+Epoch 76 Batch 14 Loss 0.25 error 4.00% 
+Epoch 76 Batch 15 Loss 0.25 error 6.00% 
+Epoch 76 Batch 16 Loss 0.34 error 6.00% 
+Epoch 76 Batch 17 Loss 0.20 error 4.00% 
+Epoch 76 Batch 18 Loss 0.17 error 2.00% 
+Epoch 76 Batch 19 Loss 0.15 error 4.00% 
+
+------------- After Epoch 76 ------------- 
+ 
+Loss: 0.21, Error:  3.80%
+
+-------------Starting epoch 77------------- : 
+Epoch 77 Batch 0 Loss 0.02 error 0.00% 
+Epoch 77 Batch 1 Loss 0.01 error 0.00% 
+Epoch 77 Batch 2 Loss 0.00 error 0.00% 
+Epoch 77 Batch 3 Loss 0.17 error 4.00% 
+Epoch 77 Batch 4 Loss 0.05 error 0.00% 
+Epoch 77 Batch 5 Loss 0.33 error 4.00% 
+Epoch 77 Batch 6 Loss 0.24 error 6.00% 
+Epoch 77 Batch 7 Loss 0.14 error 4.00% 
+Epoch 77 Batch 8 Loss 0.08 error 0.00% 
+Epoch 77 Batch 9 Loss 0.40 error 8.00% 
+Epoch 77 Batch 10 Loss 0.28 error 6.00% 
+Epoch 77 Batch 11 Loss 0.26 error 4.00% 
+Epoch 77 Batch 12 Loss 0.41 error 6.00% 
+Epoch 77 Batch 13 Loss 0.01 error 0.00% 
+Epoch 77 Batch 14 Loss 0.28 error 4.00% 
+Epoch 77 Batch 15 Loss 0.11 error 2.00% 
+Epoch 77 Batch 16 Loss 0.19 error 6.00% 
+Epoch 77 Batch 17 Loss 0.03 error 0.00% 
+Epoch 77 Batch 18 Loss 0.18 error 2.00% 
+Epoch 77 Batch 19 Loss 0.07 error 0.00% 
+
+------------- After Epoch 77 ------------- 
+ 
+Loss: 0.08, Error:  1.50%
+
+-------------Starting epoch 78------------- : 
+Epoch 78 Batch 0 Loss 0.04 error 0.00% 
+Epoch 78 Batch 1 Loss 0.06 error 2.00% 
+Epoch 78 Batch 2 Loss 0.04 error 0.00% 
+Epoch 78 Batch 3 Loss 0.04 error 0.00% 
+Epoch 78 Batch 4 Loss 0.05 error 0.00% 
+Epoch 78 Batch 5 Loss 0.29 error 6.00% 
+Epoch 78 Batch 6 Loss 0.07 error 0.00% 
+Epoch 78 Batch 7 Loss 0.02 error 0.00% 
+Epoch 78 Batch 8 Loss 0.34 error 4.00% 
+Epoch 78 Batch 9 Loss 0.59 error 8.00% 
+Epoch 78 Batch 10 Loss 0.48 error 8.00% 
+Epoch 78 Batch 11 Loss 0.41 error 6.00% 
+Epoch 78 Batch 12 Loss 0.69 error 10.00% 
+Epoch 78 Batch 13 Loss 0.04 error 0.00% 
+Epoch 78 Batch 14 Loss 0.07 error 0.00% 
+Epoch 78 Batch 15 Loss 0.18 error 4.00% 
+Epoch 78 Batch 16 Loss 0.28 error 6.00% 
+Epoch 78 Batch 17 Loss 0.23 error 4.00% 
+Epoch 78 Batch 18 Loss 0.10 error 2.00% 
+Epoch 78 Batch 19 Loss 0.24 error 6.00% 
+
+------------- After Epoch 78 ------------- 
+ 
+Loss: 0.33, Error:  5.20%
+
+-------------Starting epoch 79------------- : 
+Epoch 79 Batch 0 Loss 0.07 error 2.00% 
+Epoch 79 Batch 1 Loss 0.03 error 0.00% 
+Epoch 79 Batch 2 Loss 0.05 error 0.00% 
+Epoch 79 Batch 3 Loss 0.21 error 4.00% 
+Epoch 79 Batch 4 Loss 0.16 error 4.00% 
+Epoch 79 Batch 5 Loss 0.66 error 10.00% 
+Epoch 79 Batch 6 Loss 0.10 error 2.00% 
+Epoch 79 Batch 7 Loss 0.36 error 8.00% 
+Epoch 79 Batch 8 Loss 0.26 error 4.00% 
+Epoch 79 Batch 9 Loss 0.43 error 6.00% 
+Epoch 79 Batch 10 Loss 0.16 error 4.00% 
+Epoch 79 Batch 11 Loss 0.15 error 2.00% 
+Epoch 79 Batch 12 Loss 0.48 error 8.00% 
+Epoch 79 Batch 13 Loss 0.06 error 2.00% 
+Epoch 79 Batch 14 Loss 0.15 error 4.00% 
+Epoch 79 Batch 15 Loss 0.19 error 4.00% 
+Epoch 79 Batch 16 Loss 0.29 error 4.00% 
+Epoch 79 Batch 17 Loss 0.07 error 2.00% 
+Epoch 79 Batch 18 Loss 0.09 error 2.00% 
+Epoch 79 Batch 19 Loss 0.17 error 6.00% 
+
+------------- After Epoch 79 ------------- 
+ 
+Loss: 0.23, Error:  4.00%
+
+-------------Starting epoch 80------------- : 
+Epoch 80 Batch 0 Loss 0.03 error 0.00% 
+Epoch 80 Batch 1 Loss 0.01 error 0.00% 
+Epoch 80 Batch 2 Loss 0.01 error 0.00% 
+Epoch 80 Batch 3 Loss 0.13 error 2.00% 
+Epoch 80 Batch 4 Loss 0.10 error 2.00% 
+Epoch 80 Batch 5 Loss 0.35 error 4.00% 
+Epoch 80 Batch 6 Loss 0.10 error 0.00% 
+Epoch 80 Batch 7 Loss 0.35 error 8.00% 
+Epoch 80 Batch 8 Loss 0.58 error 8.00% 
+Epoch 80 Batch 9 Loss 0.36 error 4.00% 
+Epoch 80 Batch 10 Loss 0.56 error 8.00% 
+Epoch 80 Batch 11 Loss 0.41 error 6.00% 
+Epoch 80 Batch 12 Loss 0.44 error 6.00% 
+Epoch 80 Batch 13 Loss 0.02 error 0.00% 
+Epoch 80 Batch 14 Loss 0.28 error 4.00% 
+Epoch 80 Batch 15 Loss 0.10 error 0.00% 
+Epoch 80 Batch 16 Loss 0.30 error 6.00% 
+Epoch 80 Batch 17 Loss 0.07 error 2.00% 
+Epoch 80 Batch 18 Loss 0.07 error 0.00% 
+Epoch 80 Batch 19 Loss 0.18 error 6.00% 
+
+------------- After Epoch 80 ------------- 
+ 
+Loss: 0.30, Error:  4.80%
+
+-------------Starting epoch 81------------- : 
+Epoch 81 Batch 0 Loss 0.02 error 0.00% 
+Epoch 81 Batch 1 Loss 0.12 error 2.00% 
+Epoch 81 Batch 2 Loss 0.01 error 0.00% 
+Epoch 81 Batch 3 Loss 0.14 error 4.00% 
+Epoch 81 Batch 4 Loss 0.13 error 2.00% 
+Epoch 81 Batch 5 Loss 0.40 error 6.00% 
+Epoch 81 Batch 6 Loss 0.62 error 8.00% 
+Epoch 81 Batch 7 Loss 0.16 error 2.00% 
+Epoch 81 Batch 8 Loss 0.09 error 0.00% 
+Epoch 81 Batch 9 Loss 0.28 error 6.00% 
+Epoch 81 Batch 10 Loss 0.15 error 2.00% 
+Epoch 81 Batch 11 Loss 0.06 error 0.00% 
+Epoch 81 Batch 12 Loss 0.27 error 4.00% 
+Epoch 81 Batch 13 Loss 0.03 error 0.00% 
+Epoch 81 Batch 14 Loss 0.17 error 4.00% 
+Epoch 81 Batch 15 Loss 0.19 error 4.00% 
+Epoch 81 Batch 16 Loss 0.27 error 8.00% 
+Epoch 81 Batch 17 Loss 0.03 error 0.00% 
+Epoch 81 Batch 18 Loss 0.29 error 6.00% 
+Epoch 81 Batch 19 Loss 0.22 error 2.00% 
+
+------------- After Epoch 81 ------------- 
+ 
+Loss: 0.17, Error:  3.10%
+
+-------------Starting epoch 82------------- : 
+Epoch 82 Batch 0 Loss 0.07 error 2.00% 
+Epoch 82 Batch 1 Loss 0.00 error 0.00% 
+Epoch 82 Batch 2 Loss 0.09 error 2.00% 
+Epoch 82 Batch 3 Loss 0.16 error 4.00% 
+Epoch 82 Batch 4 Loss 0.12 error 2.00% 
+Epoch 82 Batch 5 Loss 0.38 error 8.00% 
+Epoch 82 Batch 6 Loss 0.31 error 4.00% 
+Epoch 82 Batch 7 Loss 0.16 error 2.00% 
+Epoch 82 Batch 8 Loss 0.44 error 6.00% 
+Epoch 82 Batch 9 Loss 0.21 error 4.00% 
+Epoch 82 Batch 10 Loss 0.16 error 4.00% 
+Epoch 82 Batch 11 Loss 0.19 error 2.00% 
+Epoch 82 Batch 12 Loss 0.46 error 6.00% 
+Epoch 82 Batch 13 Loss 0.00 error 0.00% 
+Epoch 82 Batch 14 Loss 0.15 error 2.00% 
+Epoch 82 Batch 15 Loss 0.19 error 6.00% 
+Epoch 82 Batch 16 Loss 0.32 error 4.00% 
+Epoch 82 Batch 17 Loss 0.04 error 0.00% 
+Epoch 82 Batch 18 Loss 0.09 error 2.00% 
+Epoch 82 Batch 19 Loss 0.23 error 6.00% 
+
+------------- After Epoch 82 ------------- 
+ 
+Loss: 0.18, Error:  3.40%
+
+-------------Starting epoch 83------------- : 
+Epoch 83 Batch 0 Loss 0.04 error 0.00% 
+Epoch 83 Batch 1 Loss 0.02 error 0.00% 
+Epoch 83 Batch 2 Loss 0.00 error 0.00% 
+Epoch 83 Batch 3 Loss 0.08 error 0.00% 
+Epoch 83 Batch 4 Loss 0.02 error 0.00% 
+Epoch 83 Batch 5 Loss 0.27 error 4.00% 
+Epoch 83 Batch 6 Loss 0.19 error 2.00% 
+Epoch 83 Batch 7 Loss 0.02 error 0.00% 
+Epoch 83 Batch 8 Loss 0.03 error 0.00% 
+Epoch 83 Batch 9 Loss 0.21 error 4.00% 
+Epoch 83 Batch 10 Loss 0.34 error 6.00% 
+Epoch 83 Batch 11 Loss 0.19 error 4.00% 
+Epoch 83 Batch 12 Loss 0.45 error 6.00% 
+Epoch 83 Batch 13 Loss 0.00 error 0.00% 
+Epoch 83 Batch 14 Loss 0.15 error 2.00% 
+Epoch 83 Batch 15 Loss 0.25 error 4.00% 
+Epoch 83 Batch 16 Loss 0.22 error 6.00% 
+Epoch 83 Batch 17 Loss 0.03 error 0.00% 
+Epoch 83 Batch 18 Loss 0.13 error 2.00% 
+Epoch 83 Batch 19 Loss 0.15 error 6.00% 
+
+------------- After Epoch 83 ------------- 
+ 
+Loss: 0.25, Error:  4.50%
+
+-------------Starting epoch 84------------- : 
+Epoch 84 Batch 0 Loss 0.03 error 0.00% 
+Epoch 84 Batch 1 Loss 0.06 error 2.00% 
+Epoch 84 Batch 2 Loss 0.05 error 2.00% 
+Epoch 84 Batch 3 Loss 0.06 error 2.00% 
+Epoch 84 Batch 4 Loss 0.07 error 2.00% 
+Epoch 84 Batch 5 Loss 0.19 error 2.00% 
+Epoch 84 Batch 6 Loss 0.07 error 0.00% 
+Epoch 84 Batch 7 Loss 0.15 error 2.00% 
+Epoch 84 Batch 8 Loss 0.04 error 0.00% 
+Epoch 84 Batch 9 Loss 0.28 error 4.00% 
+Epoch 84 Batch 10 Loss 0.07 error 2.00% 
+Epoch 84 Batch 11 Loss 0.16 error 4.00% 
+Epoch 84 Batch 12 Loss 0.30 error 6.00% 
+Epoch 84 Batch 13 Loss 0.14 error 2.00% 
+Epoch 84 Batch 14 Loss 0.43 error 8.00% 
+Epoch 84 Batch 15 Loss 0.19 error 2.00% 
+Epoch 84 Batch 16 Loss 0.51 error 10.00% 
+Epoch 84 Batch 17 Loss 0.05 error 2.00% 
+Epoch 84 Batch 18 Loss 0.12 error 2.00% 
+Epoch 84 Batch 19 Loss 0.27 error 6.00% 
+
+------------- After Epoch 84 ------------- 
+ 
+Loss: 0.25, Error:  4.00%
+
+-------------Starting epoch 85------------- : 
+Epoch 85 Batch 0 Loss 0.05 error 0.00% 
+Epoch 85 Batch 1 Loss 0.16 error 4.00% 
+Epoch 85 Batch 2 Loss 0.04 error 0.00% 
+Epoch 85 Batch 3 Loss 0.10 error 2.00% 
+Epoch 85 Batch 4 Loss 0.07 error 2.00% 
+Epoch 85 Batch 5 Loss 0.23 error 4.00% 
+Epoch 85 Batch 6 Loss 0.03 error 0.00% 
+Epoch 85 Batch 7 Loss 0.11 error 2.00% 
+Epoch 85 Batch 8 Loss 0.33 error 6.00% 
+Epoch 85 Batch 9 Loss 0.12 error 2.00% 
+Epoch 85 Batch 10 Loss 0.30 error 4.00% 
+Epoch 85 Batch 11 Loss 0.09 error 2.00% 
+Epoch 85 Batch 12 Loss 0.40 error 8.00% 
+Epoch 85 Batch 13 Loss 0.02 error 0.00% 
+Epoch 85 Batch 14 Loss 0.13 error 2.00% 
+Epoch 85 Batch 15 Loss 0.10 error 0.00% 
+Epoch 85 Batch 16 Loss 0.25 error 8.00% 
+Epoch 85 Batch 17 Loss 0.05 error 2.00% 
+Epoch 85 Batch 18 Loss 0.15 error 2.00% 
+Epoch 85 Batch 19 Loss 0.33 error 4.00% 
+
+------------- After Epoch 85 ------------- 
+ 
+Loss: 0.36, Error:  6.10%
+
+-------------Starting epoch 86------------- : 
+Epoch 86 Batch 0 Loss 0.24 error 4.00% 
+Epoch 86 Batch 1 Loss 0.07 error 2.00% 
+Epoch 86 Batch 2 Loss 0.00 error 0.00% 
+Epoch 86 Batch 3 Loss 0.11 error 0.00% 
+Epoch 86 Batch 4 Loss 0.01 error 0.00% 
+Epoch 86 Batch 5 Loss 0.21 error 4.00% 
+Epoch 86 Batch 6 Loss 0.17 error 2.00% 
+Epoch 86 Batch 7 Loss 0.04 error 0.00% 
+Epoch 86 Batch 8 Loss 0.11 error 2.00% 
+Epoch 86 Batch 9 Loss 0.17 error 4.00% 
+Epoch 86 Batch 10 Loss 0.37 error 6.00% 
+Epoch 86 Batch 11 Loss 0.13 error 2.00% 
+Epoch 86 Batch 12 Loss 0.44 error 6.00% 
+Epoch 86 Batch 13 Loss 0.00 error 0.00% 
+Epoch 86 Batch 14 Loss 0.16 error 2.00% 
+Epoch 86 Batch 15 Loss 0.05 error 0.00% 
+Epoch 86 Batch 16 Loss 0.23 error 6.00% 
+Epoch 86 Batch 17 Loss 0.22 error 4.00% 
+Epoch 86 Batch 18 Loss 0.07 error 0.00% 
+Epoch 86 Batch 19 Loss 0.27 error 6.00% 
+
+------------- After Epoch 86 ------------- 
+ 
+Loss: 0.25, Error:  4.70%
+
+-------------Starting epoch 87------------- : 
+Epoch 87 Batch 0 Loss 0.03 error 0.00% 
+Epoch 87 Batch 1 Loss 0.04 error 0.00% 
+Epoch 87 Batch 2 Loss 0.01 error 0.00% 
+Epoch 87 Batch 3 Loss 0.08 error 2.00% 
+Epoch 87 Batch 4 Loss 0.01 error 0.00% 
+Epoch 87 Batch 5 Loss 0.36 error 6.00% 
+Epoch 87 Batch 6 Loss 0.35 error 4.00% 
+Epoch 87 Batch 7 Loss 0.16 error 2.00% 
+Epoch 87 Batch 8 Loss 0.51 error 6.00% 
+Epoch 87 Batch 9 Loss 0.38 error 6.00% 
+Epoch 87 Batch 10 Loss 0.08 error 0.00% 
+Epoch 87 Batch 11 Loss 0.12 error 2.00% 
+Epoch 87 Batch 12 Loss 0.59 error 10.00% 
+Epoch 87 Batch 13 Loss 0.00 error 0.00% 
+Epoch 87 Batch 14 Loss 0.51 error 8.00% 
+Epoch 87 Batch 15 Loss 0.34 error 6.00% 
+Epoch 87 Batch 16 Loss 0.26 error 4.00% 
+Epoch 87 Batch 17 Loss 0.10 error 4.00% 
+Epoch 87 Batch 18 Loss 0.19 error 2.00% 
+Epoch 87 Batch 19 Loss 0.14 error 2.00% 
+
+------------- After Epoch 87 ------------- 
+ 
+Loss: 0.10, Error:  1.40%
+
+-------------Starting epoch 88------------- : 
+Epoch 88 Batch 0 Loss 0.12 error 2.00% 
+Epoch 88 Batch 1 Loss 0.05 error 0.00% 
+Epoch 88 Batch 2 Loss 0.07 error 2.00% 
+Epoch 88 Batch 3 Loss 0.10 error 2.00% 
+Epoch 88 Batch 4 Loss 0.03 error 0.00% 
+Epoch 88 Batch 5 Loss 0.25 error 4.00% 
+Epoch 88 Batch 6 Loss 0.20 error 4.00% 
+Epoch 88 Batch 7 Loss 0.12 error 2.00% 
+Epoch 88 Batch 8 Loss 0.12 error 4.00% 
+Epoch 88 Batch 9 Loss 0.44 error 6.00% 
+Epoch 88 Batch 10 Loss 0.19 error 4.00% 
+Epoch 88 Batch 11 Loss 0.27 error 6.00% 
+Epoch 88 Batch 12 Loss 0.27 error 6.00% 
+Epoch 88 Batch 13 Loss 0.08 error 2.00% 
+Epoch 88 Batch 14 Loss 0.26 error 4.00% 
+Epoch 88 Batch 15 Loss 0.25 error 6.00% 
+Epoch 88 Batch 16 Loss 0.20 error 6.00% 
+Epoch 88 Batch 17 Loss 0.03 error 0.00% 
+Epoch 88 Batch 18 Loss 0.10 error 2.00% 
+Epoch 88 Batch 19 Loss 0.14 error 0.00% 
+
+------------- After Epoch 88 ------------- 
+ 
+Loss: 0.20, Error:  3.50%
+
+-------------Starting epoch 89------------- : 
+Epoch 89 Batch 0 Loss 0.02 error 0.00% 
+Epoch 89 Batch 1 Loss 0.00 error 0.00% 
+Epoch 89 Batch 2 Loss 0.01 error 0.00% 
+Epoch 89 Batch 3 Loss 0.14 error 4.00% 
+Epoch 89 Batch 4 Loss 0.07 error 0.00% 
+Epoch 89 Batch 5 Loss 0.36 error 4.00% 
+Epoch 89 Batch 6 Loss 0.37 error 6.00% 
+Epoch 89 Batch 7 Loss 0.19 error 2.00% 
+Epoch 89 Batch 8 Loss 0.57 error 10.00% 
+Epoch 89 Batch 9 Loss 0.25 error 4.00% 
+Epoch 89 Batch 10 Loss 0.10 error 2.00% 
+Epoch 89 Batch 11 Loss 0.23 error 4.00% 
+Epoch 89 Batch 12 Loss 0.41 error 6.00% 
+Epoch 89 Batch 13 Loss 0.01 error 0.00% 
+Epoch 89 Batch 14 Loss 0.08 error 2.00% 
+Epoch 89 Batch 15 Loss 0.22 error 2.00% 
+Epoch 89 Batch 16 Loss 0.32 error 6.00% 
+Epoch 89 Batch 17 Loss 0.04 error 0.00% 
+Epoch 89 Batch 18 Loss 0.05 error 0.00% 
+Epoch 89 Batch 19 Loss 0.27 error 4.00% 
+
+------------- After Epoch 89 ------------- 
+ 
+Loss: 0.21, Error:  3.60%
+
+-------------Starting epoch 90------------- : 
+Epoch 90 Batch 0 Loss 0.01 error 0.00% 
+Epoch 90 Batch 1 Loss 0.09 error 2.00% 
+Epoch 90 Batch 2 Loss 0.01 error 0.00% 
+Epoch 90 Batch 3 Loss 0.06 error 0.00% 
+Epoch 90 Batch 4 Loss 0.05 error 0.00% 
+Epoch 90 Batch 5 Loss 0.25 error 4.00% 
+Epoch 90 Batch 6 Loss 0.08 error 2.00% 
+Epoch 90 Batch 7 Loss 0.15 error 2.00% 
+Epoch 90 Batch 8 Loss 0.41 error 8.00% 
+Epoch 90 Batch 9 Loss 0.62 error 10.00% 
+Epoch 90 Batch 10 Loss 0.20 error 4.00% 
+Epoch 90 Batch 11 Loss 0.12 error 2.00% 
+Epoch 90 Batch 12 Loss 0.24 error 4.00% 
+Epoch 90 Batch 13 Loss 0.02 error 0.00% 
+Epoch 90 Batch 14 Loss 0.28 error 4.00% 
+Epoch 90 Batch 15 Loss 0.11 error 2.00% 
+Epoch 90 Batch 16 Loss 0.17 error 4.00% 
+Epoch 90 Batch 17 Loss 0.03 error 0.00% 
+Epoch 90 Batch 18 Loss 0.13 error 2.00% 
+Epoch 90 Batch 19 Loss 0.21 error 4.00% 
+
+------------- After Epoch 90 ------------- 
+ 
+Loss: 0.17, Error:  3.30%
+
+-------------Starting epoch 91------------- : 
+Epoch 91 Batch 0 Loss 0.01 error 0.00% 
+Epoch 91 Batch 1 Loss 0.01 error 0.00% 
+Epoch 91 Batch 2 Loss 0.01 error 0.00% 
+Epoch 91 Batch 3 Loss 0.11 error 2.00% 
+Epoch 91 Batch 4 Loss 0.02 error 0.00% 
+Epoch 91 Batch 5 Loss 0.30 error 4.00% 
+Epoch 91 Batch 6 Loss 0.43 error 6.00% 
+Epoch 91 Batch 7 Loss 0.19 error 2.00% 
+Epoch 91 Batch 8 Loss 0.35 error 6.00% 
+Epoch 91 Batch 9 Loss 0.32 error 8.00% 
+Epoch 91 Batch 10 Loss 0.13 error 2.00% 
+Epoch 91 Batch 11 Loss 0.35 error 6.00% 
+Epoch 91 Batch 12 Loss 0.29 error 6.00% 
+Epoch 91 Batch 13 Loss 0.01 error 0.00% 
+Epoch 91 Batch 14 Loss 0.26 error 4.00% 
+Epoch 91 Batch 15 Loss 0.09 error 2.00% 
+Epoch 91 Batch 16 Loss 0.16 error 4.00% 
+Epoch 91 Batch 17 Loss 0.07 error 2.00% 
+Epoch 91 Batch 18 Loss 0.06 error 0.00% 
+Epoch 91 Batch 19 Loss 0.13 error 2.00% 
+
+------------- After Epoch 91 ------------- 
+ 
+Loss: 0.19, Error:  3.40%
+
+-------------Starting epoch 92------------- : 
+Epoch 92 Batch 0 Loss 0.01 error 0.00% 
+Epoch 92 Batch 1 Loss 0.01 error 0.00% 
+Epoch 92 Batch 2 Loss 0.00 error 0.00% 
+Epoch 92 Batch 3 Loss 0.10 error 2.00% 
+Epoch 92 Batch 4 Loss 0.18 error 4.00% 
+Epoch 92 Batch 5 Loss 0.44 error 6.00% 
+Epoch 92 Batch 6 Loss 0.05 error 0.00% 
+Epoch 92 Batch 7 Loss 0.31 error 8.00% 
+Epoch 92 Batch 8 Loss 0.41 error 6.00% 
+Epoch 92 Batch 9 Loss 0.57 error 8.00% 
+Epoch 92 Batch 10 Loss 0.42 error 8.00% 
+Epoch 92 Batch 11 Loss 0.34 error 6.00% 
+Epoch 92 Batch 12 Loss 0.48 error 6.00% 
+Epoch 92 Batch 13 Loss 0.00 error 0.00% 
+Epoch 92 Batch 14 Loss 0.27 error 4.00% 
+Epoch 92 Batch 15 Loss 0.13 error 4.00% 
+Epoch 92 Batch 16 Loss 0.33 error 4.00% 
+Epoch 92 Batch 17 Loss 0.03 error 0.00% 
+Epoch 92 Batch 18 Loss 0.11 error 2.00% 
+Epoch 92 Batch 19 Loss 0.21 error 6.00% 
+
+------------- After Epoch 92 ------------- 
+ 
+Loss: 0.23, Error:  3.90%
+
+-------------Starting epoch 93------------- : 
+Epoch 93 Batch 0 Loss 0.02 error 0.00% 
+Epoch 93 Batch 1 Loss 0.01 error 0.00% 
+Epoch 93 Batch 2 Loss 0.03 error 0.00% 
+Epoch 93 Batch 3 Loss 0.04 error 0.00% 
+Epoch 93 Batch 4 Loss 0.10 error 2.00% 
+Epoch 93 Batch 5 Loss 0.24 error 4.00% 
+Epoch 93 Batch 6 Loss 0.17 error 2.00% 
+Epoch 93 Batch 7 Loss 0.09 error 2.00% 
+Epoch 93 Batch 8 Loss 0.05 error 0.00% 
+Epoch 93 Batch 9 Loss 0.27 error 4.00% 
+Epoch 93 Batch 10 Loss 0.03 error 0.00% 
+Epoch 93 Batch 11 Loss 0.35 error 4.00% 
+Epoch 93 Batch 12 Loss 0.34 error 6.00% 
+Epoch 93 Batch 13 Loss 0.36 error 6.00% 
+Epoch 93 Batch 14 Loss 0.26 error 4.00% 
+Epoch 93 Batch 15 Loss 0.31 error 4.00% 
+Epoch 93 Batch 16 Loss 0.80 error 10.00% 
+Epoch 93 Batch 17 Loss 0.38 error 6.00% 
+Epoch 93 Batch 18 Loss 0.08 error 2.00% 
+Epoch 93 Batch 19 Loss 0.34 error 6.00% 
+
+------------- After Epoch 93 ------------- 
+ 
+Loss: 0.19, Error:  3.50%
+
+-------------Starting epoch 94------------- : 
+Epoch 94 Batch 0 Loss 0.16 error 4.00% 
+Epoch 94 Batch 1 Loss 0.17 error 2.00% 
+Epoch 94 Batch 2 Loss 0.29 error 4.00% 
+Epoch 94 Batch 3 Loss 0.29 error 6.00% 
+Epoch 94 Batch 4 Loss 0.18 error 2.00% 
+Epoch 94 Batch 5 Loss 0.27 error 8.00% 
+Epoch 94 Batch 6 Loss 0.13 error 2.00% 
+Epoch 94 Batch 7 Loss 0.16 error 2.00% 
+Epoch 94 Batch 8 Loss 0.32 error 4.00% 
+Epoch 94 Batch 9 Loss 0.38 error 8.00% 
+Epoch 94 Batch 10 Loss 0.14 error 4.00% 
+Epoch 94 Batch 11 Loss 0.10 error 0.00% 
+Epoch 94 Batch 12 Loss 0.36 error 6.00% 
+Epoch 94 Batch 13 Loss 0.00 error 0.00% 
+Epoch 94 Batch 14 Loss 0.19 error 4.00% 
+Epoch 94 Batch 15 Loss 0.15 error 4.00% 
+Epoch 94 Batch 16 Loss 0.19 error 4.00% 
+Epoch 94 Batch 17 Loss 0.04 error 0.00% 
+Epoch 94 Batch 18 Loss 0.13 error 2.00% 
+Epoch 94 Batch 19 Loss 0.15 error 4.00% 
+
+------------- After Epoch 94 ------------- 
+ 
+Loss: 0.15, Error:  2.90%
+
+-------------Starting epoch 95------------- : 
+Epoch 95 Batch 0 Loss 0.06 error 2.00% 
+Epoch 95 Batch 1 Loss 0.03 error 0.00% 
+Epoch 95 Batch 2 Loss 0.00 error 0.00% 
+Epoch 95 Batch 3 Loss 0.09 error 2.00% 
+Epoch 95 Batch 4 Loss 0.02 error 0.00% 
+Epoch 95 Batch 5 Loss 0.31 error 6.00% 
+Epoch 95 Batch 6 Loss 0.42 error 6.00% 
+Epoch 95 Batch 7 Loss 0.17 error 2.00% 
+Epoch 95 Batch 8 Loss 0.36 error 6.00% 
+Epoch 95 Batch 9 Loss 0.28 error 4.00% 
+Epoch 95 Batch 10 Loss 0.06 error 2.00% 
+Epoch 95 Batch 11 Loss 0.19 error 4.00% 
+Epoch 95 Batch 12 Loss 0.27 error 6.00% 
+Epoch 95 Batch 13 Loss 0.04 error 0.00% 
+Epoch 95 Batch 14 Loss 0.14 error 2.00% 
+Epoch 95 Batch 15 Loss 0.20 error 4.00% 
+Epoch 95 Batch 16 Loss 0.18 error 4.00% 
+Epoch 95 Batch 17 Loss 0.07 error 2.00% 
+Epoch 95 Batch 18 Loss 0.12 error 2.00% 
+Epoch 95 Batch 19 Loss 0.24 error 6.00% 
+
+------------- After Epoch 95 ------------- 
+ 
+Loss: 0.11, Error:  1.70%
+
+-------------Starting epoch 96------------- : 
+Epoch 96 Batch 0 Loss 0.06 error 0.00% 
+Epoch 96 Batch 1 Loss 0.02 error 0.00% 
+Epoch 96 Batch 2 Loss 0.00 error 0.00% 
+Epoch 96 Batch 3 Loss 0.02 error 0.00% 
+Epoch 96 Batch 4 Loss 0.03 error 0.00% 
+Epoch 96 Batch 5 Loss 0.11 error 2.00% 
+Epoch 96 Batch 6 Loss 0.09 error 2.00% 
+Epoch 96 Batch 7 Loss 0.19 error 4.00% 
+Epoch 96 Batch 8 Loss 0.27 error 6.00% 
+Epoch 96 Batch 9 Loss 0.34 error 4.00% 
+Epoch 96 Batch 10 Loss 0.42 error 6.00% 
+Epoch 96 Batch 11 Loss 0.13 error 2.00% 
+Epoch 96 Batch 12 Loss 0.30 error 8.00% 
+Epoch 96 Batch 13 Loss 0.10 error 2.00% 
+Epoch 96 Batch 14 Loss 0.11 error 2.00% 
+Epoch 96 Batch 15 Loss 0.28 error 6.00% 
+Epoch 96 Batch 16 Loss 0.24 error 4.00% 
+Epoch 96 Batch 17 Loss 0.04 error 0.00% 
+Epoch 96 Batch 18 Loss 0.10 error 2.00% 
+Epoch 96 Batch 19 Loss 0.15 error 4.00% 
+
+------------- After Epoch 96 ------------- 
+ 
+Loss: 0.19, Error:  3.50%
+
+-------------Starting epoch 97------------- : 
+Epoch 97 Batch 0 Loss 0.03 error 0.00% 
+Epoch 97 Batch 1 Loss 0.00 error 0.00% 
+Epoch 97 Batch 2 Loss 0.00 error 0.00% 
+Epoch 97 Batch 3 Loss 0.15 error 2.00% 
+Epoch 97 Batch 4 Loss 0.05 error 0.00% 
+Epoch 97 Batch 5 Loss 0.32 error 4.00% 
+Epoch 97 Batch 6 Loss 0.29 error 4.00% 
+Epoch 97 Batch 7 Loss 0.10 error 2.00% 
+Epoch 97 Batch 8 Loss 0.08 error 2.00% 
+Epoch 97 Batch 9 Loss 0.18 error 2.00% 
+Epoch 97 Batch 10 Loss 0.33 error 6.00% 
+Epoch 97 Batch 11 Loss 0.14 error 2.00% 
+Epoch 97 Batch 12 Loss 0.44 error 6.00% 
+Epoch 97 Batch 13 Loss 0.00 error 0.00% 
+Epoch 97 Batch 14 Loss 0.22 error 4.00% 
+Epoch 97 Batch 15 Loss 0.14 error 4.00% 
+Epoch 97 Batch 16 Loss 0.27 error 4.00% 
+Epoch 97 Batch 17 Loss 0.27 error 4.00% 
+Epoch 97 Batch 18 Loss 0.10 error 2.00% 
+Epoch 97 Batch 19 Loss 0.10 error 2.00% 
+
+------------- After Epoch 97 ------------- 
+ 
+Loss: 0.08, Error:  1.20%
+
+-------------Starting epoch 98------------- : 
+Epoch 98 Batch 0 Loss 0.10 error 2.00% 
+Epoch 98 Batch 1 Loss 0.08 error 2.00% 
+Epoch 98 Batch 2 Loss 0.03 error 0.00% 
+Epoch 98 Batch 3 Loss 0.07 error 2.00% 
+Epoch 98 Batch 4 Loss 0.02 error 0.00% 
+Epoch 98 Batch 5 Loss 0.32 error 6.00% 
+Epoch 98 Batch 6 Loss 0.32 error 4.00% 
+Epoch 98 Batch 7 Loss 0.16 error 2.00% 
+Epoch 98 Batch 8 Loss 0.43 error 6.00% 
+Epoch 98 Batch 9 Loss 0.16 error 2.00% 
+Epoch 98 Batch 10 Loss 0.08 error 2.00% 
+Epoch 98 Batch 11 Loss 0.15 error 2.00% 
+Epoch 98 Batch 12 Loss 0.34 error 6.00% 
+Epoch 98 Batch 13 Loss 0.00 error 0.00% 
+Epoch 98 Batch 14 Loss 0.07 error 2.00% 
+Epoch 98 Batch 15 Loss 0.13 error 4.00% 
+Epoch 98 Batch 16 Loss 0.17 error 4.00% 
+Epoch 98 Batch 17 Loss 0.21 error 2.00% 
+Epoch 98 Batch 18 Loss 0.15 error 2.00% 
+Epoch 98 Batch 19 Loss 0.17 error 4.00% 
+
+------------- After Epoch 98 ------------- 
+ 
+Loss: 0.18, Error:  3.50%
+
+-------------Starting epoch 99------------- : 
+Epoch 99 Batch 0 Loss 0.06 error 2.00% 
+Epoch 99 Batch 1 Loss 0.00 error 0.00% 
+Epoch 99 Batch 2 Loss 0.00 error 0.00% 
+Epoch 99 Batch 3 Loss 0.17 error 4.00% 
+Epoch 99 Batch 4 Loss 0.03 error 0.00% 
+Epoch 99 Batch 5 Loss 0.29 error 4.00% 
+Epoch 99 Batch 6 Loss 0.34 error 6.00% 
+Epoch 99 Batch 7 Loss 0.07 error 2.00% 
+Epoch 99 Batch 8 Loss 0.05 error 0.00% 
+Epoch 99 Batch 9 Loss 0.27 error 6.00% 
+Epoch 99 Batch 10 Loss 0.17 error 4.00% 
+Epoch 99 Batch 11 Loss 0.19 error 4.00% 
+Epoch 99 Batch 12 Loss 0.34 error 4.00% 
+Epoch 99 Batch 13 Loss 0.00 error 0.00% 
+Epoch 99 Batch 14 Loss 0.35 error 6.00% 
+Epoch 99 Batch 15 Loss 0.13 error 4.00% 
+Epoch 99 Batch 16 Loss 0.30 error 6.00% 
+Epoch 99 Batch 17 Loss 0.12 error 4.00% 
+Epoch 99 Batch 18 Loss 0.07 error 0.00% 
+Epoch 99 Batch 19 Loss 0.14 error 2.00% 
+
+------------- After Epoch 99 ------------- 
+ 
+Loss: 0.19, Error:  3.40%
+Final Train Error: 3.40% 
+Final Test Error: 3.70% 
